@@ -1,0 +1,1084 @@
+
+message：1-80  2018-10-27 11:00:07
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18102710387852089525
+message：51-80  2018-10-29 16:39:35
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18102916390973204569
+message：手机号不存在15221341325  2018-10-29 19:56:44
+s:721:"a:1:{s:5:"value";a:2:{s:5:"signs";s:4:"true";s:4:"body";a:2:{s:4:"body";a:8:{s:6:"acctNo";s:13:"1013000814101";s:10:"bankMobile";s:11:"15221341326";s:8:"bankName";s:18:"中国工商银行";s:6:"cardNo";s:14:"621226****0764";s:6:"certNo";s:18:"410522198501012877";s:8:"custName";s:9:"陈方杰";s:6:"custNo";s:18:"110131810270008141";s:13:"registerPhone";s:11:"15221341326";}s:4:"head";a:10:{s:7:"bizFlow";s:21:"011201810270954032219";s:10:"merOrderNo";s:20:"18102709541304433729";s:10:"merchantNo";s:15:"131010000011013";s:8:"respCode";s:6:"000000";s:8:"respDesc";s:6:"成功";s:9:"tradeCode";s:6:"CG1044";s:9:"tradeDate";s:8:"20181027";s:9:"tradeTime";s:6:"095523";s:9:"tradeType";s:2:"01";s:7:"version";s:5:"1.0.0";}}}}";
+message：手机号不存在15221341325  2018-10-29 19:59:41
+s:721:"a:1:{s:5:"value";a:2:{s:5:"signs";s:4:"true";s:4:"body";a:2:{s:4:"body";a:8:{s:6:"acctNo";s:13:"1013000814101";s:10:"bankMobile";s:11:"15221341326";s:8:"bankName";s:18:"中国工商银行";s:6:"cardNo";s:14:"621226****0764";s:6:"certNo";s:18:"410522198501012877";s:8:"custName";s:9:"陈方杰";s:6:"custNo";s:18:"110131810270008141";s:13:"registerPhone";s:11:"15221341326";}s:4:"head";a:10:{s:7:"bizFlow";s:21:"011201810270954032219";s:10:"merOrderNo";s:20:"18102709541304433729";s:10:"merchantNo";s:15:"131010000011013";s:8:"respCode";s:6:"000000";s:8:"respDesc";s:6:"成功";s:9:"tradeCode";s:6:"CG1044";s:9:"tradeDate";s:8:"20181027";s:9:"tradeTime";s:6:"095523";s:9:"tradeType";s:2:"01";s:7:"version";s:5:"1.0.0";}}}}";
+message：手机号不存在15221341325  2018-10-29 20:01:07
+s:721:"a:1:{s:5:"value";a:2:{s:5:"signs";s:4:"true";s:4:"body";a:2:{s:4:"body";a:8:{s:6:"acctNo";s:13:"1013000814101";s:10:"bankMobile";s:11:"15221341326";s:8:"bankName";s:18:"中国工商银行";s:6:"cardNo";s:14:"621226****0764";s:6:"certNo";s:18:"410522198501012877";s:8:"custName";s:9:"陈方杰";s:6:"custNo";s:18:"110131810270008141";s:13:"registerPhone";s:11:"15221341326";}s:4:"head";a:10:{s:7:"bizFlow";s:21:"011201810270954032219";s:10:"merOrderNo";s:20:"18102709541304433729";s:10:"merchantNo";s:15:"131010000011013";s:8:"respCode";s:6:"000000";s:8:"respDesc";s:6:"成功";s:9:"tradeCode";s:6:"CG1044";s:9:"tradeDate";s:8:"20181027";s:9:"tradeTime";s:6:"095523";s:9:"tradeType";s:2:"01";s:7:"version";s:5:"1.0.0";}}}}";
+message：131-80  2018-10-30 10:31:01
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18103010300286903187
+message：26-80  2018-10-30 10:41:55
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18103010414279088887
+message：26-80  2018-10-30 10:44:10
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18103010440474045401
+message：63-80  2018-10-30 11:25:59
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18103011251967180624
+message：71-80  2018-10-30 11:35:54
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18103011352608602990
+message：71-80  2018-10-30 11:36:25
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18103011369572982355
+message：71-80  2018-10-30 11:36:54
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18103011360883475900
+message：0-41  2018-10-30 12:47:29
+提现记录表(members_moneylog)出错,请手动处理.订单号为:18103012472204792167
+message：0-30  2018-10-30 12:47:29
+a:4:{s:5:"money";a:1:{s:13:"account_money";d:-108;}s:3:"log";a:14:{s:3:"uid";s:1:"0";s:4:"type";i:10;s:12:"affect_money";d:108;s:13:"account_money";d:-108;s:13:"collect_money";N;s:12:"freeze_money";N;s:4:"info";s:27:"提现108元，提现成功";s:8:"add_time";i:1540874849;s:9:"actualAmt";d:0;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:0;s:6:"acctNo";s:13:"1013000821601";s:3:"nid";s:20:"18103012472204792167";}s:9:"payonline";a:9:{s:3:"uid";s:1:"0";s:3:"nid";s:20:"18103012472204792167";s:5:"money";d:108;s:3:"way";s:0:"";s:4:"bank";N;s:6:"status";i:1;s:8:"add_time";i:1540874849;s:6:"remark";N;s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：60-82  2018-10-30 12:50:37
+提现失败.原因账户余额不足订单号为:18103012504987015174
+message：60-82  2018-10-30 12:51:37
+提现失败.原因账户余额不足订单号为:18103012514842915295
+message：21-80  2018-10-30 16:57:46
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18103016578959840775
+message：21-80  2018-10-30 17:02:06
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18103017018835271691
+message：21-80  2018-10-30 17:17:10
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18103017175259031138
+message：129-80  2018-10-30 19:51:47
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18103019512251702374
+message：20-80  2018-10-30 20:25:02
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18103020249564577454
+message：136-80  2018-10-30 20:53:33
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18103020531488088330
+
+message：  2018-10-30 22:00:01
+a:10:{s:4:"name";s:6:"陈炜";s:5:"phone";s:11:"15068356785";s:6:"idcard";s:18:"330822197506170024";s:7:"addtime";i:1540908000;s:3:"sex";i:1;s:4:"mode";s:15:"保时捷迈凯";s:5:"price";d:340000;s:3:"pic";s:623:"/code/20181030/0c4f6a76065994cfdcdc7820bef37a64.png,/code/20181030/45faca1b84b76b87a4fe22bd73ebcc87.png,/code/20181030/64715c3537f95299093d057ea7d14ec6.png,/code/20181030/3a4c5e6cd2802395ab68acc7ac9e8333.png,/code/20181030/022929ba091f78385c6d5805734c8fec.png,/code/20181030/de2427b40a128b68a8d16834aa70947e.png,/code/20181030/6a9dd4b6ca8db23ca77e8a6cb0d708eb.png,/code/20181030/74ee328468681bb4b6cbabb56dfe41fc.png,/code/20181030/2bc690c727d0aaf35bc98c1dd4ea69eb.png,/code/20181030/737390c63d30316f7e3a4c726c2f32f1.png,/code/20181030/cfad11a51cf03be8fce6f8361e1d4fec.png,/code/20181030/51f0199d8949017a6d8928349d7f8872.png";s:9:"accountId";s:32:"C85949EBA8A14664A7641179E300C3F5";s:8:"sealPath";s:47:"/contracts/seal/015409080011810302203087625.jpg";}
+message：  2018-10-30 22:02:46
+a:10:{s:4:"name";s:6:"陈雪";s:5:"phone";s:11:"13105730574";s:6:"idcard";s:18:"330422197302010027";s:7:"addtime";i:1540908165;s:3:"sex";i:1;s:4:"mode";s:24:"梅赛德斯奔驰CLS320";s:5:"price";d:336000;s:3:"pic";s:623:"/code/20181030/d90c25cac2806e0e257fd896cb4c42e5.png,/code/20181030/7307ed5b510d25ca5d108d444ce489a2.png,/code/20181030/5de6de9e9d2ed850aa69bf5f8b74ffe6.png,/code/20181030/62722f441aa2c91d7fb6c6484c46255a.png,/code/20181030/da4a6a7c677ca99e5356ea58e9a9ec1d.png,/code/20181030/23065d56642c07f9005f4787006d62b4.png,/code/20181030/a58fe66c5c4de85bad725533ca242221.png,/code/20181030/9fa94410680921ee8738988325d4dddf.png,/code/20181030/7a0f9822e2408bbc5f1608cad4ed3baa.png,/code/20181030/2042fcf69e8c7048054a44d1dc48710a.png,/code/20181030/e24ab1ceb454027070eea0453582ff01.png,/code/20181030/928d7debd97f62dd6d4a59d4031b8ee6.png";s:9:"accountId";s:32:"58F90A809EC8480F88040092BBCACBB9";s:8:"sealPath";s:47:"/contracts/seal/015409081661810302245763257.jpg";}
+message：20-80  2018-10-31 08:44:02
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18103108433920612453
+message：71-80  2018-10-31 09:55:13
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18103109551608773620
+message：30-80  2018-10-31 11:06:16
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18103111054474250020
+message：137-80  2018-10-31 11:18:51
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18103111187298878750
+message：115-80  2018-10-31 11:26:24
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18103111267933171945
+message：86-80  2018-10-31 11:53:57
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18103111530194427475
+message：0-41  2018-10-31 12:23:38
+提现记录表(members_moneylog)出错,请手动处理.订单号为:18103112231637402904
+message：0-30  2018-10-31 12:23:38
+a:4:{s:5:"money";a:1:{s:13:"account_money";d:-1604;}s:3:"log";a:14:{s:3:"uid";s:1:"0";s:4:"type";i:10;s:12:"affect_money";d:1604;s:13:"account_money";d:-1604;s:13:"collect_money";N;s:12:"freeze_money";N;s:4:"info";s:28:"提现1604元，提现成功";s:8:"add_time";i:1540959818;s:9:"actualAmt";d:0;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:0;s:6:"acctNo";s:13:"1013000827901";s:3:"nid";s:20:"18103112231637402904";}s:9:"payonline";a:9:{s:3:"uid";s:1:"0";s:3:"nid";s:20:"18103112231637402904";s:5:"money";d:1604;s:3:"way";s:0:"";s:4:"bank";N;s:6:"status";i:1;s:8:"add_time";i:1540959818;s:6:"remark";N;s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：0-41  2018-10-31 12:24:10
+提现记录表(members_moneylog)出错,请手动处理.订单号为:18103112244468866695
+message：0-82  2018-10-31 12:24:10
+提现失败.原因账户余额不足订单号为:18103112244468866695
+message：0-41  2018-10-31 12:33:25
+提现记录表(members_moneylog)出错,请手动处理.订单号为:18103112337146716085
+message：0-82  2018-10-31 12:33:25
+提现失败.原因账户余额不足订单号为:18103112337146716085
+message：186-82  2018-10-31 14:30:02
+提现失败.原因处理中订单号为:18103114294712685452
+message：186-82  2018-10-31 14:30:42
+提现失败.原因账户余额不足订单号为:18103114308788117199
+message：0-41  2018-10-31 15:10:48
+提现记录表(members_moneylog)出错,请手动处理.订单号为:18103115102564307239
+message：0-30  2018-10-31 15:10:48
+a:4:{s:5:"money";a:1:{s:13:"account_money";d:-200;}s:3:"log";a:14:{s:3:"uid";s:1:"0";s:4:"type";i:10;s:12:"affect_money";d:200;s:13:"account_money";d:-200;s:13:"collect_money";N;s:12:"freeze_money";N;s:4:"info";s:27:"提现200元，提现成功";s:8:"add_time";i:1540969848;s:9:"actualAmt";d:0;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:0;s:6:"acctNo";s:13:"1013000835301";s:3:"nid";s:20:"18103115102564307239";}s:9:"payonline";a:9:{s:3:"uid";s:1:"0";s:3:"nid";s:20:"18103115102564307239";s:5:"money";d:200;s:3:"way";s:0:"";s:4:"bank";N;s:6:"status";i:1;s:8:"add_time";i:1540969848;s:6:"remark";N;s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：0-41  2018-10-31 15:14:24
+提现记录表(members_moneylog)出错,请手动处理.订单号为:18103115141017566235
+message：0-82  2018-10-31 15:14:24
+提现失败.原因账户余额不足订单号为:18103115141017566235
+message：0-41  2018-10-31 15:15:56
+提现记录表(members_moneylog)出错,请手动处理.订单号为:18103115152960957493
+message：0-30  2018-10-31 15:15:56
+a:4:{s:5:"money";a:1:{s:13:"account_money";d:-100;}s:3:"log";a:14:{s:3:"uid";s:1:"0";s:4:"type";i:10;s:12:"affect_money";d:100;s:13:"account_money";d:-100;s:13:"collect_money";N;s:12:"freeze_money";N;s:4:"info";s:27:"提现100元，提现成功";s:8:"add_time";i:1540970156;s:9:"actualAmt";d:0;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:0;s:6:"acctNo";s:13:"1013000835301";s:3:"nid";s:20:"18103115152960957493";}s:9:"payonline";a:9:{s:3:"uid";s:1:"0";s:3:"nid";s:20:"18103115152960957493";s:5:"money";d:100;s:3:"way";s:0:"";s:4:"bank";N;s:6:"status";i:1;s:8:"add_time";i:1540970156;s:6:"remark";N;s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：70-80  2018-10-31 15:16:31
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18103115161322373044
+message：0-41  2018-10-31 15:17:12
+提现记录表(members_moneylog)出错,请手动处理.订单号为:18103115173956768975
+message：0-30  2018-10-31 15:17:12
+a:4:{s:5:"money";a:1:{s:13:"account_money";d:-100;}s:3:"log";a:14:{s:3:"uid";s:1:"0";s:4:"type";i:10;s:12:"affect_money";d:100;s:13:"account_money";d:-100;s:13:"collect_money";N;s:12:"freeze_money";N;s:4:"info";s:27:"提现100元，提现成功";s:8:"add_time";i:1540970232;s:9:"actualAmt";d:9.8;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:9.8;s:6:"acctNo";s:13:"1013000822801";s:3:"nid";s:20:"18103115173956768975";}s:9:"payonline";a:9:{s:3:"uid";s:1:"0";s:3:"nid";s:20:"18103115173956768975";s:5:"money";d:100;s:3:"way";s:0:"";s:4:"bank";N;s:6:"status";i:1;s:8:"add_time";i:1540970232;s:6:"remark";N;s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：0-41  2018-10-31 15:17:49
+提现记录表(members_moneylog)出错,请手动处理.订单号为:18103115177514006727
+message：0-82  2018-10-31 15:17:49
+提现失败.原因账户余额不足订单号为:18103115177514006727
+message：0-41  2018-10-31 15:18:54
+提现记录表(members_moneylog)出错,请手动处理.订单号为:18103115184750416847
+message：0-30  2018-10-31 15:18:54
+a:4:{s:5:"money";a:1:{s:13:"account_money";d:-100;}s:3:"log";a:14:{s:3:"uid";s:1:"0";s:4:"type";i:10;s:12:"affect_money";d:100;s:13:"account_money";d:-100;s:13:"collect_money";N;s:12:"freeze_money";N;s:4:"info";s:27:"提现100元，提现成功";s:8:"add_time";i:1540970334;s:9:"actualAmt";d:0;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:0;s:6:"acctNo";s:13:"1013000835301";s:3:"nid";s:20:"18103115184750416847";}s:9:"payonline";a:9:{s:3:"uid";s:1:"0";s:3:"nid";s:20:"18103115184750416847";s:5:"money";d:100;s:3:"way";s:0:"";s:4:"bank";N;s:6:"status";i:1;s:8:"add_time";i:1540970334;s:6:"remark";N;s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：6-82  2018-10-31 15:19:55
+提现失败.原因交易暂不支持订单号为:18103115191971020907
+message：6-82  2018-10-31 15:21:25
+提现失败.原因交易暂不支持订单号为:18103115211856344706
+message：0-41  2018-10-31 15:23:33
+提现记录表(members_moneylog)出错,请手动处理.订单号为:18103115239303268632
+message：0-30  2018-10-31 15:23:33
+a:4:{s:5:"money";a:1:{s:13:"account_money";d:-100;}s:3:"log";a:14:{s:3:"uid";s:1:"0";s:4:"type";i:10;s:12:"affect_money";d:100;s:13:"account_money";d:-100;s:13:"collect_money";N;s:12:"freeze_money";N;s:4:"info";s:27:"提现100元，提现成功";s:8:"add_time";i:1540970613;s:9:"actualAmt";d:0;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:0;s:6:"acctNo";s:13:"1013000813101";s:3:"nid";s:20:"18103115239303268632";}s:9:"payonline";a:9:{s:3:"uid";s:1:"0";s:3:"nid";s:20:"18103115239303268632";s:5:"money";d:100;s:3:"way";s:0:"";s:4:"bank";N;s:6:"status";i:1;s:8:"add_time";i:1540970613;s:6:"remark";N;s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：8-82  2018-10-31 15:23:59
+提现失败.原因交易暂不支持订单号为:18103115238849492291
+message：131-80  2018-10-31 15:46:07
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18103115459807016484
+message：0-41  2018-10-31 15:46:30
+提现记录表(members_moneylog)出错,请手动处理.订单号为:18103115469645493417
+message：0-30  2018-10-31 15:46:30
+a:4:{s:5:"money";a:1:{s:13:"account_money";d:-100;}s:3:"log";a:14:{s:3:"uid";s:1:"0";s:4:"type";i:10;s:12:"affect_money";d:100;s:13:"account_money";d:-100;s:13:"collect_money";N;s:12:"freeze_money";N;s:4:"info";s:27:"提现100元，提现成功";s:8:"add_time";i:1540971990;s:9:"actualAmt";d:2641;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:2641;s:6:"acctNo";s:13:"1013000819001";s:3:"nid";s:20:"18103115469645493417";}s:9:"payonline";a:9:{s:3:"uid";s:1:"0";s:3:"nid";s:20:"18103115469645493417";s:5:"money";d:100;s:3:"way";s:0:"";s:4:"bank";N;s:6:"status";i:1;s:8:"add_time";i:1540971990;s:6:"remark";N;s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：0-41  2018-10-31 15:47:25
+提现记录表(members_moneylog)出错,请手动处理.订单号为:18103115474730466086
+message：0-30  2018-10-31 15:47:25
+a:4:{s:5:"money";a:1:{s:13:"account_money";d:-100;}s:3:"log";a:14:{s:3:"uid";s:1:"0";s:4:"type";i:10;s:12:"affect_money";d:100;s:13:"account_money";d:-100;s:13:"collect_money";N;s:12:"freeze_money";N;s:4:"info";s:27:"提现100元，提现成功";s:8:"add_time";i:1540972045;s:9:"actualAmt";d:0;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:0;s:6:"acctNo";s:13:"1013000835301";s:3:"nid";s:20:"18103115474730466086";}s:9:"payonline";a:9:{s:3:"uid";s:1:"0";s:3:"nid";s:20:"18103115474730466086";s:5:"money";d:100;s:3:"way";s:0:"";s:4:"bank";N;s:6:"status";i:1;s:8:"add_time";i:1540972045;s:6:"remark";N;s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：0-41  2018-10-31 15:47:29
+提现记录表(members_moneylog)出错,请手动处理.订单号为:18103115473782250790
+message：0-30  2018-10-31 15:47:29
+a:4:{s:5:"money";a:1:{s:13:"account_money";d:-100;}s:3:"log";a:14:{s:3:"uid";s:1:"0";s:4:"type";i:10;s:12:"affect_money";d:100;s:13:"account_money";d:-100;s:13:"collect_money";N;s:12:"freeze_money";N;s:4:"info";s:27:"提现100元，提现成功";s:8:"add_time";i:1540972049;s:9:"actualAmt";d:2541;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:2541;s:6:"acctNo";s:13:"1013000819001";s:3:"nid";s:20:"18103115473782250790";}s:9:"payonline";a:9:{s:3:"uid";s:1:"0";s:3:"nid";s:20:"18103115473782250790";s:5:"money";d:100;s:3:"way";s:0:"";s:4:"bank";N;s:6:"status";i:1;s:8:"add_time";i:1540972049;s:6:"remark";N;s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：0-41  2018-10-31 15:47:50
+提现记录表(members_moneylog)出错,请手动处理.订单号为:18103115474730332490
+message：0-82  2018-10-31 15:47:50
+提现失败.原因账户余额不足订单号为:18103115474730332490
+message：1-80  2018-10-31 15:48:29
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18103115486070468907
+message：0-41  2018-10-31 15:49:06
+提现记录表(members_moneylog)出错,请手动处理.订单号为:18103115486632064545
+message：0-30  2018-10-31 15:49:06
+a:4:{s:5:"money";a:1:{s:13:"account_money";d:-100;}s:3:"log";a:14:{s:3:"uid";s:1:"0";s:4:"type";i:10;s:12:"affect_money";d:100;s:13:"account_money";d:-100;s:13:"collect_money";N;s:12:"freeze_money";N;s:4:"info";s:27:"提现100元，提现成功";s:8:"add_time";i:1540972146;s:9:"actualAmt";d:4;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:4;s:6:"acctNo";s:13:"1013000814101";s:3:"nid";s:20:"18103115486632064545";}s:9:"payonline";a:9:{s:3:"uid";s:1:"0";s:3:"nid";s:20:"18103115486632064545";s:5:"money";d:100;s:3:"way";s:0:"";s:4:"bank";N;s:6:"status";i:1;s:8:"add_time";i:1540972146;s:6:"remark";N;s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：1-80  2018-10-31 15:50:04
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18103115499963240452
+message：1-80  2018-10-31 15:59:33
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18103115595637924636
+message：  2018-10-31 18:37:00
+a:10:{s:4:"name";s:9:"朱国松";s:5:"phone";s:11:"18923011526";s:6:"idcard";s:18:"441426198201270678";s:7:"addtime";i:1540982219;s:3:"sex";i:1;s:4:"mode";s:15:"戴纳肯GLS450";s:5:"price";d:664000;s:3:"pic";s:727:"/code/20181031/5a73c4d9f420cbcbb39f2fbab4fabb01.png,/code/20181031/25217012a7c2bf18c38e11fb1fdb1cc1.png,/code/20181031/7c3d0d83f858cebededa5552328e58b6.png,/code/20181031/c1a4915b9be8127f5a8804a93d236da8.png,/code/20181031/d39bfab4f16a96421597efbb79036bc0.png,/code/20181031/3db950d86d0c69e601ee36027b00cdac.png,/code/20181031/d6645a91e3580052d0665cbd97e31d96.png,/code/20181031/67eb993d96eb12afb832188f0cdbb7ec.png,/code/20181031/38ba022cdfaaabb84f8e37ae2bd3ed0b.png,/code/20181031/29a85608bfca8b509f46553ffffcb6bf.png,/code/20181031/ccbe863738b6e435dbb1f4f6efe47654.png,/code/20181031/870de38ef24b00b9ebc9c48941e88726.png,/code/20181031/a32470e487b4633db3d797c428056d08.png,/code/20181031/a635c69513de3d5cf5bdbc1661e2ea24.png";s:9:"accountId";s:32:"0E19C1AF460D48F29E9301D394115CB8";s:8:"sealPath";s:47:"/contracts/seal/015409822201810311869670341.jpg";}
+message：  2018-10-31 18:40:28
+a:10:{s:4:"name";s:9:"黄维永";s:5:"phone";s:11:"13000672163";s:6:"idcard";s:18:"330329197903071430";s:7:"addtime";i:1540982426;s:3:"sex";i:1;s:4:"mode";s:11:"宝马740Li";s:5:"price";d:258000;s:3:"pic";s:727:"/code/20181031/5e20aeb564778277ae33c9ee5222b610.png,/code/20181031/cc7c514b9733e5c5ed7dd5cb99ad1d20.png,/code/20181031/f555517f56319e037e3b974ea0b7f61f.png,/code/20181031/e1c4c0e25c5dfd95916a824ccda58e3f.png,/code/20181031/c8cafdefe47827f7f9344f5517fbdd9c.png,/code/20181031/338b625bb15e2b0c82b119c9ac58522d.png,/code/20181031/119e5ed8d8d9fa9568b2556205a20ec7.png,/code/20181031/3d066684504831ee02752eea0bf19d56.png,/code/20181031/c5426d02e235e6182233cca8a57ce728.png,/code/20181031/56fbd48ccfb3c84eecd373f9bb44c744.png,/code/20181031/5a1d5a13ba1345a3ff609e540d49735b.png,/code/20181031/25da11b8567e6241a4e5bea1b747ee43.png,/code/20181031/dd4243828eedfd2d3ec48fc4b6aac6da.png,/code/20181031/785df327aaa5797ef545fab54222ee9b.png";s:9:"accountId";s:32:"65D5142B2DD546E9A7BC8D6A448E5B94";s:8:"sealPath";s:47:"/contracts/seal/015409824281810311896996433.jpg";}
+message：  2018-10-31 18:46:37
+a:10:{s:4:"name";s:9:"李君钰";s:5:"phone";s:11:"13979773648";s:6:"idcard";s:18:"360722199401156022";s:7:"addtime";i:1540982796;s:3:"sex";i:1;s:4:"mode";s:18:"广汽本田凌派";s:5:"price";d:78000;s:3:"pic";s:727:"/code/20181031/b95b37970f6e2fa152285fa8f995374c.png,/code/20181031/09a1f98b56ef59abe5870ff51d2dd09c.png,/code/20181031/50b698d608eb9edc489dad7f5bd75759.png,/code/20181031/a80819791f8f731e9260b96bf45c4cdf.png,/code/20181031/25ab64e652967344b31175775ceb08a0.png,/code/20181031/fd9bab929bbb90742aedea4411cd383c.png,/code/20181031/103f804a05bed27f9fa5a0f2aaa460d1.png,/code/20181031/dc3d82a7185aa6e334e9a10a3c5e79a2.png,/code/20181031/701c88723885f2623501758fde987265.png,/code/20181031/2a75fc520719c71d9247187aae4c01dc.png,/code/20181031/e973752dc0a52750fd7fda826d305b76.png,/code/20181031/6cc2aef4c572a0d75246d5d367899256.png,/code/20181031/c43af199e5a10f3f1156ad553c065252.png,/code/20181031/3f0efbac975d46cb1131ca3be1bb5ef5.png";s:9:"accountId";s:32:"BCCB6F1E725F4C32B3E6ABD088306875";s:8:"sealPath";s:47:"/contracts/seal/015409827971810311826822311.jpg";}
+message：  2018-10-31 18:52:30
+a:10:{s:4:"name";s:9:"陈志联";s:5:"phone";s:11:"13015881563";s:6:"idcard";s:18:"350583198208190136";s:7:"addtime";i:1540983149;s:3:"sex";i:1;s:4:"mode";s:12:"沃尔沃S80";s:5:"price";d:77000;s:3:"pic";s:727:"/code/20181031/5f9f470e10279e18d443b643d7696d55.png,/code/20181031/8bcd3794fe6af7bd28d196200da850ec.png,/code/20181031/51ca8e01550ddcdd3b856523517964e6.png,/code/20181031/e3bf2b47afe63f52c3622a17ccf27bf8.png,/code/20181031/5976f4915b7b8006d7a37e0d9bf4cd2b.png,/code/20181031/4c682346f109556cc63ddb368754a144.png,/code/20181031/1c0a3c5a58cef56008c23f97237d43a2.png,/code/20181031/2794a629a6ea7b150a8e0e8f3f6ff642.png,/code/20181031/efde13e6ae0fa01a7e40451c6a91c498.png,/code/20181031/010385b3b5a7bc1d2631db681a2413a5.png,/code/20181031/9c097327b5b017ed312c5a832f9cd3c2.png,/code/20181031/f66996c54a0e2dcf6eabb8c822d1c2ea.png,/code/20181031/1ba6d3ec82fc29b6463d433f415ea3b5.png,/code/20181031/c5a9f17b79f9c08b8be070867c879f17.png";s:9:"accountId";s:32:"3F5479DDB6CE4E2B8AFD72397B9D1826";s:8:"sealPath";s:47:"/contracts/seal/015409831501810311828608194.jpg";}
+message：  2018-10-31 18:57:09
+a:10:{s:4:"name";s:9:"陈大红";s:5:"phone";s:11:"15068378245";s:6:"idcard";s:18:"330411195804262816";s:7:"addtime";i:1540983427;s:3:"sex";i:1;s:4:"mode";s:8:"奥迪Q7";s:5:"price";d:310000;s:3:"pic";s:623:"/code/20181031/80dc8d27fc38e64e607fd796c98df184.png,/code/20181031/bd2db8ac3b827a392558c3fd5e4ff0f5.png,/code/20181031/f093617b50637da99f57c76774c6c10e.png,/code/20181031/255a44eff820ca7c3de7aaa27d7c1ca6.png,/code/20181031/badec9ff7411b2337b4470de397b926d.png,/code/20181031/589a2a767bbb01782598a75ebecd635b.png,/code/20181031/7c04df4728340144365a2bc55b6247f3.png,/code/20181031/26423bd3d5ebbcdeb07762e83143629f.png,/code/20181031/f88af76d7410dc6dfc48d090c65dc3c8.png,/code/20181031/e4ef9aacd5d03b1e516e1ea3d155ccbd.png,/code/20181031/c54295fb916332f80b34034636050ba4.png,/code/20181031/fd8af1d2448204d882e7375672b43bfc.png";s:9:"accountId";s:32:"41FC096E32374A958194CDA0227496B1";s:8:"sealPath";s:47:"/contracts/seal/015409834291810311813297171.jpg";}
+message：  2018-10-31 18:59:48
+a:10:{s:4:"name";s:9:"杨洪刚";s:5:"phone";s:11:"13505332645";s:6:"idcard";s:18:"370323197301101419";s:7:"addtime";i:1540983587;s:3:"sex";i:1;s:4:"mode";s:15:"本田奥德赛";s:5:"price";d:136000;s:3:"pic";s:623:"/code/20181031/688ba074a9a89d98dfb2d483fe0c58cc.png,/code/20181031/8338f35fe54cc4fc22026b7b9c3ea1d8.png,/code/20181031/297cccbaf5220009d57f7632ead59339.png,/code/20181031/d3259fc899acc63b1b4a2d1de3470fce.png,/code/20181031/089f7a0ab043e91312b25be08e3b81a7.png,/code/20181031/c8b9128bb447b4fc584b9622fba4a9a6.png,/code/20181031/1a24267b121842878489b5332b5bc5b7.png,/code/20181031/263682c5c706cc57dde994491f513c33.png,/code/20181031/23b2fc1d8db4d4c6db3c854d22c1a7bb.png,/code/20181031/5eae692d014ab12717d3d009643e3fce.png,/code/20181031/8db2461a3d1699ee8f7884d4fb85535f.png,/code/20181031/a31ebe906974843bcef7aa5248d4558d.png";s:9:"accountId";s:32:"81F797319BD94B91BE0A05E66C4A4BBB";s:8:"sealPath";s:47:"/contracts/seal/015409835881810311839168026.jpg";}
+message：  2018-10-31 19:04:49
+a:10:{s:4:"name";s:9:"葛祺佳";s:5:"phone";s:11:"13505731547";s:6:"idcard";s:18:"330402198309080019";s:7:"addtime";i:1540983888;s:3:"sex";i:1;s:4:"mode";s:16:"英菲尼迪Q50L";s:5:"price";d:162000;s:3:"pic";s:675:"/code/20181031/eb0b0693d3725a204f6d3a2854103f28.png,/code/20181031/bc1d5ab79aa45d25d63c85787cd2628e.png,/code/20181031/9c1abef9cdd42d86ddd117bd51561053.png,/code/20181031/52b8189de6b18ae926161c5516d7e06e.png,/code/20181031/e18d14adfb51cc4a0d385eb2941f9f0c.png,/code/20181031/c2ef68a75ae71ccc736077a27d611f77.png,/code/20181031/bafb09e6261f349ac0b81fd24762eae0.png,/code/20181031/b30b3da7e11f6988667fd95d77da8a28.png,/code/20181031/ba0876571dd907f9d0c7d2b310912da3.png,/code/20181031/555dc36e299269cf1ebf3dfc3a7c61ca.png,/code/20181031/628ed406aae1da580279cfdb7c2bf19a.png,/code/20181031/c490fa7478b080447fec0a74a56ec28b.png,/code/20181031/58c1b1b433042f5abc6e24502e1fad1e.png";s:9:"accountId";s:32:"80AED9D56D374AAFAD27A6296693A24F";s:8:"sealPath";s:47:"/contracts/seal/015409838891810311963319366.jpg";}
+message：  2018-10-31 19:07:36
+a:10:{s:4:"name";s:9:"赵华深";s:5:"phone";s:11:"13431925645";s:6:"idcard";s:18:"440402197906015734";s:7:"addtime";i:1540984054;s:3:"sex";i:1;s:4:"mode";s:10:"奔驰R350";s:5:"price";d:394000;s:3:"pic";s:727:"/code/20181031/a89ee457ee2fb65f0bfb708966951976.png,/code/20181031/61f26adb86b5bc45601a8ce5472d4c10.png,/code/20181031/f1cac39a3319b59492a2dab5574530d2.png,/code/20181031/bfe9c581f72a8a2f12335d257a4eb96f.png,/code/20181031/02b9a22ff2aa2898b3a0902f87823109.png,/code/20181031/1645aa97bc173486b4e04c3edc4dde40.png,/code/20181031/722632be8ee732f4a25b8df322f25d21.png,/code/20181031/effc819295d7b23fd2badf910a4b9b5e.png,/code/20181031/ac9398bf63fb7727ded4e5da397d2f41.png,/code/20181031/d03ffce53b7e078b634e7cfa04f67a06.png,/code/20181031/9f2faaedfff51d2a0f3f10e36382a109.png,/code/20181031/df1dcc397d283bd04a8d0c6a22882a0a.png,/code/20181031/4b5f6860f4ec9fe4c182468a2ed09ca9.png,/code/20181031/a238673b836bd79ca2f189b57c6a42cb.png";s:9:"accountId";s:32:"F351A7359AE049D4B3C6A7C69766F5B2";s:8:"sealPath";s:47:"/contracts/seal/015409840561810311930911166.jpg";}
+message：  2018-10-31 19:08:02
+a:10:{s:4:"name";s:9:"苏基昌";s:5:"phone";s:11:"13004802455";s:6:"idcard";s:18:"350582197311112055";s:7:"addtime";i:1540984081;s:3:"sex";i:1;s:4:"mode";s:8:"宝马X3";s:5:"price";d:220000;s:3:"pic";s:675:"/code/20181031/621dabd298975e468daf0e4c7fc6b972.png,/code/20181031/624b71a66beb585173fd258078ddb811.png,/code/20181031/281cbd56485ff881793c76e3c02e8517.png,/code/20181031/2d92c4116eeda83b74d0c3cd02ddc3d1.png,/code/20181031/db2fcf64a60252645ec294cbc96060af.png,/code/20181031/da260192999df0a0b49bdbb74428324a.png,/code/20181031/e9fa7346200db51655ca99a23b74c874.png,/code/20181031/a64dca1ffef7100e96c028520499766b.png,/code/20181031/fc5da4559f799c6dbd47a85058993727.png,/code/20181031/14e6eea2ab347015bf576b6a4c496e3b.png,/code/20181031/7057941177dc4c87d36813440ba8e2a8.png,/code/20181031/87e2079affe35681dc7567c5f6d4ada1.png,/code/20181031/56a5be9025a9d428864df190c0955bb2.png";s:9:"accountId";s:32:"E8E43D63F46F4A94BBAA53EF7BFFF8EA";s:8:"sealPath";s:47:"/contracts/seal/015409840821810311937556462.jpg";}
+message：  2018-10-31 19:10:21
+a:10:{s:4:"name";s:9:"曹宝荣";s:5:"phone";s:11:"13100351536";s:6:"idcard";s:18:"432823197211110819";s:7:"addtime";i:1540984219;s:3:"sex";i:1;s:4:"mode";s:8:"起亚K3";s:5:"price";d:62000;s:3:"pic";s:727:"/code/20181031/860331262024c736023011dad7ef45b2.png,/code/20181031/a1417418d4a8492033fefd6df69a9b7d.png,/code/20181031/4c4a86e88110d878b318b37ab33ab4aa.png,/code/20181031/29bc40ea8cc8dee7c2963eaf1f29afe1.png,/code/20181031/ec7db0932c4f8eb631942045e0402db5.png,/code/20181031/7b64b94ff4c4dbb8d7c11e360db51ac0.png,/code/20181031/4e7dee4c9c0a433ce50067dc8c4f12cc.png,/code/20181031/a76866b4d39e6a30314b655593873eb7.png,/code/20181031/dd0046b72fb3d318fc175e6b88bbedb3.png,/code/20181031/e8efb357db57d6bb542a2341f97a0aec.png,/code/20181031/ac3808fb4b4e1968aeb805602b56ead1.png,/code/20181031/1d393a7cc0b3de01754298a1ea14f77d.png,/code/20181031/883238ef31123dffbc4f5d5c2d55f903.png,/code/20181031/cf6a9873bbcf7108ddb2d86cd9cddb20.png";s:9:"accountId";s:32:"32014C44D5994615A21C0C30EBD41F16";s:8:"sealPath";s:47:"/contracts/seal/015409842211810311972826175.jpg";}
+message：  2018-10-31 19:10:35
+a:10:{s:4:"name";s:6:"杨飞";s:5:"phone";s:11:"15557525458";s:6:"idcard";s:18:"330621198908222998";s:7:"addtime";i:1540984234;s:3:"sex";i:1;s:4:"mode";s:21:"保时捷帕纳美拉";s:5:"price";d:287000;s:3:"pic";s:675:"/code/20181031/166a23066012fce104ac944179fbaa55.png,/code/20181031/61dc1e8d951e6f07747417e5802939b0.png,/code/20181031/717bde514b0d040ec63f5bc9b476a313.png,/code/20181031/8fffcaa744cc2eeb63d886448145719b.png,/code/20181031/28b5c02c6db30200bef67bb8e5b84fc1.png,/code/20181031/ef179d52be3d5f0999d070bcc6b7cdbe.png,/code/20181031/ce9479bce34b77e4c1e143fce151f17a.png,/code/20181031/851bc0e20a0b8925b2e47b7449ebbdf5.png,/code/20181031/0e07328c74228c7d3b9739bfa4bcf750.png,/code/20181031/e91c664b03f41f363f956b230b225be0.png,/code/20181031/f153b2e3ef88ddc5deac0754f1289868.png,/code/20181031/86bcd64db3731bd9030dcd5cfeb48d65.png,/code/20181031/7ae27d40c9a433c3e8b999348c671792.png";s:9:"accountId";s:32:"CB27599AF43549438AA0BD6712E5ADDC";s:8:"sealPath";s:47:"/contracts/seal/015409842351810311977898506.jpg";}
+message：  2018-10-31 19:13:02
+a:10:{s:4:"name";s:9:"牛亚新";s:5:"phone";s:11:"13008065158";s:6:"idcard";s:18:"140428199104111611";s:7:"addtime";i:1540984380;s:3:"sex";i:1;s:4:"mode";s:15:"斯柯达晶锐";s:5:"price";d:63000;s:3:"pic";s:727:"/code/20181031/b76ebad09b49923a164ccceae80f52f6.png,/code/20181031/13101919430692ee9822d87712e6f97b.png,/code/20181031/558632f3544e69b6f9e4066d529ae944.png,/code/20181031/da4c3dd1a36c2f0e35c3ec473fbe74c8.png,/code/20181031/6f559dc2225806211906b249b45aee52.png,/code/20181031/4163f4e2d0bf9bbbb995fdb789a29ad5.png,/code/20181031/6c461db7affa99805817e4d74b0170d0.png,/code/20181031/99b30f378f4ad743313b5585e82d6429.png,/code/20181031/412ac2cb3b77bb01bada437ca4de2c13.png,/code/20181031/76456073b18561f2efd114a24389519e.png,/code/20181031/5635ea8fbd7b54df41b7ff5f80c6fa17.png,/code/20181031/bd2d03f3ff06c70d2b796192822fa1eb.png,/code/20181031/2dd9165081067371f388cf9885b1b968.png,/code/20181031/841467808367040e0ae4176e0cf0ea0c.png";s:9:"accountId";s:32:"C883FEDCD5CF4FFDAAA7C4932DE0F32A";s:8:"sealPath";s:47:"/contracts/seal/015409843821810311972192005.jpg";}
+message：  2018-10-31 19:15:42
+a:10:{s:4:"name";s:9:"陈兴军";s:5:"phone";s:11:"13762015482";s:6:"idcard";s:18:"430626198501257713";s:7:"addtime";i:1540984541;s:3:"sex";i:1;s:4:"mode";s:9:"金龙牌";s:5:"price";d:47000;s:3:"pic";s:727:"/code/20181031/8276dbd986b1b6c3cecc8cef554d81d1.png,/code/20181031/9d06f3a60cab76220d65e65314a15b65.png,/code/20181031/c6ac5db29d250770053d4d93d59adf83.png,/code/20181031/124e73b383f318c27a84c6b58e87edad.png,/code/20181031/0bf21a3bc274a5db7b3a76c711c6e1eb.png,/code/20181031/974f86a156b0c96e319464ce7d7b3419.png,/code/20181031/b516bcf179bf30339a33c7708653dc9e.png,/code/20181031/0f99314d42569f26bd4afdb773ea9938.png,/code/20181031/88fe4ed4752ce52e456524243a44fe0d.png,/code/20181031/353990873f8ed89a3e78104280b8c289.png,/code/20181031/fae812be8b50bf81063e1c843aecd746.png,/code/20181031/69f2ece7ceb6cdb43d2bd187a2cd4808.png,/code/20181031/65a71491f05d62e8f42e83748c370caf.png,/code/20181031/48c0881eb49ef2eff05bd884639a0f66.png";s:9:"accountId";s:32:"FFD274D801AB49369D3CD18C4E4C0C8F";s:8:"sealPath";s:47:"/contracts/seal/015409845421810311910275593.jpg";}
+message：162-82  2018-11-01 10:28:27
+提现失败.原因账户余额不足订单号为:18110110271074666974数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"162";s:4:"type";i:10;s:12:"affect_money";d:400;s:13:"account_money";d:0;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:27:"提现400元，提现成功";s:8:"add_time";i:1541039307;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"18110110271074666974";}s:9:"payonline";a:9:{s:3:"uid";s:3:"162";s:3:"nid";s:20:"18110110271074666974";s:5:"money";d:400;s:3:"way";s:0:"";s:4:"bank";s:14:"621226****1705";s:6:"status";i:1;s:8:"add_time";i:1541039307;s:6:"remark";s:18:"中国工商银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：34-80  2018-11-01 11:17:01
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18110111165996432792
+message：115-80  2018-11-01 11:33:20
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18110111334011659795
+message：20-80  2018-11-02 11:14:30
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18110211144063933867
+message：20-80  2018-11-02 13:09:15
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18110213087628577848
+message：20-80  2018-11-02 13:11:36
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18110213102077819104
+message：20-80  2018-11-03 13:56:51
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18110313568100811826
+message：20-80  2018-11-03 20:31:05
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18110320305642378557
+message：20-80  2018-11-03 20:31:23
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18110320315660609896
+message：20-80  2018-11-03 21:13:48
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18110321131981273782
+message：20-80  2018-11-04 11:22:54
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18110411220698077461
+message：34-80  2018-11-04 20:14:22
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18110420147374747403
+message：20-80  2018-11-04 22:30:49
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18110422301771863362
+message：275-82  2018-11-05 10:01:18
+提现失败.原因交易暂不支持订单号为:18110510016216844653数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"275";s:4:"type";i:10;s:12:"affect_money";d:1000000;s:13:"account_money";d:0;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:31:"提现1000000元，提现成功";s:8:"add_time";i:1541383278;s:9:"actualAmt";d:1000000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:1000000;s:6:"acctNo";s:13:"1013000860501";s:3:"nid";s:20:"18110510016216844653";}s:9:"payonline";a:9:{s:3:"uid";s:3:"275";s:3:"nid";s:20:"18110510016216844653";s:5:"money";d:1000000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1541383278;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：275-82  2018-11-05 10:01:56
+提现失败.原因交易暂不支持订单号为:18110510019100483022数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"275";s:4:"type";i:10;s:12:"affect_money";d:1000000;s:13:"account_money";d:0;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:31:"提现1000000元，提现成功";s:8:"add_time";i:1541383316;s:9:"actualAmt";d:1000000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:1000000;s:6:"acctNo";s:13:"1013000860501";s:3:"nid";s:20:"18110510019100483022";}s:9:"payonline";a:9:{s:3:"uid";s:3:"275";s:3:"nid";s:20:"18110510019100483022";s:5:"money";d:1000000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1541383316;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：256-82  2018-11-05 11:29:06
+提现失败.原因交易暂不支持订单号为:18110511283010042893数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"256";s:4:"type";i:10;s:12:"affect_money";d:500000;s:13:"account_money";d:0;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现500000元，提现成功";s:8:"add_time";i:1541388546;s:9:"actualAmt";d:500000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:500000;s:6:"acctNo";s:13:"1013000855701";s:3:"nid";s:20:"18110511283010042893";}s:9:"payonline";a:9:{s:3:"uid";s:3:"256";s:3:"nid";s:20:"18110511283010042893";s:5:"money";d:500000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1541388546;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：258-82  2018-11-05 15:12:00
+提现失败.原因交易暂不支持订单号为:18110515113274910808数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"258";s:4:"type";i:10;s:12:"affect_money";d:700000;s:13:"account_money";d:0;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现700000元，提现成功";s:8:"add_time";i:1541401920;s:9:"actualAmt";d:700000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:700000;s:6:"acctNo";s:13:"1013000856501";s:3:"nid";s:20:"18110515113274910808";}s:9:"payonline";a:9:{s:3:"uid";s:3:"258";s:3:"nid";s:20:"18110515113274910808";s:5:"money";d:700000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1541401920;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：20-80  2018-11-06 16:59:39
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18110616599796022172
+message：20-80  2018-11-07 11:31:48
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18110711311647708704
+message：20-80  2018-11-07 15:17:05
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18110715162180556217
+message：20-80  2018-11-07 15:41:10
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18110715404101216179
+message：20-80  2018-11-08 10:31:36
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18110810307614419417
+message：115-80  2018-11-08 13:30:14
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18110813307715612209
+message：137-80  2018-11-09 10:05:05
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18110910048792526380
+message：20-80  2018-11-09 12:59:38
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18110912595510278178
+message：20-80  2018-11-09 12:59:52
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18110912599351828508
+message：137-80  2018-11-10 09:32:09
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18111009312907566259
+message：115-80  2018-11-10 10:11:07
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18111010114990475864
+message：20-80  2018-11-11 12:47:21
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18111112461908468843
+message：20-80  2018-11-11 13:45:36
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18111113455087834855
+message：137-80  2018-11-11 13:45:53
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18111113455575784811
+message：377-82  2018-11-12 10:46:49
+提现失败.原因交易暂不支持订单号为:18111210462307938415数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:400000;}s:3:"log";a:14:{s:3:"uid";s:3:"377";s:4:"type";i:10;s:12:"affect_money";d:200000;s:13:"account_money";d:400000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现200000元，提现成功";s:8:"add_time";i:1541990809;s:9:"actualAmt";d:600000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:600000;s:6:"acctNo";s:13:"1013000861901";s:3:"nid";s:20:"18111210462307938415";}s:9:"payonline";a:9:{s:3:"uid";s:3:"377";s:3:"nid";s:20:"18111210462307938415";s:5:"money";d:200000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1541990809;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：377-82  2018-11-12 10:48:11
+提现失败.原因交易暂不支持订单号为:18111210473516164996数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:400000;}s:3:"log";a:14:{s:3:"uid";s:3:"377";s:4:"type";i:10;s:12:"affect_money";d:200000;s:13:"account_money";d:400000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现200000元，提现成功";s:8:"add_time";i:1541990891;s:9:"actualAmt";d:600000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:600000;s:6:"acctNo";s:13:"1013000861901";s:3:"nid";s:20:"18111210473516164996";}s:9:"payonline";a:9:{s:3:"uid";s:3:"377";s:3:"nid";s:20:"18111210473516164996";s:5:"money";d:200000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1541990891;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：20-80  2018-11-13 11:55:14
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18111311548229631135
+message：20-80  2018-11-13 13:22:29
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18111313212876420028
+message：20-80  2018-11-14 11:53:10
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18111411522499607233
+message：137-80  2018-11-15 11:21:16
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18111511204525714596
+message：20-80  2018-11-15 16:45:01
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18111516448641436837
+message：137-80  2018-11-15 19:47:29
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18111519470799037928
+message：20-80  2018-11-15 21:23:55
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18111521232118947525
+message：20-80  2018-11-16 13:20:04
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18111613199675956346
+message：20-80  2018-11-17 14:42:48
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18111714422483850477
+message：20-80  2018-11-18 18:10:33
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18111818105588962902
+message：20-80  2018-11-18 20:34:17
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18111820345150263495
+message：20-80  2018-11-18 20:37:46
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18111820374079018530
+message：115-80  2018-11-18 20:58:48
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18111820585031071358
+message：137-80  2018-11-18 21:01:44
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18111821011327364717
+message：300-82  2018-11-19 11:16:58
+提现失败.原因交易暂不支持订单号为:18111911165501949301数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"300";s:4:"type";i:10;s:12:"affect_money";d:600000;s:13:"account_money";d:0;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现600000元，提现成功";s:8:"add_time";i:1542597418;s:9:"actualAmt";d:600000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:600000;s:6:"acctNo";s:13:"1013000862201";s:3:"nid";s:20:"18111911165501949301";}s:9:"payonline";a:9:{s:3:"uid";s:3:"300";s:3:"nid";s:20:"18111911165501949301";s:5:"money";d:600000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1542597418;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：300-82  2018-11-19 11:21:04
+提现失败.原因交易暂不支持订单号为:18111911203183617933数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:200000;}s:3:"log";a:14:{s:3:"uid";s:3:"300";s:4:"type";i:10;s:12:"affect_money";d:200000;s:13:"account_money";d:200000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现200000元，提现成功";s:8:"add_time";i:1542597664;s:9:"actualAmt";d:400000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:400000;s:6:"acctNo";s:13:"1013000862201";s:3:"nid";s:20:"18111911203183617933";}s:9:"payonline";a:9:{s:3:"uid";s:3:"300";s:3:"nid";s:20:"18111911203183617933";s:5:"money";d:200000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1542597664;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：332-82  2018-11-19 13:04:34
+提现失败.原因交易暂不支持订单号为:18111913044293411705数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"332";s:4:"type";i:10;s:12:"affect_money";d:400000;s:13:"account_money";d:0;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现400000元，提现成功";s:8:"add_time";i:1542603874;s:9:"actualAmt";d:400000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:400000;s:6:"acctNo";s:13:"1013000863201";s:3:"nid";s:20:"18111913044293411705";}s:9:"payonline";a:9:{s:3:"uid";s:3:"332";s:3:"nid";s:20:"18111913044293411705";s:5:"money";d:400000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1542603874;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：34-80  2018-11-19 16:42:29
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18111916421422235843
+message：20-80  2018-11-19 21:55:26
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18111921552196533719
+message：34-80  2018-11-20 11:21:46
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112011216544598290
+message：20-80  2018-11-20 12:16:36
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112012162128720853
+message：30-80  2018-11-20 17:14:26
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112017149300401409
+message：20-80  2018-11-21 11:32:56
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112111325928652861
+message：20-80  2018-11-21 16:39:27
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112116390799810926
+message：30-80  2018-11-21 22:00:35
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112122002287362509
+message：20-80  2018-11-21 23:42:12
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112123411166801402
+message：137-80  2018-11-22 05:45:48
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112205452408242892
+message：115-80  2018-11-22 08:25:09
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112208247982504682
+message：115-80  2018-11-22 08:25:29
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112208250107969094
+message：20-80  2018-11-22 11:24:58
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112211247682062028
+message：115-80  2018-11-22 11:28:20
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112211288345764000
+message：115-80  2018-11-22 12:29:50
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112212290096765998
+message：137-80  2018-11-23 08:44:00
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112308432461656009
+message：115-80  2018-11-23 08:53:40
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112308538090205020
+message：115-80  2018-11-23 08:54:52
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112308541338243631
+message：20-80  2018-11-23 10:17:51
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112310176875635974
+message：137-80  2018-11-23 10:20:46
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112310207806019687
+message：20-80  2018-11-23 10:30:16
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112310297737343380
+message：20-80  2018-11-23 10:31:53
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112310315306111787
+message：20-80  2018-11-23 11:06:49
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112311062651928860
+message：20-80  2018-11-23 11:27:56
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112311271134894240
+message：229-82  2018-11-23 11:47:12
+提现失败.原因未定义的错误码订单号为:18112311467740602069数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"229";s:4:"type";i:10;s:12:"affect_money";d:180;s:13:"account_money";d:0;s:13:"collect_money";s:8:"12000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:27:"提现180元，提现成功";s:8:"add_time";i:1542944832;s:9:"actualAmt";d:180;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:180;s:6:"acctNo";s:13:"1013000857201";s:3:"nid";s:20:"18112311467740602069";}s:9:"payonline";a:9:{s:3:"uid";s:3:"229";s:3:"nid";s:20:"18112311467740602069";s:5:"money";d:180;s:3:"way";s:0:"";s:4:"bank";s:14:"601382****9494";s:6:"status";i:1;s:8:"add_time";i:1542944832;s:6:"remark";s:12:"中国银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：229-82  2018-11-23 11:47:56
+提现失败.原因未定义的错误码订单号为:18112311479976279081数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"229";s:4:"type";i:10;s:12:"affect_money";d:180;s:13:"account_money";d:0;s:13:"collect_money";s:8:"12000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:27:"提现180元，提现成功";s:8:"add_time";i:1542944876;s:9:"actualAmt";d:180;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:180;s:6:"acctNo";s:13:"1013000857201";s:3:"nid";s:20:"18112311479976279081";}s:9:"payonline";a:9:{s:3:"uid";s:3:"229";s:3:"nid";s:20:"18112311479976279081";s:5:"money";d:180;s:3:"way";s:0:"";s:4:"bank";s:14:"601382****9494";s:6:"status";i:1;s:8:"add_time";i:1542944876;s:6:"remark";s:12:"中国银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：20-80  2018-11-23 12:38:23
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112312375625646546
+message：115-82  2018-11-23 18:09:13
+提现失败.原因账户余额不足订单号为:18112318090556618688数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"115";s:4:"type";i:10;s:12:"affect_money";d:1704;s:13:"account_money";d:0;s:13:"collect_money";s:9:"400400.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:28:"提现1704元，提现成功";s:8:"add_time";i:1542967753;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"18112318090556618688";}s:9:"payonline";a:9:{s:3:"uid";s:3:"115";s:3:"nid";s:20:"18112318090556618688";s:5:"money";d:1704;s:3:"way";s:0:"";s:4:"bank";s:14:"622280****8073";s:6:"status";i:1;s:8:"add_time";i:1542967753;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：115-82  2018-11-23 18:09:27
+提现失败.原因账户余额不足订单号为:18112318096045640704数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:4;}s:3:"log";a:14:{s:3:"uid";s:3:"115";s:4:"type";i:10;s:12:"affect_money";d:1700;s:13:"account_money";d:4;s:13:"collect_money";s:9:"400400.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:28:"提现1700元，提现成功";s:8:"add_time";i:1542967767;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"18112318096045640704";}s:9:"payonline";a:9:{s:3:"uid";s:3:"115";s:3:"nid";s:20:"18112318096045640704";s:5:"money";d:1700;s:3:"way";s:0:"";s:4:"bank";s:14:"622280****8073";s:6:"status";i:1;s:8:"add_time";i:1542967767;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：20-80  2018-11-24 09:30:09
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112409296775855208
+message：115-80  2018-11-24 14:44:57
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112414443400523993
+message：137-80  2018-11-25 06:10:54
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112506106920825189
+message：20-80  2018-11-25 09:18:38
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112509187235416367
+message：470-82  2018-11-25 10:50:04
+提现失败.原因交易暂不支持订单号为:18112510496533256949数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:64000;}s:3:"log";a:14:{s:3:"uid";s:3:"470";s:4:"type";i:10;s:12:"affect_money";d:48000;s:13:"account_money";d:64000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现48000元，提现成功";s:8:"add_time";i:1543114204;s:9:"actualAmt";d:112000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:112000;s:6:"acctNo";s:13:"1013000927601";s:3:"nid";s:20:"18112510496533256949";}s:9:"payonline";a:9:{s:3:"uid";s:3:"470";s:3:"nid";s:20:"18112510496533256949";s:5:"money";d:48000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1543114204;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：137-80  2018-11-25 12:39:23
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112512388741921593
+message：470-82  2018-11-26 09:34:21
+提现失败.原因交易暂不支持订单号为:18112609341795536936数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"470";s:4:"type";i:10;s:12:"affect_money";d:112000;s:13:"account_money";d:0;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现112000元，提现成功";s:8:"add_time";i:1543196061;s:9:"actualAmt";d:112000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:112000;s:6:"acctNo";s:13:"1013000927601";s:3:"nid";s:20:"18112609341795536936";}s:9:"payonline";a:9:{s:3:"uid";s:3:"470";s:3:"nid";s:20:"18112609341795536936";s:5:"money";d:112000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1543196061;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：470-82  2018-11-26 13:28:29
+提现失败.原因交易暂不支持订单号为:18112613281412066465数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"470";s:4:"type";i:10;s:12:"affect_money";d:111900;s:13:"account_money";d:0;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现111900元，提现成功";s:8:"add_time";i:1543210109;s:9:"actualAmt";d:111900;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:111900;s:6:"acctNo";s:13:"1013000927601";s:3:"nid";s:20:"18112613281412066465";}s:9:"payonline";a:9:{s:3:"uid";s:3:"470";s:3:"nid";s:20:"18112613281412066465";s:5:"money";d:111900;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1543210109;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：470-82  2018-11-26 13:29:38
+提现失败.原因交易暂不支持订单号为:18112613291987632345数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:66900;}s:3:"log";a:14:{s:3:"uid";s:3:"470";s:4:"type";i:10;s:12:"affect_money";d:45000;s:13:"account_money";d:66900;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现45000元，提现成功";s:8:"add_time";i:1543210178;s:9:"actualAmt";d:111900;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:111900;s:6:"acctNo";s:13:"1013000927601";s:3:"nid";s:20:"18112613291987632345";}s:9:"payonline";a:9:{s:3:"uid";s:3:"470";s:3:"nid";s:20:"18112613291987632345";s:5:"money";d:45000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1543210178;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：470-82  2018-11-26 13:32:50
+提现失败.原因交易暂不支持订单号为:18112613321260958325数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:101900;}s:3:"log";a:14:{s:3:"uid";s:3:"470";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:101900;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1543210370;s:9:"actualAmt";d:111900;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:111900;s:6:"acctNo";s:13:"1013000927601";s:3:"nid";s:20:"18112613321260958325";}s:9:"payonline";a:9:{s:3:"uid";s:3:"470";s:3:"nid";s:20:"18112613321260958325";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1543210370;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：20-80  2018-11-27 09:41:41
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112709408139148107
+message：34-80  2018-11-27 11:14:14
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112711135660362896
+message：20-80  2018-11-27 12:20:17
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112712197597550588
+message：20-80  2018-11-27 14:40:19
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112714396885252783
+message：137-80  2018-11-27 15:20:40
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112715201779235683
+message：20-80  2018-11-28 16:54:51
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112816542705315333
+message：20-80  2018-11-29 12:10:38
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112912104242073231
+message：137-80  2018-11-29 14:13:53
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18112914139879484908
+message：425-82  2018-11-29 17:20:37
+提现失败.原因账户余额不足订单号为:18112917200852164385数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"425";s:4:"type";i:10;s:12:"affect_money";d:100;s:13:"account_money";d:0;s:13:"collect_money";s:8:"11000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:27:"提现100元，提现成功";s:8:"add_time";i:1543483237;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"18112917200852164385";}s:9:"payonline";a:9:{s:3:"uid";s:3:"425";s:3:"nid";s:20:"18112917200852164385";s:5:"money";d:100;s:3:"way";s:0:"";s:4:"bank";s:14:"621700****1285";s:6:"status";i:1;s:8:"add_time";i:1543483237;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：20-80  2018-11-30 10:20:32
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18113010194277725623
+message：536-82  2018-11-30 10:25:18
+提现失败.原因系统异常订单号为:18113010240890466439数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:500000;}s:3:"log";a:14:{s:3:"uid";s:3:"536";s:4:"type";i:10;s:12:"affect_money";d:200000;s:13:"account_money";d:500000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现200000元，提现成功";s:8:"add_time";i:1543544718;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"18113010240890466439";}s:9:"payonline";a:9:{s:3:"uid";s:3:"536";s:3:"nid";s:20:"18113010240890466439";s:5:"money";d:200000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1543544718;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：30-80  2018-11-30 10:26:17
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18113010254879043618
+message：57-80  2018-11-30 11:35:18
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18113011358764384785
+message：57-80  2018-11-30 11:37:56
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18113011354007233221
+message：546-82  2018-11-30 14:34:16
+提现失败.原因系统异常订单号为:18113014330621861417数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:600000;}s:3:"log";a:14:{s:3:"uid";s:3:"546";s:4:"type";i:10;s:12:"affect_money";d:200000;s:13:"account_money";d:600000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现200000元，提现成功";s:8:"add_time";i:1543559656;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"18113014330621861417";}s:9:"payonline";a:9:{s:3:"uid";s:3:"546";s:3:"nid";s:20:"18113014330621861417";s:5:"money";d:200000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1543559656;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：137-80  2018-11-30 17:58:40
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18113017580410696530
+message：137-80  2018-11-30 18:19:30
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18113018199793518041
+message：137-80  2018-11-30 18:37:43
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18113018372858504801
+message：137-80  2018-11-30 18:40:36
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18113018402179483895
+message：137-80  2018-11-30 18:55:50
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18113018558424531736
+message：137-80  2018-12-02 12:08:38
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18120212069732900975
+message：20-80  2018-12-02 12:39:02
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18120212383946956052
+message：505-82  2018-12-02 13:32:09
+提现失败.原因交易暂不支持订单号为:18120213323149353442数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:163000;}s:3:"log";a:14:{s:3:"uid";s:3:"505";s:4:"type";i:10;s:12:"affect_money";d:49000;s:13:"account_money";d:163000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现49000元，提现成功";s:8:"add_time";i:1543728729;s:9:"actualAmt";d:212000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:212000;s:6:"acctNo";s:13:"1013000938701";s:3:"nid";s:20:"18120213323149353442";}s:9:"payonline";a:9:{s:3:"uid";s:3:"505";s:3:"nid";s:20:"18120213323149353442";s:5:"money";d:49000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1543728729;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：137-80  2018-12-02 13:32:36
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18120213322911446310
+message：137-80  2018-12-02 13:34:13
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18120213333545573083
+message：137-80  2018-12-02 13:36:50
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18120213361413942951
+message：137-80  2018-12-02 13:40:46
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18120213401593053107
+message：505-82  2018-12-02 13:42:10
+提现失败.原因交易暂不支持订单号为:18120213411773228846数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:172000;}s:3:"log";a:14:{s:3:"uid";s:3:"505";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:172000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1543729330;s:9:"actualAmt";d:182000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:182000;s:6:"acctNo";s:13:"1013000938701";s:3:"nid";s:20:"18120213411773228846";}s:9:"payonline";a:9:{s:3:"uid";s:3:"505";s:3:"nid";s:20:"18120213411773228846";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1543729330;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：137-80  2018-12-02 16:46:39
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18120216457911647621
+message：137-80  2018-12-02 16:52:26
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18120216525022453859
+message：137-80  2018-12-02 17:09:51
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18120217097842266634
+message：137-80  2018-12-02 19:59:03
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18120219584713043779
+message：137-80  2018-12-02 20:31:07
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18120220260709166305
+message：203-82  2018-12-03 09:10:45
+提现失败.原因交易暂不支持订单号为:18120309102390523429数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:22436.9;}s:3:"log";a:14:{s:3:"uid";s:3:"203";s:4:"type";i:10;s:12:"affect_money";d:40000;s:13:"account_money";d:22436.9;s:13:"collect_money";s:8:"50000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现40000元，提现成功";s:8:"add_time";i:1543799445;s:9:"actualAmt";d:62436.9;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:62436.9;s:6:"acctNo";s:13:"1013000846501";s:3:"nid";s:20:"18120309102390523429";}s:9:"payonline";a:9:{s:3:"uid";s:3:"203";s:3:"nid";s:20:"18120309102390523429";s:5:"money";d:40000;s:3:"way";s:0:"";s:4:"bank";s:14:"621462****9528";s:6:"status";i:1;s:8:"add_time";i:1543799445;s:6:"remark";s:12:"广发银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：20-82  2018-12-03 09:10:58
+提现失败.原因支付密码错误订单号为:18120309102041142561数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:2:"20";s:4:"type";i:10;s:12:"affect_money";d:20110;s:13:"account_money";d:0;s:13:"collect_money";s:10:"1065000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现20110元，提现成功";s:8:"add_time";i:1543799458;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"18120309102041142561";}s:9:"payonline";a:9:{s:3:"uid";s:2:"20";s:3:"nid";s:20:"18120309102041142561";s:5:"money";d:20110;s:3:"way";s:0:"";s:4:"bank";s:14:"621700****3012";s:6:"status";i:1;s:8:"add_time";i:1543799458;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：20-82  2018-12-03 09:11:53
+提现失败.原因交易暂不支持订单号为:18120309113753325519数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:2:"20";s:4:"type";i:10;s:12:"affect_money";d:20110;s:13:"account_money";d:0;s:13:"collect_money";s:10:"1065000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现20110元，提现成功";s:8:"add_time";i:1543799513;s:9:"actualAmt";d:20138.1;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:20138.1;s:6:"acctNo";s:13:"1013000817901";s:3:"nid";s:20:"18120309113753325519";}s:9:"payonline";a:9:{s:3:"uid";s:2:"20";s:3:"nid";s:20:"18120309113753325519";s:5:"money";d:20110;s:3:"way";s:0:"";s:4:"bank";s:14:"621700****3012";s:6:"status";i:1;s:8:"add_time";i:1543799513;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：203-82  2018-12-03 09:13:18
+提现失败.原因交易暂不支持订单号为:18120309122958063221数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:22436.9;}s:3:"log";a:14:{s:3:"uid";s:3:"203";s:4:"type";i:10;s:12:"affect_money";d:40000;s:13:"account_money";d:22436.9;s:13:"collect_money";s:8:"50000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现40000元，提现成功";s:8:"add_time";i:1543799598;s:9:"actualAmt";d:62436.9;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:62436.9;s:6:"acctNo";s:13:"1013000846501";s:3:"nid";s:20:"18120309122958063221";}s:9:"payonline";a:9:{s:3:"uid";s:3:"203";s:3:"nid";s:20:"18120309122958063221";s:5:"money";d:40000;s:3:"way";s:0:"";s:4:"bank";s:14:"621462****9528";s:6:"status";i:1;s:8:"add_time";i:1543799598;s:6:"remark";s:12:"广发银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：20-82  2018-12-03 09:13:59
+提现失败.原因交易暂不支持订单号为:18120309132224252106数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:2:"20";s:4:"type";i:10;s:12:"affect_money";d:20110;s:13:"account_money";d:0;s:13:"collect_money";s:10:"1065000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现20110元，提现成功";s:8:"add_time";i:1543799639;s:9:"actualAmt";d:20138.1;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:20138.1;s:6:"acctNo";s:13:"1013000817901";s:3:"nid";s:20:"18120309132224252106";}s:9:"payonline";a:9:{s:3:"uid";s:2:"20";s:3:"nid";s:20:"18120309132224252106";s:5:"money";d:20110;s:3:"way";s:0:"";s:4:"bank";s:14:"621700****3012";s:6:"status";i:1;s:8:"add_time";i:1543799639;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：203-82  2018-12-03 09:16:08
+提现失败.原因交易暂不支持订单号为:18120309155338306569数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:22436.9;}s:3:"log";a:14:{s:3:"uid";s:3:"203";s:4:"type";i:10;s:12:"affect_money";d:40000;s:13:"account_money";d:22436.9;s:13:"collect_money";s:8:"50000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现40000元，提现成功";s:8:"add_time";i:1543799768;s:9:"actualAmt";d:62436.9;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:62436.9;s:6:"acctNo";s:13:"1013000846501";s:3:"nid";s:20:"18120309155338306569";}s:9:"payonline";a:9:{s:3:"uid";s:3:"203";s:3:"nid";s:20:"18120309155338306569";s:5:"money";d:40000;s:3:"way";s:0:"";s:4:"bank";s:14:"621462****9528";s:6:"status";i:1;s:8:"add_time";i:1543799768;s:6:"remark";s:12:"广发银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：203-82  2018-12-03 09:17:01
+提现失败.原因交易暂不支持订单号为:18120309169561923444数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:52436.9;}s:3:"log";a:14:{s:3:"uid";s:3:"203";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:52436.9;s:13:"collect_money";s:8:"50000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1543799821;s:9:"actualAmt";d:62436.9;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:62436.9;s:6:"acctNo";s:13:"1013000846501";s:3:"nid";s:20:"18120309169561923444";}s:9:"payonline";a:9:{s:3:"uid";s:3:"203";s:3:"nid";s:20:"18120309169561923444";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:14:"621462****9528";s:6:"status";i:1;s:8:"add_time";i:1543799821;s:6:"remark";s:12:"广发银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：203-82  2018-12-03 09:18:08
+提现失败.原因交易暂不支持订单号为:18120309177591510241数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:22436.9;}s:3:"log";a:14:{s:3:"uid";s:3:"203";s:4:"type";i:10;s:12:"affect_money";d:40000;s:13:"account_money";d:22436.9;s:13:"collect_money";s:8:"50000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现40000元，提现成功";s:8:"add_time";i:1543799888;s:9:"actualAmt";d:62436.9;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:62436.9;s:6:"acctNo";s:13:"1013000846501";s:3:"nid";s:20:"18120309177591510241";}s:9:"payonline";a:9:{s:3:"uid";s:3:"203";s:3:"nid";s:20:"18120309177591510241";s:5:"money";d:40000;s:3:"way";s:0:"";s:4:"bank";s:14:"621462****9528";s:6:"status";i:1;s:8:"add_time";i:1543799888;s:6:"remark";s:12:"广发银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：203-82  2018-12-03 09:24:22
+提现失败.原因交易暂不支持订单号为:18120309249488875375数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:22436.9;}s:3:"log";a:14:{s:3:"uid";s:3:"203";s:4:"type";i:10;s:12:"affect_money";d:40000;s:13:"account_money";d:22436.9;s:13:"collect_money";s:8:"50000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现40000元，提现成功";s:8:"add_time";i:1543800262;s:9:"actualAmt";d:62436.9;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:62436.9;s:6:"acctNo";s:13:"1013000846501";s:3:"nid";s:20:"18120309249488875375";}s:9:"payonline";a:9:{s:3:"uid";s:3:"203";s:3:"nid";s:20:"18120309249488875375";s:5:"money";d:40000;s:3:"way";s:0:"";s:4:"bank";s:14:"621462****9528";s:6:"status";i:1;s:8:"add_time";i:1543800262;s:6:"remark";s:12:"广发银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：203-82  2018-12-03 09:31:28
+提现失败.原因交易暂不支持订单号为:18120309314141474186数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:22436.9;}s:3:"log";a:14:{s:3:"uid";s:3:"203";s:4:"type";i:10;s:12:"affect_money";d:40000;s:13:"account_money";d:22436.9;s:13:"collect_money";s:8:"50000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现40000元，提现成功";s:8:"add_time";i:1543800688;s:9:"actualAmt";d:62436.9;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:62436.9;s:6:"acctNo";s:13:"1013000846501";s:3:"nid";s:20:"18120309314141474186";}s:9:"payonline";a:9:{s:3:"uid";s:3:"203";s:3:"nid";s:20:"18120309314141474186";s:5:"money";d:40000;s:3:"way";s:0:"";s:4:"bank";s:14:"621462****9528";s:6:"status";i:1;s:8:"add_time";i:1543800688;s:6:"remark";s:12:"广发银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：203-82  2018-12-03 10:06:50
+提现失败.原因交易暂不支持订单号为:18120310067695363237数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:22436.9;}s:3:"log";a:14:{s:3:"uid";s:3:"203";s:4:"type";i:10;s:12:"affect_money";d:40000;s:13:"account_money";d:22436.9;s:13:"collect_money";s:8:"50000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现40000元，提现成功";s:8:"add_time";i:1543802810;s:9:"actualAmt";d:62436.9;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:62436.9;s:6:"acctNo";s:13:"1013000846501";s:3:"nid";s:20:"18120310067695363237";}s:9:"payonline";a:9:{s:3:"uid";s:3:"203";s:3:"nid";s:20:"18120310067695363237";s:5:"money";d:40000;s:3:"way";s:0:"";s:4:"bank";s:14:"621462****9528";s:6:"status";i:1;s:8:"add_time";i:1543802810;s:6:"remark";s:12:"广发银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：203-82  2018-12-03 10:21:06
+提现失败.原因交易暂不支持订单号为:18120310209161137318数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:22436.9;}s:3:"log";a:14:{s:3:"uid";s:3:"203";s:4:"type";i:10;s:12:"affect_money";d:40000;s:13:"account_money";d:22436.9;s:13:"collect_money";s:8:"50000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现40000元，提现成功";s:8:"add_time";i:1543803666;s:9:"actualAmt";d:62436.9;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:62436.9;s:6:"acctNo";s:13:"1013000846501";s:3:"nid";s:20:"18120310209161137318";}s:9:"payonline";a:9:{s:3:"uid";s:3:"203";s:3:"nid";s:20:"18120310209161137318";s:5:"money";d:40000;s:3:"way";s:0:"";s:4:"bank";s:14:"621462****9528";s:6:"status";i:1;s:8:"add_time";i:1543803666;s:6:"remark";s:12:"广发银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：203-82  2018-12-03 10:42:48
+提现失败.原因交易暂不支持订单号为:18120310427343981576数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:22436.9;}s:3:"log";a:14:{s:3:"uid";s:3:"203";s:4:"type";i:10;s:12:"affect_money";d:40000;s:13:"account_money";d:22436.9;s:13:"collect_money";s:8:"50000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现40000元，提现成功";s:8:"add_time";i:1543804968;s:9:"actualAmt";d:62436.9;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:62436.9;s:6:"acctNo";s:13:"1013000846501";s:3:"nid";s:20:"18120310427343981576";}s:9:"payonline";a:9:{s:3:"uid";s:3:"203";s:3:"nid";s:20:"18120310427343981576";s:5:"money";d:40000;s:3:"way";s:0:"";s:4:"bank";s:14:"621462****9528";s:6:"status";i:1;s:8:"add_time";i:1543804968;s:6:"remark";s:12:"广发银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：30-80  2018-12-03 11:54:00
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18120311537509010060
+message：559-82  2018-12-03 13:05:02
+提现失败.原因交易暂不支持订单号为:18120313041604865543数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:610000;}s:3:"log";a:14:{s:3:"uid";s:3:"559";s:4:"type";i:10;s:12:"affect_money";d:190000;s:13:"account_money";d:610000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现190000元，提现成功";s:8:"add_time";i:1543813502;s:9:"actualAmt";d:800000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:800000;s:6:"acctNo";s:13:"1013000988001";s:3:"nid";s:20:"18120313041604865543";}s:9:"payonline";a:9:{s:3:"uid";s:3:"559";s:3:"nid";s:20:"18120313041604865543";s:5:"money";d:190000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1543813502;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：559-82  2018-12-03 13:11:15
+提现失败.原因交易暂不支持订单号为:18120313117406849788数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:600000;}s:3:"log";a:14:{s:3:"uid";s:3:"559";s:4:"type";i:10;s:12:"affect_money";d:100000;s:13:"account_money";d:600000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现100000元，提现成功";s:8:"add_time";i:1543813875;s:9:"actualAmt";d:700000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:700000;s:6:"acctNo";s:13:"1013000988001";s:3:"nid";s:20:"18120313117406849788";}s:9:"payonline";a:9:{s:3:"uid";s:3:"559";s:3:"nid";s:20:"18120313117406849788";s:5:"money";d:100000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1543813875;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：497-82  2018-12-04 09:22:36
+提现失败.原因交易暂不支持订单号为:18120409228525278344数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:530000;}s:3:"log";a:14:{s:3:"uid";s:3:"497";s:4:"type";i:10;s:12:"affect_money";d:190000;s:13:"account_money";d:530000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现190000元，提现成功";s:8:"add_time";i:1543886556;s:9:"actualAmt";d:720000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:720000;s:6:"acctNo";s:13:"1013000938201";s:3:"nid";s:20:"18120409228525278344";}s:9:"payonline";a:9:{s:3:"uid";s:3:"497";s:3:"nid";s:20:"18120409228525278344";s:5:"money";d:190000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1543886556;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：497-82  2018-12-04 09:31:26
+提现失败.原因交易暂不支持订单号为:18120409312156044287数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:570000;}s:3:"log";a:14:{s:3:"uid";s:3:"497";s:4:"type";i:10;s:12:"affect_money";d:50000;s:13:"account_money";d:570000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现50000元，提现成功";s:8:"add_time";i:1543887086;s:9:"actualAmt";d:620000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:620000;s:6:"acctNo";s:13:"1013000938201";s:3:"nid";s:20:"18120409312156044287";}s:9:"payonline";a:9:{s:3:"uid";s:3:"497";s:3:"nid";s:20:"18120409312156044287";s:5:"money";d:50000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1543887086;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：30-80  2018-12-04 11:23:47
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18120411234697907524
+message：20-80  2018-12-04 16:49:25
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18120416496233264611
+message：30-80  2018-12-05 11:19:27
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18120511183718150343
+message：30-80  2018-12-05 11:25:34
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18120511255151348741
+message：30-80  2018-12-05 21:46:22
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18120521450370569106
+message：30-80  2018-12-06 15:55:57
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18120615558121434986
+message：30-80  2018-12-06 16:48:31
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18120616484201148537
+message：137-80  2018-12-08 13:57:27
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18120813574151914523
+message：137-80  2018-12-08 14:06:23
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18120814060457788104
+message：137-80  2018-12-08 14:10:04
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18120814091002395457
+message：30-80  2018-12-08 22:19:45
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18120822194523440402
+message：20-80  2018-12-09 09:12:55
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18120909127370371727
+message：30-80  2018-12-09 10:13:41
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18120910136009255758
+message：34-80  2018-12-09 12:51:16
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18120912501316648232
+message：633-82  2018-12-09 13:50:33
+提现失败.原因交易暂不支持订单号为:18120913502191244695数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:53000;}s:3:"log";a:14:{s:3:"uid";s:3:"633";s:4:"type";i:10;s:12:"affect_money";d:49000;s:13:"account_money";d:53000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现49000元，提现成功";s:8:"add_time";i:1544334633;s:9:"actualAmt";d:102000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:102000;s:6:"acctNo";s:13:"1013001050801";s:3:"nid";s:20:"18120913502191244695";}s:9:"payonline";a:9:{s:3:"uid";s:3:"633";s:3:"nid";s:20:"18120913502191244695";s:5:"money";d:49000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1544334633;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：378-82  2018-12-09 13:57:45
+提现失败.原因交易暂不支持订单号为:18120913570896267495数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:93000;}s:3:"log";a:14:{s:3:"uid";s:3:"378";s:4:"type";i:10;s:12:"affect_money";d:40000;s:13:"account_money";d:93000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现40000元，提现成功";s:8:"add_time";i:1544335065;s:9:"actualAmt";d:133000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:133000;s:6:"acctNo";s:13:"1013000861401";s:3:"nid";s:20:"18120913570896267495";}s:9:"payonline";a:9:{s:3:"uid";s:3:"378";s:3:"nid";s:20:"18120913570896267495";s:5:"money";d:40000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1544335065;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：378-82  2018-12-09 14:02:45
+提现失败.原因交易暂不支持订单号为:18120914023386113342数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:73000;}s:3:"log";a:14:{s:3:"uid";s:3:"378";s:4:"type";i:10;s:12:"affect_money";d:30000;s:13:"account_money";d:73000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现30000元，提现成功";s:8:"add_time";i:1544335365;s:9:"actualAmt";d:103000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:103000;s:6:"acctNo";s:13:"1013000861401";s:3:"nid";s:20:"18120914023386113342";}s:9:"payonline";a:9:{s:3:"uid";s:3:"378";s:3:"nid";s:20:"18120914023386113342";s:5:"money";d:30000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1544335365;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：378-82  2018-12-09 14:03:01
+提现失败.原因交易暂不支持订单号为:18120914027202152580数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:93000;}s:3:"log";a:14:{s:3:"uid";s:3:"378";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:93000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1544335381;s:9:"actualAmt";d:103000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:103000;s:6:"acctNo";s:13:"1013000861401";s:3:"nid";s:20:"18120914027202152580";}s:9:"payonline";a:9:{s:3:"uid";s:3:"378";s:3:"nid";s:20:"18120914027202152580";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1544335381;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：378-82  2018-12-10 12:00:23
+提现失败.原因交易暂不支持订单号为:18121012005579700569数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"378";s:4:"type";i:10;s:12:"affect_money";d:103000;s:13:"account_money";d:0;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现103000元，提现成功";s:8:"add_time";i:1544414423;s:9:"actualAmt";d:103000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:103000;s:6:"acctNo";s:13:"1013000861401";s:3:"nid";s:20:"18121012005579700569";}s:9:"payonline";a:9:{s:3:"uid";s:3:"378";s:3:"nid";s:20:"18121012005579700569";s:5:"money";d:103000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1544414423;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：378-82  2018-12-10 12:01:30
+提现失败.原因交易暂不支持订单号为:18121012010489901413数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:53000;}s:3:"log";a:14:{s:3:"uid";s:3:"378";s:4:"type";i:10;s:12:"affect_money";d:50000;s:13:"account_money";d:53000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现50000元，提现成功";s:8:"add_time";i:1544414490;s:9:"actualAmt";d:103000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:103000;s:6:"acctNo";s:13:"1013000861401";s:3:"nid";s:20:"18121012010489901413";}s:9:"payonline";a:9:{s:3:"uid";s:3:"378";s:3:"nid";s:20:"18121012010489901413";s:5:"money";d:50000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1544414490;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：378-82  2018-12-10 12:01:52
+提现失败.原因交易暂不支持订单号为:18121012015679173282数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:93000;}s:3:"log";a:14:{s:3:"uid";s:3:"378";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:93000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1544414512;s:9:"actualAmt";d:103000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:103000;s:6:"acctNo";s:13:"1013000861401";s:3:"nid";s:20:"18121012015679173282";}s:9:"payonline";a:9:{s:3:"uid";s:3:"378";s:3:"nid";s:20:"18121012015679173282";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1544414512;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：378-82  2018-12-10 12:59:15
+提现失败.原因交易暂不支持订单号为:18121012598945461906数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:93000;}s:3:"log";a:14:{s:3:"uid";s:3:"378";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:93000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1544417955;s:9:"actualAmt";d:103000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:103000;s:6:"acctNo";s:13:"1013000861401";s:3:"nid";s:20:"18121012598945461906";}s:9:"payonline";a:9:{s:3:"uid";s:3:"378";s:3:"nid";s:20:"18121012598945461906";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1544417955;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：378-82  2018-12-10 13:27:51
+提现失败.原因交易暂不支持订单号为:18121013272041231207数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:93000;}s:3:"log";a:14:{s:3:"uid";s:3:"378";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:93000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1544419671;s:9:"actualAmt";d:103000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:103000;s:6:"acctNo";s:13:"1013000861401";s:3:"nid";s:20:"18121013272041231207";}s:9:"payonline";a:9:{s:3:"uid";s:3:"378";s:3:"nid";s:20:"18121013272041231207";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1544419671;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：378-82  2018-12-10 13:55:49
+提现失败.原因交易暂不支持订单号为:18121013554085231683数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:93000;}s:3:"log";a:14:{s:3:"uid";s:3:"378";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:93000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1544421349;s:9:"actualAmt";d:103000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:103000;s:6:"acctNo";s:13:"1013000861401";s:3:"nid";s:20:"18121013554085231683";}s:9:"payonline";a:9:{s:3:"uid";s:3:"378";s:3:"nid";s:20:"18121013554085231683";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1544421349;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：378-82  2018-12-10 14:10:44
+提现失败.原因交易暂不支持订单号为:18121014104292980060数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:93000;}s:3:"log";a:14:{s:3:"uid";s:3:"378";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:93000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1544422244;s:9:"actualAmt";d:103000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:103000;s:6:"acctNo";s:13:"1013000861401";s:3:"nid";s:20:"18121014104292980060";}s:9:"payonline";a:9:{s:3:"uid";s:3:"378";s:3:"nid";s:20:"18121014104292980060";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1544422244;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：34-80  2018-12-10 16:05:22
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121016042479746020
+message：137-80  2018-12-11 10:24:39
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121110247345015411
+message：137-80  2018-12-11 11:25:11
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121111244915736656
+message：137-80  2018-12-11 12:40:58
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121112401863618042
+message：137-80  2018-12-11 15:35:22
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121115340194369472
+message：137-80  2018-12-11 16:35:15
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121116348011995402
+message：20-80  2018-12-11 19:11:54
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121119119994567245
+message：20-80  2018-12-11 19:24:40
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121119241771687631
+message：137-80  2018-12-12 11:19:28
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121211195038427287
+message：137-80  2018-12-12 11:36:43
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121211369394950563
+message：30-80  2018-12-12 12:03:48
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121212037245807617
+message：137-80  2018-12-12 13:34:45
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121213343562526713
+message：691-82  2018-12-12 13:46:37
+提现失败.原因交易暂不支持订单号为:18121213468815544683数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:100000;}s:3:"log";a:14:{s:3:"uid";s:3:"691";s:4:"type";i:10;s:12:"affect_money";d:190000;s:13:"account_money";d:100000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现190000元，提现成功";s:8:"add_time";i:1544593597;s:9:"actualAmt";d:290000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:290000;s:6:"acctNo";s:13:"1013001061401";s:3:"nid";s:20:"18121213468815544683";}s:9:"payonline";a:9:{s:3:"uid";s:3:"691";s:3:"nid";s:20:"18121213468815544683";s:5:"money";d:190000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1544593597;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：691-82  2018-12-12 13:48:54
+提现失败.原因交易暂不支持订单号为:18121213487322793348数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:190000;}s:3:"log";a:14:{s:3:"uid";s:3:"691";s:4:"type";i:10;s:12:"affect_money";d:100000;s:13:"account_money";d:190000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现100000元，提现成功";s:8:"add_time";i:1544593734;s:9:"actualAmt";d:290000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:290000;s:6:"acctNo";s:13:"1013001061401";s:3:"nid";s:20:"18121213487322793348";}s:9:"payonline";a:9:{s:3:"uid";s:3:"691";s:3:"nid";s:20:"18121213487322793348";s:5:"money";d:100000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1544593734;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：691-82  2018-12-12 13:50:01
+提现失败.原因交易暂不支持订单号为:18121213491842450922数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:240000;}s:3:"log";a:14:{s:3:"uid";s:3:"691";s:4:"type";i:10;s:12:"affect_money";d:50000;s:13:"account_money";d:240000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现50000元，提现成功";s:8:"add_time";i:1544593801;s:9:"actualAmt";d:290000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:290000;s:6:"acctNo";s:13:"1013001061401";s:3:"nid";s:20:"18121213491842450922";}s:9:"payonline";a:9:{s:3:"uid";s:3:"691";s:3:"nid";s:20:"18121213491842450922";s:5:"money";d:50000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1544593801;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：691-82  2018-12-12 13:50:19
+提现失败.原因交易暂不支持订单号为:18121213502668683771数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:280000;}s:3:"log";a:14:{s:3:"uid";s:3:"691";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:280000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1544593819;s:9:"actualAmt";d:290000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:290000;s:6:"acctNo";s:13:"1013001061401";s:3:"nid";s:20:"18121213502668683771";}s:9:"payonline";a:9:{s:3:"uid";s:3:"691";s:3:"nid";s:20:"18121213502668683771";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1544593819;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：691-82  2018-12-12 14:51:35
+提现失败.原因交易暂不支持订单号为:18121214517054959075数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"691";s:4:"type";i:10;s:12:"affect_money";d:90000;s:13:"account_money";d:0;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现90000元，提现成功";s:8:"add_time";i:1544597495;s:9:"actualAmt";d:90000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:90000;s:6:"acctNo";s:13:"1013001061401";s:3:"nid";s:20:"18121214517054959075";}s:9:"payonline";a:9:{s:3:"uid";s:3:"691";s:3:"nid";s:20:"18121214517054959075";s:5:"money";d:90000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1544597495;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：691-82  2018-12-12 14:52:47
+提现失败.原因交易暂不支持订单号为:18121214526988357901数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:40000;}s:3:"log";a:14:{s:3:"uid";s:3:"691";s:4:"type";i:10;s:12:"affect_money";d:50000;s:13:"account_money";d:40000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现50000元，提现成功";s:8:"add_time";i:1544597567;s:9:"actualAmt";d:90000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:90000;s:6:"acctNo";s:13:"1013001061401";s:3:"nid";s:20:"18121214526988357901";}s:9:"payonline";a:9:{s:3:"uid";s:3:"691";s:3:"nid";s:20:"18121214526988357901";s:5:"money";d:50000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1544597567;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：691-82  2018-12-12 14:53:04
+提现失败.原因交易暂不支持订单号为:18121214523725388606数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:80000;}s:3:"log";a:14:{s:3:"uid";s:3:"691";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:80000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1544597584;s:9:"actualAmt";d:90000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:90000;s:6:"acctNo";s:13:"1013001061401";s:3:"nid";s:20:"18121214523725388606";}s:9:"payonline";a:9:{s:3:"uid";s:3:"691";s:3:"nid";s:20:"18121214523725388606";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1544597584;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：691-82  2018-12-12 15:16:29
+提现失败.原因交易暂不支持订单号为:18121215160952792664数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:80000;}s:3:"log";a:14:{s:3:"uid";s:3:"691";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:80000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1544598989;s:9:"actualAmt";d:90000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:90000;s:6:"acctNo";s:13:"1013001061401";s:3:"nid";s:20:"18121215160952792664";}s:9:"payonline";a:9:{s:3:"uid";s:3:"691";s:3:"nid";s:20:"18121215160952792664";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1544598989;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：57-80  2018-12-12 21:17:00
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121221169607725378
+message：30-80  2018-12-13 17:10:29
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121317108156152341
+message：20-80  2018-12-14 20:30:10
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121420299160494904
+message：30-80  2018-12-15 20:32:34
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121520312417775115
+message：137-80  2018-12-16 00:47:00
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121600462888761169
+message：137-80  2018-12-16 00:52:00
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121600513018539606
+message：137-80  2018-12-16 10:51:16
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121610504837986047
+message：137-80  2018-12-16 13:10:35
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121613095299648255
+message：20-80  2018-12-16 13:41:11
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121613406833408106
+message：20-80  2018-12-16 14:59:44
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121614595909309271
+message：137-80  2018-12-16 19:44:13
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121619431599337147
+message：137-80  2018-12-16 19:57:30
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121619578149971096
+message：30-80  2018-12-16 20:29:09
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121620284010226066
+message：30-80  2018-12-16 20:35:19
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121620347435780507
+message：710-82  2018-12-16 20:46:43
+提现失败.原因交易暂不支持订单号为:18121620467523144791数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:553000;}s:3:"log";a:14:{s:3:"uid";s:3:"710";s:4:"type";i:10;s:12:"affect_money";d:49000;s:13:"account_money";d:553000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现49000元，提现成功";s:8:"add_time";i:1544964403;s:9:"actualAmt";d:602000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:602000;s:6:"acctNo";s:13:"1013001066101";s:3:"nid";s:20:"18121620467523144791";}s:9:"payonline";a:9:{s:3:"uid";s:3:"710";s:3:"nid";s:20:"18121620467523144791";s:5:"money";d:49000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1544964403;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：710-82  2018-12-16 20:48:30
+提现失败.原因交易暂不支持订单号为:18121620485569281480数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:582000;}s:3:"log";a:14:{s:3:"uid";s:3:"710";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:582000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1544964510;s:9:"actualAmt";d:592000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:592000;s:6:"acctNo";s:13:"1013001066101";s:3:"nid";s:20:"18121620485569281480";}s:9:"payonline";a:9:{s:3:"uid";s:3:"710";s:3:"nid";s:20:"18121620485569281480";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1544964510;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：222-82  2018-12-17 09:11:16
+提现失败.原因交易暂不支持订单号为:18121709110248459385数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"222";s:4:"type";i:10;s:12:"affect_money";d:5027.5;s:13:"account_money";d:0;s:13:"collect_money";s:8:"42000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现5027.5元，提现成功";s:8:"add_time";i:1545009076;s:9:"actualAmt";d:5027.5;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:5027.5;s:6:"acctNo";s:13:"1013000853601";s:3:"nid";s:20:"18121709110248459385";}s:9:"payonline";a:9:{s:3:"uid";s:3:"222";s:3:"nid";s:20:"18121709110248459385";s:5:"money";d:5027.5;s:3:"way";s:0:"";s:4:"bank";s:14:"621723****9334";s:6:"status";i:1;s:8:"add_time";i:1545009076;s:6:"remark";s:18:"中国工商银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：222-82  2018-12-17 09:12:08
+提现失败.原因交易暂不支持订单号为:18121709114638781001数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"222";s:4:"type";i:10;s:12:"affect_money";d:5027.5;s:13:"account_money";d:0;s:13:"collect_money";s:8:"42000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现5027.5元，提现成功";s:8:"add_time";i:1545009128;s:9:"actualAmt";d:5027.5;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:5027.5;s:6:"acctNo";s:13:"1013000853601";s:3:"nid";s:20:"18121709114638781001";}s:9:"payonline";a:9:{s:3:"uid";s:3:"222";s:3:"nid";s:20:"18121709114638781001";s:5:"money";d:5027.5;s:3:"way";s:0:"";s:4:"bank";s:14:"621723****9334";s:6:"status";i:1;s:8:"add_time";i:1545009128;s:6:"remark";s:18:"中国工商银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：76-82  2018-12-17 09:25:08
+提现失败.原因交易暂不支持订单号为:18121709241241132723数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:10082.5;}s:3:"log";a:14:{s:3:"uid";s:2:"76";s:4:"type";i:10;s:12:"affect_money";d:5000;s:13:"account_money";d:10082.5;s:13:"collect_money";s:9:"200000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:28:"提现5000元，提现成功";s:8:"add_time";i:1545009908;s:9:"actualAmt";d:15082.5;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:15082.5;s:6:"acctNo";s:13:"1013000823201";s:3:"nid";s:20:"18121709241241132723";}s:9:"payonline";a:9:{s:3:"uid";s:2:"76";s:3:"nid";s:20:"18121709241241132723";s:5:"money";d:5000;s:3:"way";s:0:"";s:4:"bank";s:14:"421349****4788";s:6:"status";i:1;s:8:"add_time";i:1545009908;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：76-82  2018-12-17 09:25:57
+提现失败.原因交易暂不支持订单号为:18121709252058834571数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:10082.5;}s:3:"log";a:14:{s:3:"uid";s:2:"76";s:4:"type";i:10;s:12:"affect_money";d:5000;s:13:"account_money";d:10082.5;s:13:"collect_money";s:9:"200000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:28:"提现5000元，提现成功";s:8:"add_time";i:1545009957;s:9:"actualAmt";d:15082.5;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:15082.5;s:6:"acctNo";s:13:"1013000823201";s:3:"nid";s:20:"18121709252058834571";}s:9:"payonline";a:9:{s:3:"uid";s:2:"76";s:3:"nid";s:20:"18121709252058834571";s:5:"money";d:5000;s:3:"way";s:0:"";s:4:"bank";s:14:"421349****4788";s:6:"status";i:1;s:8:"add_time";i:1545009957;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：19-82  2018-12-17 09:52:48
+提现失败.原因交易暂不支持订单号为:18121709521566911828数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:30520;}s:3:"log";a:14:{s:3:"uid";s:2:"19";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:30520;s:13:"collect_money";s:9:"840000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1545011568;s:9:"actualAmt";d:40520;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:40520;s:6:"acctNo";s:13:"1013000831101";s:3:"nid";s:20:"18121709521566911828";}s:9:"payonline";a:9:{s:3:"uid";s:2:"19";s:3:"nid";s:20:"18121709521566911828";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:14:"622700****3952";s:6:"status";i:1;s:8:"add_time";i:1545011568;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：19-82  2018-12-17 09:53:39
+提现失败.原因交易暂不支持订单号为:18121709530692815876数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:30520;}s:3:"log";a:14:{s:3:"uid";s:2:"19";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:30520;s:13:"collect_money";s:9:"840000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1545011619;s:9:"actualAmt";d:40520;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:40520;s:6:"acctNo";s:13:"1013000831101";s:3:"nid";s:20:"18121709530692815876";}s:9:"payonline";a:9:{s:3:"uid";s:2:"19";s:3:"nid";s:20:"18121709530692815876";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:14:"622700****3952";s:6:"status";i:1;s:8:"add_time";i:1545011619;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：19-82  2018-12-17 09:55:17
+提现失败.原因交易暂不支持订单号为:18121709556705090339数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:30520;}s:3:"log";a:14:{s:3:"uid";s:2:"19";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:30520;s:13:"collect_money";s:9:"840000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1545011717;s:9:"actualAmt";d:40520;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:40520;s:6:"acctNo";s:13:"1013000831101";s:3:"nid";s:20:"18121709556705090339";}s:9:"payonline";a:9:{s:3:"uid";s:2:"19";s:3:"nid";s:20:"18121709556705090339";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:14:"622700****3952";s:6:"status";i:1;s:8:"add_time";i:1545011717;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：30-80  2018-12-17 13:10:39
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121713107014149750
+message：30-80  2018-12-17 14:47:03
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121714464240076662
+message：30-80  2018-12-18 11:24:25
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121811234077475131
+message：20-80  2018-12-18 18:52:40
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121818525178915834
+message：20-80  2018-12-18 18:56:06
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121818550681943160
+message：648-82  2018-12-19 11:29:06
+提现失败.原因交易暂不支持订单号为:18121911287823436513数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:90000;}s:3:"log";a:14:{s:3:"uid";s:3:"648";s:4:"type";i:10;s:12:"affect_money";d:190000;s:13:"account_money";d:90000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现190000元，提现成功";s:8:"add_time";i:1545190146;s:9:"actualAmt";d:280000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:280000;s:6:"acctNo";s:13:"1013001065301";s:3:"nid";s:20:"18121911287823436513";}s:9:"payonline";a:9:{s:3:"uid";s:3:"648";s:3:"nid";s:20:"18121911287823436513";s:5:"money";d:190000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1545190146;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：648-82  2018-12-19 11:39:51
+提现失败.原因交易暂不支持订单号为:18121911399197628138数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"648";s:4:"type";i:10;s:12:"affect_money";d:130000;s:13:"account_money";d:0;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现130000元，提现成功";s:8:"add_time";i:1545190791;s:9:"actualAmt";d:130000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:130000;s:6:"acctNo";s:13:"1013001065301";s:3:"nid";s:20:"18121911399197628138";}s:9:"payonline";a:9:{s:3:"uid";s:3:"648";s:3:"nid";s:20:"18121911399197628138";s:5:"money";d:130000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1545190791;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：648-82  2018-12-19 11:40:18
+提现失败.原因交易暂不支持订单号为:18121911400825803967数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:120000;}s:3:"log";a:14:{s:3:"uid";s:3:"648";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:120000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1545190818;s:9:"actualAmt";d:130000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:130000;s:6:"acctNo";s:13:"1013001065301";s:3:"nid";s:20:"18121911400825803967";}s:9:"payonline";a:9:{s:3:"uid";s:3:"648";s:3:"nid";s:20:"18121911400825803967";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1545190818;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：648-82  2018-12-19 12:59:31
+提现失败.原因交易暂不支持订单号为:18121912598371590722数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:120000;}s:3:"log";a:14:{s:3:"uid";s:3:"648";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:120000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1545195571;s:9:"actualAmt";d:130000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:130000;s:6:"acctNo";s:13:"1013001065301";s:3:"nid";s:20:"18121912598371590722";}s:9:"payonline";a:9:{s:3:"uid";s:3:"648";s:3:"nid";s:20:"18121912598371590722";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1545195571;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：643-82  2018-12-19 14:41:07
+提现失败.原因交易暂不支持订单号为:18121914400006648411数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:400000;}s:3:"log";a:14:{s:3:"uid";s:3:"643";s:4:"type";i:10;s:12:"affect_money";d:190000;s:13:"account_money";d:400000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现190000元，提现成功";s:8:"add_time";i:1545201667;s:9:"actualAmt";d:590000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:590000;s:6:"acctNo";s:13:"1013001061001";s:3:"nid";s:20:"18121914400006648411";}s:9:"payonline";a:9:{s:3:"uid";s:3:"643";s:3:"nid";s:20:"18121914400006648411";s:5:"money";d:190000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1545201667;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：643-82  2018-12-19 14:42:19
+提现失败.原因交易暂不支持订单号为:18121914424412841064数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:490000;}s:3:"log";a:14:{s:3:"uid";s:3:"643";s:4:"type";i:10;s:12:"affect_money";d:100000;s:13:"account_money";d:490000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现100000元，提现成功";s:8:"add_time";i:1545201739;s:9:"actualAmt";d:590000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:590000;s:6:"acctNo";s:13:"1013001061001";s:3:"nid";s:20:"18121914424412841064";}s:9:"payonline";a:9:{s:3:"uid";s:3:"643";s:3:"nid";s:20:"18121914424412841064";s:5:"money";d:100000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1545201739;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：30-80  2018-12-19 16:21:57
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18121916214875536988
+message：137-80  2018-12-20 10:09:53
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122010094555583727
+message：637-82  2018-12-20 11:03:28
+提现失败.原因交易暂不支持订单号为:18122011035119888592数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"637";s:4:"type";i:10;s:12:"affect_money";d:90000;s:13:"account_money";d:0;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现90000元，提现成功";s:8:"add_time";i:1545275008;s:9:"actualAmt";d:90000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:90000;s:6:"acctNo";s:13:"1013001051301";s:3:"nid";s:20:"18122011035119888592";}s:9:"payonline";a:9:{s:3:"uid";s:3:"637";s:3:"nid";s:20:"18122011035119888592";s:5:"money";d:90000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1545275008;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：637-82  2018-12-20 11:04:04
+提现失败.原因交易暂不支持订单号为:18122011036383006293数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:40000;}s:3:"log";a:14:{s:3:"uid";s:3:"637";s:4:"type";i:10;s:12:"affect_money";d:50000;s:13:"account_money";d:40000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现50000元，提现成功";s:8:"add_time";i:1545275044;s:9:"actualAmt";d:90000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:90000;s:6:"acctNo";s:13:"1013001051301";s:3:"nid";s:20:"18122011036383006293";}s:9:"payonline";a:9:{s:3:"uid";s:3:"637";s:3:"nid";s:20:"18122011036383006293";s:5:"money";d:50000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1545275044;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：637-82  2018-12-20 11:05:40
+提现失败.原因交易暂不支持订单号为:18122011053665334335数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:40000;}s:3:"log";a:14:{s:3:"uid";s:3:"637";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:40000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1545275140;s:9:"actualAmt";d:50000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:50000;s:6:"acctNo";s:13:"1013001051301";s:3:"nid";s:20:"18122011053665334335";}s:9:"payonline";a:9:{s:3:"uid";s:3:"637";s:3:"nid";s:20:"18122011053665334335";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1545275140;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：30-80  2018-12-20 11:17:49
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122011171091510665
+message：637-82  2018-12-20 13:15:13
+提现失败.原因交易暂不支持订单号为:18122013157165682061数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:40000;}s:3:"log";a:14:{s:3:"uid";s:3:"637";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:40000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1545282913;s:9:"actualAmt";d:50000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:50000;s:6:"acctNo";s:13:"1013001051301";s:3:"nid";s:20:"18122013157165682061";}s:9:"payonline";a:9:{s:3:"uid";s:3:"637";s:3:"nid";s:20:"18122013157165682061";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1545282913;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：137-80  2018-12-20 13:48:43
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122013484905562468
+message：30-80  2018-12-20 16:20:06
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122016196949238995
+message：137-80  2018-12-21 09:31:13
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122109306691235618
+message：137-80  2018-12-21 10:35:52
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122110354217703722
+message：34-80  2018-12-22 09:18:35
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122209164685186819
+message：20-80  2018-12-22 16:14:26
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122216139585355933
+message：137-80  2018-12-22 20:37:49
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122220376673929318
+message：748-82  2018-12-22 23:40:22
+提现失败.原因交易暂不支持订单号为:18122223404320508541数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:190000;}s:3:"log";a:14:{s:3:"uid";s:3:"748";s:4:"type";i:10;s:12:"affect_money";d:49000;s:13:"account_money";d:190000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现49000元，提现成功";s:8:"add_time";i:1545493222;s:9:"actualAmt";d:239000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:239000;s:6:"acctNo";s:13:"1013001102801";s:3:"nid";s:20:"18122223404320508541";}s:9:"payonline";a:9:{s:3:"uid";s:3:"748";s:3:"nid";s:20:"18122223404320508541";s:5:"money";d:49000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1545493222;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：748-82  2018-12-22 23:42:50
+提现失败.原因交易暂不支持订单号为:18122223424753483294数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:189000;}s:3:"log";a:14:{s:3:"uid";s:3:"748";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:189000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1545493370;s:9:"actualAmt";d:199000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:199000;s:6:"acctNo";s:13:"1013001102801";s:3:"nid";s:20:"18122223424753483294";}s:9:"payonline";a:9:{s:3:"uid";s:3:"748";s:3:"nid";s:20:"18122223424753483294";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1545493370;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：137-80  2018-12-23 00:30:08
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122300290443809529
+message：265-82  2018-12-23 07:15:43
+提现失败.原因交易暂不支持订单号为:18122307156067834976数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"265";s:4:"type";i:10;s:12:"affect_money";d:7038.5;s:13:"account_money";d:0;s:13:"collect_money";s:8:"50000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现7038.5元，提现成功";s:8:"add_time";i:1545520543;s:9:"actualAmt";d:7038.5;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:7038.5;s:6:"acctNo";s:13:"1013000867201";s:3:"nid";s:20:"18122307156067834976";}s:9:"payonline";a:9:{s:3:"uid";s:3:"265";s:3:"nid";s:20:"18122307156067834976";s:5:"money";d:7038.5;s:3:"way";s:0:"";s:4:"bank";s:14:"621226****3812";s:6:"status";i:1;s:8:"add_time";i:1545520543;s:6:"remark";s:18:"中国工商银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：265-82  2018-12-23 08:11:17
+提现失败.原因交易暂不支持订单号为:18122308106604012166数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0.5;}s:3:"log";a:14:{s:3:"uid";s:3:"265";s:4:"type";i:10;s:12:"affect_money";d:7038;s:13:"account_money";d:0.5;s:13:"collect_money";s:8:"50000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:28:"提现7038元，提现成功";s:8:"add_time";i:1545523877;s:9:"actualAmt";d:7038.5;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:7038.5;s:6:"acctNo";s:13:"1013000867201";s:3:"nid";s:20:"18122308106604012166";}s:9:"payonline";a:9:{s:3:"uid";s:3:"265";s:3:"nid";s:20:"18122308106604012166";s:5:"money";d:7038;s:3:"way";s:0:"";s:4:"bank";s:14:"621226****3812";s:6:"status";i:1;s:8:"add_time";i:1545523877;s:6:"remark";s:18:"中国工商银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：164-82  2018-12-23 08:40:06
+提现失败.原因交易暂不支持订单号为:18122308390613235675数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0.6699999999999591;}s:3:"log";a:14:{s:3:"uid";s:3:"164";s:4:"type";i:10;s:12:"affect_money";d:600;s:13:"account_money";d:0.6699999999999591;s:13:"collect_money";s:9:"867000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:27:"提现600元，提现成功";s:8:"add_time";i:1545525606;s:9:"actualAmt";d:600.67;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:600.67;s:6:"acctNo";s:13:"1013000836201";s:3:"nid";s:20:"18122308390613235675";}s:9:"payonline";a:9:{s:3:"uid";s:3:"164";s:3:"nid";s:20:"18122308390613235675";s:5:"money";d:600;s:3:"way";s:0:"";s:4:"bank";s:14:"621225****9951";s:6:"status";i:1;s:8:"add_time";i:1545525606;s:6:"remark";s:18:"中国工商银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：137-80  2018-12-23 09:37:53
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122309377769490731
+message：748-82  2018-12-23 14:36:13
+提现失败.原因交易暂不支持订单号为:18122314351193302579数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:189000;}s:3:"log";a:14:{s:3:"uid";s:3:"748";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:189000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1545546973;s:9:"actualAmt";d:199000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:199000;s:6:"acctNo";s:13:"1013001102801";s:3:"nid";s:20:"18122314351193302579";}s:9:"payonline";a:9:{s:3:"uid";s:3:"748";s:3:"nid";s:20:"18122314351193302579";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1545546973;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：368-82  2018-12-23 16:05:54
+提现失败.原因交易暂不支持订单号为:18122316054221793540数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"368";s:4:"type";i:10;s:12:"affect_money";d:35091.95;s:13:"account_money";d:0;s:13:"collect_money";s:8:"35100.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:32:"提现35091.95元，提现成功";s:8:"add_time";i:1545552354;s:9:"actualAmt";d:35091.95;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:35091.95;s:6:"acctNo";s:13:"1013000888401";s:3:"nid";s:20:"18122316054221793540";}s:9:"payonline";a:9:{s:3:"uid";s:3:"368";s:3:"nid";s:20:"18122316054221793540";s:5:"money";d:35091.95;s:3:"way";s:0:"";s:4:"bank";s:14:"621700****7419";s:6:"status";i:1;s:8:"add_time";i:1545552354;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：34-80  2018-12-23 21:49:29
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122321484347345579
+message：30-80  2018-12-23 22:03:27
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122322027194240243
+message：222-82  2018-12-24 09:12:54
+提现失败.原因交易暂不支持订单号为:18122409126800012469数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"222";s:4:"type";i:10;s:12:"affect_money";d:12066;s:13:"account_money";d:0;s:13:"collect_money";s:8:"30000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现12066元，提现成功";s:8:"add_time";i:1545613974;s:9:"actualAmt";d:12066;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:12066;s:6:"acctNo";s:13:"1013000853601";s:3:"nid";s:20:"18122409126800012469";}s:9:"payonline";a:9:{s:3:"uid";s:3:"222";s:3:"nid";s:20:"18122409126800012469";s:5:"money";d:12066;s:3:"way";s:0:"";s:4:"bank";s:14:"621723****9334";s:6:"status";i:1;s:8:"add_time";i:1545613974;s:6:"remark";s:18:"中国工商银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：103-82  2018-12-24 09:19:37
+提现失败.原因交易暂不支持订单号为:18122409195427979390数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"103";s:4:"type";i:10;s:12:"affect_money";d:10055;s:13:"account_money";d:0;s:13:"collect_money";s:8:"25000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10055元，提现成功";s:8:"add_time";i:1545614377;s:9:"actualAmt";d:10055;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:10055;s:6:"acctNo";s:13:"1013000826501";s:3:"nid";s:20:"18122409195427979390";}s:9:"payonline";a:9:{s:3:"uid";s:3:"103";s:3:"nid";s:20:"18122409195427979390";s:5:"money";d:10055;s:3:"way";s:0:"";s:4:"bank";s:14:"622200****5636";s:6:"status";i:1;s:8:"add_time";i:1545614377;s:6:"remark";s:18:"中国工商银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：103-82  2018-12-24 09:20:30
+提现失败.原因交易暂不支持订单号为:18122409203343500261数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"103";s:4:"type";i:10;s:12:"affect_money";d:10055;s:13:"account_money";d:0;s:13:"collect_money";s:8:"25000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10055元，提现成功";s:8:"add_time";i:1545614430;s:9:"actualAmt";d:10055;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:10055;s:6:"acctNo";s:13:"1013000826501";s:3:"nid";s:20:"18122409203343500261";}s:9:"payonline";a:9:{s:3:"uid";s:3:"103";s:3:"nid";s:20:"18122409203343500261";s:5:"money";d:10055;s:3:"way";s:0:"";s:4:"bank";s:14:"622200****5636";s:6:"status";i:1;s:8:"add_time";i:1545614430;s:6:"remark";s:18:"中国工商银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：266-82  2018-12-24 09:44:16
+提现失败.原因交易暂不支持订单号为:18122409442057080160数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"266";s:4:"type";i:10;s:12:"affect_money";d:15082.5;s:13:"account_money";d:0;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:31:"提现15082.5元，提现成功";s:8:"add_time";i:1545615856;s:9:"actualAmt";d:15082.5;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:15082.5;s:6:"acctNo";s:13:"1013000867301";s:3:"nid";s:20:"18122409442057080160";}s:9:"payonline";a:9:{s:3:"uid";s:3:"266";s:3:"nid";s:20:"18122409442057080160";s:5:"money";d:15082.5;s:3:"way";s:0:"";s:4:"bank";s:14:"621226****6451";s:6:"status";i:1;s:8:"add_time";i:1545615856;s:6:"remark";s:18:"中国工商银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：222-82  2018-12-24 11:08:32
+提现失败.原因交易暂不支持订单号为:18122411082746391011数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"222";s:4:"type";i:10;s:12:"affect_money";d:8066;s:13:"account_money";d:0;s:13:"collect_money";s:8:"30000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:28:"提现8066元，提现成功";s:8:"add_time";i:1545620912;s:9:"actualAmt";d:8066;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:8066;s:6:"acctNo";s:13:"1013000853601";s:3:"nid";s:20:"18122411082746391011";}s:9:"payonline";a:9:{s:3:"uid";s:3:"222";s:3:"nid";s:20:"18122411082746391011";s:5:"money";d:8066;s:3:"way";s:0:"";s:4:"bank";s:14:"621723****9334";s:6:"status";i:1;s:8:"add_time";i:1545620912;s:6:"remark";s:18:"中国工商银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：30-80  2018-12-24 11:20:13
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122411192461566219
+message：222-82  2018-12-24 11:36:06
+提现失败.原因交易暂不支持订单号为:18122411351004781485数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"222";s:4:"type";i:10;s:12:"affect_money";d:8066;s:13:"account_money";d:0;s:13:"collect_money";s:8:"30000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:28:"提现8066元，提现成功";s:8:"add_time";i:1545622566;s:9:"actualAmt";d:8066;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:8066;s:6:"acctNo";s:13:"1013000853601";s:3:"nid";s:20:"18122411351004781485";}s:9:"payonline";a:9:{s:3:"uid";s:3:"222";s:3:"nid";s:20:"18122411351004781485";s:5:"money";d:8066;s:3:"way";s:0:"";s:4:"bank";s:14:"621723****9334";s:6:"status";i:1;s:8:"add_time";i:1545622566;s:6:"remark";s:18:"中国工商银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：748-82  2018-12-24 11:57:18
+提现失败.原因交易暂不支持订单号为:18122411572485341438数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:189000;}s:3:"log";a:14:{s:3:"uid";s:3:"748";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:189000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1545623838;s:9:"actualAmt";d:199000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:199000;s:6:"acctNo";s:13:"1013001102801";s:3:"nid";s:20:"18122411572485341438";}s:9:"payonline";a:9:{s:3:"uid";s:3:"748";s:3:"nid";s:20:"18122411572485341438";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1545623838;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：222-82  2018-12-24 12:00:57
+提现失败.原因交易暂不支持订单号为:18122412008311381819数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"222";s:4:"type";i:10;s:12:"affect_money";d:8066;s:13:"account_money";d:0;s:13:"collect_money";s:8:"30000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:28:"提现8066元，提现成功";s:8:"add_time";i:1545624057;s:9:"actualAmt";d:8066;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:8066;s:6:"acctNo";s:13:"1013000853601";s:3:"nid";s:20:"18122412008311381819";}s:9:"payonline";a:9:{s:3:"uid";s:3:"222";s:3:"nid";s:20:"18122412008311381819";s:5:"money";d:8066;s:3:"way";s:0:"";s:4:"bank";s:14:"621723****9334";s:6:"status";i:1;s:8:"add_time";i:1545624057;s:6:"remark";s:18:"中国工商银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：222-82  2018-12-24 12:22:26
+提现失败.原因交易暂不支持订单号为:18122412227852251429数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"222";s:4:"type";i:10;s:12:"affect_money";d:8066;s:13:"account_money";d:0;s:13:"collect_money";s:8:"30000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:28:"提现8066元，提现成功";s:8:"add_time";i:1545625346;s:9:"actualAmt";d:8066;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:8066;s:6:"acctNo";s:13:"1013000853601";s:3:"nid";s:20:"18122412227852251429";}s:9:"payonline";a:9:{s:3:"uid";s:3:"222";s:3:"nid";s:20:"18122412227852251429";s:5:"money";d:8066;s:3:"way";s:0:"";s:4:"bank";s:14:"621723****9334";s:6:"status";i:1;s:8:"add_time";i:1545625346;s:6:"remark";s:18:"中国工商银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：222-82  2018-12-24 12:25:12
+提现失败.原因交易暂不支持订单号为:18122412257074467127数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"222";s:4:"type";i:10;s:12:"affect_money";d:8066;s:13:"account_money";d:0;s:13:"collect_money";s:8:"30000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:28:"提现8066元，提现成功";s:8:"add_time";i:1545625512;s:9:"actualAmt";d:8066;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:8066;s:6:"acctNo";s:13:"1013000853601";s:3:"nid";s:20:"18122412257074467127";}s:9:"payonline";a:9:{s:3:"uid";s:3:"222";s:3:"nid";s:20:"18122412257074467127";s:5:"money";d:8066;s:3:"way";s:0:"";s:4:"bank";s:14:"621723****9334";s:6:"status";i:1;s:8:"add_time";i:1545625512;s:6:"remark";s:18:"中国工商银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：222-82  2018-12-24 13:03:20
+提现失败.原因交易暂不支持订单号为:18122413036856647996数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"222";s:4:"type";i:10;s:12:"affect_money";d:8066;s:13:"account_money";d:0;s:13:"collect_money";s:8:"30000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:28:"提现8066元，提现成功";s:8:"add_time";i:1545627800;s:9:"actualAmt";d:8066;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:8066;s:6:"acctNo";s:13:"1013000853601";s:3:"nid";s:20:"18122413036856647996";}s:9:"payonline";a:9:{s:3:"uid";s:3:"222";s:3:"nid";s:20:"18122413036856647996";s:5:"money";d:8066;s:3:"way";s:0:"";s:4:"bank";s:14:"621723****9334";s:6:"status";i:1;s:8:"add_time";i:1545627800;s:6:"remark";s:18:"中国工商银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：222-82  2018-12-24 13:11:01
+提现失败.原因交易暂不支持订单号为:18122413101991966369数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"222";s:4:"type";i:10;s:12:"affect_money";d:8066;s:13:"account_money";d:0;s:13:"collect_money";s:8:"30000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:28:"提现8066元，提现成功";s:8:"add_time";i:1545628261;s:9:"actualAmt";d:8066;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:8066;s:6:"acctNo";s:13:"1013000853601";s:3:"nid";s:20:"18122413101991966369";}s:9:"payonline";a:9:{s:3:"uid";s:3:"222";s:3:"nid";s:20:"18122413101991966369";s:5:"money";d:8066;s:3:"way";s:0:"";s:4:"bank";s:14:"621723****9334";s:6:"status";i:1;s:8:"add_time";i:1545628261;s:6:"remark";s:18:"中国工商银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：222-82  2018-12-24 13:32:45
+提现失败.原因交易暂不支持订单号为:18122413328835856393数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"222";s:4:"type";i:10;s:12:"affect_money";d:8066;s:13:"account_money";d:0;s:13:"collect_money";s:8:"30000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:28:"提现8066元，提现成功";s:8:"add_time";i:1545629565;s:9:"actualAmt";d:8066;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:8066;s:6:"acctNo";s:13:"1013000853601";s:3:"nid";s:20:"18122413328835856393";}s:9:"payonline";a:9:{s:3:"uid";s:3:"222";s:3:"nid";s:20:"18122413328835856393";s:5:"money";d:8066;s:3:"way";s:0:"";s:4:"bank";s:14:"621723****9334";s:6:"status";i:1;s:8:"add_time";i:1545629565;s:6:"remark";s:18:"中国工商银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：748-82  2018-12-24 13:53:41
+提现失败.原因交易暂不支持订单号为:18122413538555760765数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:189000;}s:3:"log";a:14:{s:3:"uid";s:3:"748";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:189000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1545630821;s:9:"actualAmt";d:199000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:199000;s:6:"acctNo";s:13:"1013001102801";s:3:"nid";s:20:"18122413538555760765";}s:9:"payonline";a:9:{s:3:"uid";s:3:"748";s:3:"nid";s:20:"18122413538555760765";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1545630821;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：222-82  2018-12-24 14:00:18
+提现失败.原因交易暂不支持订单号为:18122414009174478498数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"222";s:4:"type";i:10;s:12:"affect_money";d:8066;s:13:"account_money";d:0;s:13:"collect_money";s:8:"30000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:28:"提现8066元，提现成功";s:8:"add_time";i:1545631218;s:9:"actualAmt";d:8066;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:8066;s:6:"acctNo";s:13:"1013000853601";s:3:"nid";s:20:"18122414009174478498";}s:9:"payonline";a:9:{s:3:"uid";s:3:"222";s:3:"nid";s:20:"18122414009174478498";s:5:"money";d:8066;s:3:"way";s:0:"";s:4:"bank";s:14:"621723****9334";s:6:"status";i:1;s:8:"add_time";i:1545631218;s:6:"remark";s:18:"中国工商银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：222-82  2018-12-24 14:01:58
+提现失败.原因交易暂不支持订单号为:18122414010399897576数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"222";s:4:"type";i:10;s:12:"affect_money";d:8066;s:13:"account_money";d:0;s:13:"collect_money";s:8:"30000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:28:"提现8066元，提现成功";s:8:"add_time";i:1545631318;s:9:"actualAmt";d:8066;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:8066;s:6:"acctNo";s:13:"1013000853601";s:3:"nid";s:20:"18122414010399897576";}s:9:"payonline";a:9:{s:3:"uid";s:3:"222";s:3:"nid";s:20:"18122414010399897576";s:5:"money";d:8066;s:3:"way";s:0:"";s:4:"bank";s:14:"621723****9334";s:6:"status";i:1;s:8:"add_time";i:1545631318;s:6:"remark";s:18:"中国工商银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：20-80  2018-12-24 14:23:04
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122414220095133427
+message：30-80  2018-12-25 11:19:28
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122511194783197349
+message：633-82  2018-12-25 11:41:01
+提现失败.原因交易暂不支持订单号为:18122511409591228699数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"633";s:4:"type";i:10;s:12:"affect_money";d:190000;s:13:"account_money";d:0;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现190000元，提现成功";s:8:"add_time";i:1545709261;s:9:"actualAmt";d:190000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:190000;s:6:"acctNo";s:13:"1013001050801";s:3:"nid";s:20:"18122511409591228699";}s:9:"payonline";a:9:{s:3:"uid";s:3:"633";s:3:"nid";s:20:"18122511409591228699";s:5:"money";d:190000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1545709261;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：633-82  2018-12-25 11:42:09
+提现失败.原因交易暂不支持订单号为:18122511422876025510数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:90000;}s:3:"log";a:14:{s:3:"uid";s:3:"633";s:4:"type";i:10;s:12:"affect_money";d:50000;s:13:"account_money";d:90000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现50000元，提现成功";s:8:"add_time";i:1545709329;s:9:"actualAmt";d:140000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:140000;s:6:"acctNo";s:13:"1013001050801";s:3:"nid";s:20:"18122511422876025510";}s:9:"payonline";a:9:{s:3:"uid";s:3:"633";s:3:"nid";s:20:"18122511422876025510";s:5:"money";d:50000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1545709329;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：633-82  2018-12-25 11:47:06
+提现失败.原因交易暂不支持订单号为:18122511469967719723数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:130000;}s:3:"log";a:14:{s:3:"uid";s:3:"633";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:130000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1545709626;s:9:"actualAmt";d:140000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:140000;s:6:"acctNo";s:13:"1013001050801";s:3:"nid";s:20:"18122511469967719723";}s:9:"payonline";a:9:{s:3:"uid";s:3:"633";s:3:"nid";s:20:"18122511469967719723";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1545709626;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：20-80  2018-12-26 10:18:58
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122610182335858543
+message：30-80  2018-12-26 11:16:19
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122611150860992350
+message：137-80  2018-12-26 11:18:30
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122611175738943898
+message：20-80  2018-12-26 11:28:19
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122611278269263478
+message：137-80  2018-12-26 13:01:52
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122613011271913869
+message：137-80  2018-12-26 13:15:07
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122613147251085056
+message：30-80  2018-12-27 11:15:32
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122711123534964317
+message：30-80  2018-12-27 11:17:01
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122711163231681887
+message：30-80  2018-12-27 12:02:11
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122712018812476090
+message：137-80  2018-12-27 19:55:48
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122719557336086512
+message：137-80  2018-12-28 10:20:16
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122810192441969734
+message：783-82  2018-12-28 13:39:17
+提现失败.原因交易暂不支持订单号为:18122813396646932902数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:20000;}s:3:"log";a:14:{s:3:"uid";s:3:"783";s:4:"type";i:10;s:12:"affect_money";d:190000;s:13:"account_money";d:20000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现190000元，提现成功";s:8:"add_time";i:1545975557;s:9:"actualAmt";d:210000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:210000;s:6:"acctNo";s:13:"1013001189901";s:3:"nid";s:20:"18122813396646932902";}s:9:"payonline";a:9:{s:3:"uid";s:3:"783";s:3:"nid";s:20:"18122813396646932902";s:5:"money";d:190000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1545975557;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：783-82  2018-12-28 13:41:17
+提现失败.原因交易暂不支持订单号为:18122813417121140198数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:10000;}s:3:"log";a:14:{s:3:"uid";s:3:"783";s:4:"type";i:10;s:12:"affect_money";d:50000;s:13:"account_money";d:10000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现50000元，提现成功";s:8:"add_time";i:1545975677;s:9:"actualAmt";d:60000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:60000;s:6:"acctNo";s:13:"1013001189901";s:3:"nid";s:20:"18122813417121140198";}s:9:"payonline";a:9:{s:3:"uid";s:3:"783";s:3:"nid";s:20:"18122813417121140198";s:5:"money";d:50000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1545975677;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：783-82  2018-12-28 13:42:11
+提现失败.原因交易暂不支持订单号为:18122813424550533154数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:20000;}s:3:"log";a:14:{s:3:"uid";s:3:"783";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:20000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1545975731;s:9:"actualAmt";d:30000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:30000;s:6:"acctNo";s:13:"1013001189901";s:3:"nid";s:20:"18122813424550533154";}s:9:"payonline";a:9:{s:3:"uid";s:3:"783";s:3:"nid";s:20:"18122813424550533154";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1545975731;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：137-80  2018-12-28 16:21:58
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122816212838107387
+message：137-80  2018-12-29 09:18:25
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122909181654742432
+message：20-80  2018-12-29 11:24:05
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122911239823313414
+message：137-80  2018-12-29 11:26:31
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122911259417337194
+message：30-80  2018-12-29 11:44:33
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122911442298752713
+message：137-80  2018-12-29 17:20:57
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18122917208472701752
+message：137-80  2018-12-30 06:14:55
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18123006148120131556
+message：137-80  2018-12-30 09:47:43
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18123009473428358925
+message：20-80  2018-12-30 11:12:08
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18123011117301734770
+message：34-80  2018-12-30 11:16:48
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18123011162008833344
+message：137-80  2018-12-30 11:41:20
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18123011419778274612
+message：20-80  2018-12-31 10:27:21
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18123110261339939355
+message：20-80  2018-12-31 10:32:04
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18123110317418865526
+message：137-80  2018-12-31 11:14:57
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18123111142534898465
+message：137-80  2018-12-31 12:19:20
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18123112196137938333
+message：137-80  2018-12-31 12:59:43
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18123112592514908250
+message：137-80  2018-12-31 13:13:15
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18123113129386901792
+message：137-80  2018-12-31 13:44:04
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18123113434038132852
+message：137-80  2018-12-31 15:41:56
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18123115419200615484
+message：137-80  2018-12-31 16:03:45
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18123116038852960731
+message：137-80  2018-12-31 16:25:50
+请检查账户表(members_money),如有问题，请手动处理.订单号为:18123116259663594849
+message：30-80  2019-01-01 18:53:31
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19010118535940555456
+message：30-80  2019-01-01 19:27:57
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19010119275667431739
+message：805-82  2019-01-01 22:00:56
+提现失败.原因交易暂不支持订单号为:19010122003035162512数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:249000;}s:3:"log";a:14:{s:3:"uid";s:3:"805";s:4:"type";i:10;s:12:"affect_money";d:49000;s:13:"account_money";d:249000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现49000元，提现成功";s:8:"add_time";i:1546351256;s:9:"actualAmt";d:298000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:298000;s:6:"acctNo";s:13:"1013003861601";s:3:"nid";s:20:"19010122003035162512";}s:9:"payonline";a:9:{s:3:"uid";s:3:"805";s:3:"nid";s:20:"19010122003035162512";s:5:"money";d:49000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1546351256;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：805-82  2019-01-01 22:01:29
+提现失败.原因交易暂不支持订单号为:19010122018139540075数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:258000;}s:3:"log";a:14:{s:3:"uid";s:3:"805";s:4:"type";i:10;s:12:"affect_money";d:40000;s:13:"account_money";d:258000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现40000元，提现成功";s:8:"add_time";i:1546351289;s:9:"actualAmt";d:298000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:298000;s:6:"acctNo";s:13:"1013003861601";s:3:"nid";s:20:"19010122018139540075";}s:9:"payonline";a:9:{s:3:"uid";s:3:"805";s:3:"nid";s:20:"19010122018139540075";s:5:"money";d:40000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1546351289;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：805-82  2019-01-01 22:02:27
+提现失败.原因交易暂不支持订单号为:19010122023999626781数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:268000;}s:3:"log";a:14:{s:3:"uid";s:3:"805";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:268000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1546351347;s:9:"actualAmt";d:278000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:278000;s:6:"acctNo";s:13:"1013003861601";s:3:"nid";s:20:"19010122023999626781";}s:9:"payonline";a:9:{s:3:"uid";s:3:"805";s:3:"nid";s:20:"19010122023999626781";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1546351347;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：47-82  2019-01-02 09:05:12
+提现失败.原因交易暂不支持订单号为:19010209044882826912数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:2:"47";s:4:"type";i:10;s:12:"affect_money";d:13184.32;s:13:"account_money";d:0;s:13:"collect_money";s:6:"300.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:32:"提现13184.32元，提现成功";s:8:"add_time";i:1546391112;s:9:"actualAmt";d:13184.32;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:13184.32;s:6:"acctNo";s:13:"1013000820001";s:3:"nid";s:20:"19010209044882826912";}s:9:"payonline";a:9:{s:3:"uid";s:2:"47";s:3:"nid";s:20:"19010209044882826912";s:5:"money";d:13184.32;s:3:"way";s:0:"";s:4:"bank";s:14:"621081****5615";s:6:"status";i:1;s:8:"add_time";i:1546391112;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：95-82  2019-01-02 09:18:18
+提现失败.原因交易暂不支持订单号为:19010209187964241434数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:2:"95";s:4:"type";i:10;s:12:"affect_money";d:50631.95;s:13:"account_money";d:0;s:13:"collect_money";s:9:"340500.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:32:"提现50631.95元，提现成功";s:8:"add_time";i:1546391898;s:9:"actualAmt";d:50631.95;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:50631.95;s:6:"acctNo";s:13:"1013000825101";s:3:"nid";s:20:"19010209187964241434";}s:9:"payonline";a:9:{s:3:"uid";s:2:"95";s:3:"nid";s:20:"19010209187964241434";s:5:"money";d:50631.95;s:3:"way";s:0:"";s:4:"bank";s:14:"622700****3170";s:6:"status";i:1;s:8:"add_time";i:1546391898;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：95-82  2019-01-02 09:19:01
+提现失败.原因交易暂不支持订单号为:19010209181555025102数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:1631.949999999997;}s:3:"log";a:14:{s:3:"uid";s:2:"95";s:4:"type";i:10;s:12:"affect_money";d:49000;s:13:"account_money";d:1631.949999999997;s:13:"collect_money";s:9:"340500.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现49000元，提现成功";s:8:"add_time";i:1546391941;s:9:"actualAmt";d:50631.95;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:50631.95;s:6:"acctNo";s:13:"1013000825101";s:3:"nid";s:20:"19010209181555025102";}s:9:"payonline";a:9:{s:3:"uid";s:2:"95";s:3:"nid";s:20:"19010209181555025102";s:5:"money";d:49000;s:3:"way";s:0:"";s:4:"bank";s:14:"622700****3170";s:6:"status";i:1;s:8:"add_time";i:1546391941;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：95-82  2019-01-02 09:22:13
+提现失败.原因交易暂不支持订单号为:19010209218614745582数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:1131.949999999997;}s:3:"log";a:14:{s:3:"uid";s:2:"95";s:4:"type";i:10;s:12:"affect_money";d:49500;s:13:"account_money";d:1131.949999999997;s:13:"collect_money";s:9:"340500.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现49500元，提现成功";s:8:"add_time";i:1546392133;s:9:"actualAmt";d:50631.95;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:50631.95;s:6:"acctNo";s:13:"1013000825101";s:3:"nid";s:20:"19010209218614745582";}s:9:"payonline";a:9:{s:3:"uid";s:2:"95";s:3:"nid";s:20:"19010209218614745582";s:5:"money";d:49500;s:3:"way";s:0:"";s:4:"bank";s:14:"622700****3170";s:6:"status";i:1;s:8:"add_time";i:1546392133;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：95-82  2019-01-02 09:24:11
+提现失败.原因交易暂不支持订单号为:19010209231077542587数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:2:"95";s:4:"type";i:10;s:12:"affect_money";d:50631.95;s:13:"account_money";d:0;s:13:"collect_money";s:9:"340500.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:32:"提现50631.95元，提现成功";s:8:"add_time";i:1546392251;s:9:"actualAmt";d:50631.95;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:50631.95;s:6:"acctNo";s:13:"1013000825101";s:3:"nid";s:20:"19010209231077542587";}s:9:"payonline";a:9:{s:3:"uid";s:2:"95";s:3:"nid";s:20:"19010209231077542587";s:5:"money";d:50631.95;s:3:"way";s:0:"";s:4:"bank";s:14:"622700****3170";s:6:"status";i:1;s:8:"add_time";i:1546392251;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：244-82  2019-01-02 09:58:08
+提现失败.原因交易暂不支持订单号为:19010209574136247633数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"244";s:4:"type";i:10;s:12:"affect_money";d:10055;s:13:"account_money";d:0;s:13:"collect_money";s:7:"5000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10055元，提现成功";s:8:"add_time";i:1546394288;s:9:"actualAmt";d:10055;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:10055;s:6:"acctNo";s:13:"1013000859901";s:3:"nid";s:20:"19010209574136247633";}s:9:"payonline";a:9:{s:3:"uid";s:3:"244";s:3:"nid";s:20:"19010209574136247633";s:5:"money";d:10055;s:3:"way";s:0:"";s:4:"bank";s:14:"621700****0474";s:6:"status";i:1;s:8:"add_time";i:1546394288;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：244-82  2019-01-02 09:58:28
+提现失败.原因交易暂不支持订单号为:19010209585680714673数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"244";s:4:"type";i:10;s:12:"affect_money";d:10055;s:13:"account_money";d:0;s:13:"collect_money";s:7:"5000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10055元，提现成功";s:8:"add_time";i:1546394308;s:9:"actualAmt";d:10055;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:10055;s:6:"acctNo";s:13:"1013000859901";s:3:"nid";s:20:"19010209585680714673";}s:9:"payonline";a:9:{s:3:"uid";s:3:"244";s:3:"nid";s:20:"19010209585680714673";s:5:"money";d:10055;s:3:"way";s:0:"";s:4:"bank";s:14:"621700****0474";s:6:"status";i:1;s:8:"add_time";i:1546394308;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：95-82  2019-01-02 10:24:45
+提现失败.原因交易暂不支持订单号为:19010210233448212781数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:2:"95";s:4:"type";i:10;s:12:"affect_money";d:50631.95;s:13:"account_money";d:0;s:13:"collect_money";s:9:"340500.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:32:"提现50631.95元，提现成功";s:8:"add_time";i:1546395885;s:9:"actualAmt";d:50631.95;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:50631.95;s:6:"acctNo";s:13:"1013000825101";s:3:"nid";s:20:"19010210233448212781";}s:9:"payonline";a:9:{s:3:"uid";s:2:"95";s:3:"nid";s:20:"19010210233448212781";s:5:"money";d:50631.95;s:3:"way";s:0:"";s:4:"bank";s:14:"622700****3170";s:6:"status";i:1;s:8:"add_time";i:1546395885;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：30-80  2019-01-03 10:02:35
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19010310020462407726
+message：20-80  2019-01-03 11:53:08
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19010311529058195050
+message：760-82  2019-01-04 11:13:36
+提现失败.原因交易暂不支持订单号为:19010411139902768963数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:249000;}s:3:"log";a:14:{s:3:"uid";s:3:"760";s:4:"type";i:10;s:12:"affect_money";d:150000;s:13:"account_money";d:249000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现150000元，提现成功";s:8:"add_time";i:1546571616;s:9:"actualAmt";d:399000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:399000;s:6:"acctNo";s:13:"1013001138101";s:3:"nid";s:20:"19010411139902768963";}s:9:"payonline";a:9:{s:3:"uid";s:3:"760";s:3:"nid";s:20:"19010411139902768963";s:5:"money";d:150000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1546571616;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：760-82  2019-01-04 11:14:28
+提现失败.原因交易暂不支持订单号为:19010411149151457645数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:339000;}s:3:"log";a:14:{s:3:"uid";s:3:"760";s:4:"type";i:10;s:12:"affect_money";d:60000;s:13:"account_money";d:339000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现60000元，提现成功";s:8:"add_time";i:1546571668;s:9:"actualAmt";d:399000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:399000;s:6:"acctNo";s:13:"1013001138101";s:3:"nid";s:20:"19010411149151457645";}s:9:"payonline";a:9:{s:3:"uid";s:3:"760";s:3:"nid";s:20:"19010411149151457645";s:5:"money";d:60000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1546571668;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：760-82  2019-01-04 11:15:13
+提现失败.原因交易暂不支持订单号为:19010411155318414709数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:389000;}s:3:"log";a:14:{s:3:"uid";s:3:"760";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:389000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1546571713;s:9:"actualAmt";d:399000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:399000;s:6:"acctNo";s:13:"1013001138101";s:3:"nid";s:20:"19010411155318414709";}s:9:"payonline";a:9:{s:3:"uid";s:3:"760";s:3:"nid";s:20:"19010411155318414709";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1546571713;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：137-80  2019-01-04 13:28:20
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19010413273461574002
+message：770-82  2019-01-04 13:48:21
+提现失败.原因交易暂不支持订单号为:19010413473076725208数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"770";s:4:"type";i:10;s:12:"affect_money";d:288;s:13:"account_money";d:0;s:13:"collect_money";s:8:"20000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:27:"提现288元，提现成功";s:8:"add_time";i:1546580901;s:9:"actualAmt";d:288;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:288;s:6:"acctNo";s:13:"1013001151001";s:3:"nid";s:20:"19010413473076725208";}s:9:"payonline";a:9:{s:3:"uid";s:3:"770";s:3:"nid";s:20:"19010413473076725208";s:5:"money";d:288;s:3:"way";s:0:"";s:4:"bank";s:14:"621792****6804";s:6:"status";i:1;s:8:"add_time";i:1546580901;s:6:"remark";s:12:"浦发银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：770-82  2019-01-04 13:50:13
+提现失败.原因交易暂不支持订单号为:19010413505845387455数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:88;}s:3:"log";a:14:{s:3:"uid";s:3:"770";s:4:"type";i:10;s:12:"affect_money";d:200;s:13:"account_money";d:88;s:13:"collect_money";s:8:"20000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:27:"提现200元，提现成功";s:8:"add_time";i:1546581013;s:9:"actualAmt";d:288;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:288;s:6:"acctNo";s:13:"1013001151001";s:3:"nid";s:20:"19010413505845387455";}s:9:"payonline";a:9:{s:3:"uid";s:3:"770";s:3:"nid";s:20:"19010413505845387455";s:5:"money";d:200;s:3:"way";s:0:"";s:4:"bank";s:14:"621792****6804";s:6:"status";i:1;s:8:"add_time";i:1546581013;s:6:"remark";s:12:"浦发银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：119-80  2019-01-04 14:34:18
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19010414337446944098
+message：137-80  2019-01-04 14:54:22
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19010414532960839412
+message：71-80  2019-01-04 14:55:54
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19010414551326626403
+message：174-82  2019-01-04 19:17:11
+提现失败.原因账户余额不足订单号为:19010419161834773034数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"174";s:4:"type";i:10;s:12:"affect_money";d:10088.33;s:13:"account_money";d:0;s:13:"collect_money";s:8:"62000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:32:"提现10088.33元，提现成功";s:8:"add_time";i:1546600631;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"19010419161834773034";}s:9:"payonline";a:9:{s:3:"uid";s:3:"174";s:3:"nid";s:20:"19010419161834773034";s:5:"money";d:10088.33;s:3:"way";s:0:"";s:4:"bank";s:14:"621569****1625";s:6:"status";i:1;s:8:"add_time";i:1546600631;s:6:"remark";s:12:"中国银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：137-82  2019-01-04 21:34:20
+提现失败.原因账户余额不足订单号为:19010421344947944155数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"137";s:4:"type";i:10;s:12:"affect_money";d:50019.5;s:13:"account_money";d:0;s:13:"collect_money";s:10:"2941300.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:31:"提现50019.5元，提现成功";s:8:"add_time";i:1546608860;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"19010421344947944155";}s:9:"payonline";a:9:{s:3:"uid";s:3:"137";s:3:"nid";s:20:"19010421344947944155";s:5:"money";d:50019.5;s:3:"way";s:0:"";s:4:"bank";s:14:"436742****1635";s:6:"status";i:1;s:8:"add_time";i:1546608860;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：162-82  2019-01-05 00:08:15
+提现失败.原因账户余额不足订单号为:19010500085047575727数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"162";s:4:"type";i:10;s:12:"affect_money";d:199.99;s:13:"account_money";d:0;s:13:"collect_money";s:8:"63926.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现199.99元，提现成功";s:8:"add_time";i:1546618095;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"19010500085047575727";}s:9:"payonline";a:9:{s:3:"uid";s:3:"162";s:3:"nid";s:20:"19010500085047575727";s:5:"money";d:199.99;s:3:"way";s:0:"";s:4:"bank";s:14:"621226****1705";s:6:"status";i:1;s:8:"add_time";i:1546618095;s:6:"remark";s:18:"中国工商银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：292-82  2019-01-05 09:12:59
+提现失败.原因账户余额不足订单号为:19010509127606301717数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"292";s:4:"type";i:10;s:12:"affect_money";d:8044;s:13:"account_money";d:0;s:13:"collect_money";s:7:"1000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:28:"提现8044元，提现成功";s:8:"add_time";i:1546650779;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"19010509127606301717";}s:9:"payonline";a:9:{s:3:"uid";s:3:"292";s:3:"nid";s:20:"19010509127606301717";s:5:"money";d:8044;s:3:"way";s:0:"";s:4:"bank";s:14:"621081****2331";s:6:"status";i:1;s:8:"add_time";i:1546650779;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：509-82  2019-01-05 09:26:09
+提现失败.原因账户余额不足订单号为:19010509255471547909数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"509";s:4:"type";i:10;s:12:"affect_money";d:5094.17;s:13:"account_money";d:0;s:13:"collect_money";s:8:"10000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:31:"提现5094.17元，提现成功";s:8:"add_time";i:1546651569;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"19010509255471547909";}s:9:"payonline";a:9:{s:3:"uid";s:3:"509";s:3:"nid";s:20:"19010509255471547909";s:5:"money";d:5094.17;s:3:"way";s:0:"";s:4:"bank";s:14:"621785****9625";s:6:"status";i:1;s:8:"add_time";i:1546651569;s:6:"remark";s:12:"中国银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：835-82  2019-01-06 13:36:20
+提现失败.原因交易暂不支持订单号为:19010613368245773815数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:306000;}s:3:"log";a:14:{s:3:"uid";s:3:"835";s:4:"type";i:10;s:12:"affect_money";d:49000;s:13:"account_money";d:306000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现49000元，提现成功";s:8:"add_time";i:1546752980;s:9:"actualAmt";d:355000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:355000;s:6:"acctNo";s:13:"1013003925501";s:3:"nid";s:20:"19010613368245773815";}s:9:"payonline";a:9:{s:3:"uid";s:3:"835";s:3:"nid";s:20:"19010613368245773815";s:5:"money";d:49000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1546752980;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：839-82  2019-01-06 22:32:10
+提现失败.原因交易暂不支持订单号为:19010622314855137057数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:423000;}s:3:"log";a:14:{s:3:"uid";s:3:"839";s:4:"type";i:10;s:12:"affect_money";d:49000;s:13:"account_money";d:423000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现49000元，提现成功";s:8:"add_time";i:1546785130;s:9:"actualAmt";d:472000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:472000;s:6:"acctNo";s:13:"1013003926401";s:3:"nid";s:20:"19010622314855137057";}s:9:"payonline";a:9:{s:3:"uid";s:3:"839";s:3:"nid";s:20:"19010622314855137057";s:5:"money";d:49000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1546785130;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：839-82  2019-01-06 22:33:56
+提现失败.原因交易暂不支持订单号为:19010622330486799304数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:422000;}s:3:"log";a:14:{s:3:"uid";s:3:"839";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:422000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1546785236;s:9:"actualAmt";d:432000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:432000;s:6:"acctNo";s:13:"1013003926401";s:3:"nid";s:20:"19010622330486799304";}s:9:"payonline";a:9:{s:3:"uid";s:3:"839";s:3:"nid";s:20:"19010622330486799304";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1546785236;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：30-80  2019-01-07 09:08:57
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19010709083817242400
+message：30-80  2019-01-07 09:22:27
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19010709229897232004
+message：27-80  2019-01-07 10:42:47
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19010710427118690829
+message：30-80  2019-01-07 13:18:41
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19010713180779194513
+message：30-80  2019-01-08 16:20:23
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19010816202424866499
+message：30-80  2019-01-10 09:20:55
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19011009201341503746
+message：119-82  2019-01-11 09:52:09
+提现失败.原因账户余额不足订单号为:19011109511973975773数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"119";s:4:"type";i:10;s:12:"affect_money";d:13764.31;s:13:"account_money";d:0;s:13:"collect_money";s:10:"3248800.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:32:"提现13764.31元，提现成功";s:8:"add_time";i:1547171529;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"19011109511973975773";}s:9:"payonline";a:9:{s:3:"uid";s:3:"119";s:3:"nid";s:20:"19011109511973975773";s:5:"money";d:13764.31;s:3:"way";s:0:"";s:4:"bank";s:14:"434062****1424";s:6:"status";i:1;s:8:"add_time";i:1547171529;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：162-82  2019-01-11 09:54:06
+提现失败.原因账户余额不足订单号为:19011109532826964646数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"162";s:4:"type";i:10;s:12:"affect_money";d:102.67;s:13:"account_money";d:0;s:13:"collect_money";s:8:"63926.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现102.67元，提现成功";s:8:"add_time";i:1547171646;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"19011109532826964646";}s:9:"payonline";a:9:{s:3:"uid";s:3:"162";s:3:"nid";s:20:"19011109532826964646";s:5:"money";d:102.67;s:3:"way";s:0:"";s:4:"bank";s:14:"621226****1705";s:6:"status";i:1;s:8:"add_time";i:1547171646;s:6:"remark";s:18:"中国工商银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：809-82  2019-01-14 10:35:53
+提现失败.原因交易暂不支持订单号为:19011410355113918663数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"809";s:4:"type";i:10;s:12:"affect_money";d:199000;s:13:"account_money";d:0;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现199000元，提现成功";s:8:"add_time";i:1547433353;s:9:"actualAmt";d:199000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:199000;s:6:"acctNo";s:13:"1013003862801";s:3:"nid";s:20:"19011410355113918663";}s:9:"payonline";a:9:{s:3:"uid";s:3:"809";s:3:"nid";s:20:"19011410355113918663";s:5:"money";d:199000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1547433353;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：809-82  2019-01-14 10:37:04
+提现失败.原因交易暂不支持订单号为:19011410364783097169数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:150000;}s:3:"log";a:14:{s:3:"uid";s:3:"809";s:4:"type";i:10;s:12:"affect_money";d:49000;s:13:"account_money";d:150000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现49000元，提现成功";s:8:"add_time";i:1547433424;s:9:"actualAmt";d:199000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:199000;s:6:"acctNo";s:13:"1013003862801";s:3:"nid";s:20:"19011410364783097169";}s:9:"payonline";a:9:{s:3:"uid";s:3:"809";s:3:"nid";s:20:"19011410364783097169";s:5:"money";d:49000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1547433424;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：809-82  2019-01-14 10:38:34
+提现失败.原因交易暂不支持订单号为:19011410386990432261数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:189000;}s:3:"log";a:14:{s:3:"uid";s:3:"809";s:4:"type";i:10;s:12:"affect_money";d:10000;s:13:"account_money";d:189000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10000元，提现成功";s:8:"add_time";i:1547433514;s:9:"actualAmt";d:199000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:199000;s:6:"acctNo";s:13:"1013003862801";s:3:"nid";s:20:"19011410386990432261";}s:9:"payonline";a:9:{s:3:"uid";s:3:"809";s:3:"nid";s:20:"19011410386990432261";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1547433514;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：30-80  2019-01-15 10:24:41
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19011510240220158657
+message：30-80  2019-01-16 09:43:46
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19011609437782067037
+message：30-80  2019-01-16 14:34:49
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19011614332458085737
+message：30-80  2019-01-16 16:48:54
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19011616489893174121
+message：30-80  2019-01-19 11:59:49
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19011911591343595951
+message：30-80  2019-01-21 12:29:01
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19012112282034893366
+message：30-80  2019-01-22 09:20:40
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19012209198828822213
+message：880-82  2019-01-31 11:25:18
+提现失败.原因银行卡号无效订单号为:19013111256189055147数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:161000;}s:3:"log";a:14:{s:3:"uid";s:3:"880";s:4:"type";i:10;s:12:"affect_money";d:49000;s:13:"account_money";d:161000;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现49000元，提现成功";s:8:"add_time";i:1548905118;s:9:"actualAmt";d:210000;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:210000;s:6:"acctNo";s:13:"1013004022801";s:3:"nid";s:20:"19013111256189055147";}s:9:"payonline";a:9:{s:3:"uid";s:3:"880";s:3:"nid";s:20:"19013111256189055147";s:5:"money";d:49000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:1;s:8:"add_time";i:1548905118;s:6:"remark";s:0:"";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：34-80  2019-02-02 10:37:10
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19020210361978944383
+message：30-80  2019-02-03 10:01:57
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19020310012855644660
+message：115-80  2019-02-06 11:22:55
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19020611221159121032
+message：46-82  2019-02-06 14:02:59
+提现失败.原因账户余额不足订单号为:19020614021423123594数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:2:"46";s:4:"type";i:10;s:12:"affect_money";d:20379.17;s:13:"account_money";d:0;s:13:"collect_money";s:9:"700000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:32:"提现20379.17元，提现成功";s:8:"add_time";i:1549432979;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"19020614021423123594";}s:9:"payonline";a:9:{s:3:"uid";s:2:"46";s:3:"nid";s:20:"19020614021423123594";s:5:"money";d:20379.17;s:3:"way";s:0:"";s:4:"bank";s:14:"621462****9375";s:6:"status";i:1;s:8:"add_time";i:1549432979;s:6:"remark";s:12:"广发银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：  2019-02-06 17:32:06
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-02-06 17:32:32
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-02-06 17:32:43
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-02-06 17:32:51
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-02-06 17:33:15
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-02-06 17:33:55
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-02-06 17:34:06
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-02-06 18:15:00
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-02-06 18:15:08
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-02-06 18:33:46
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-02-06 18:34:13
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-02-06 18:47:19
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-02-06 18:47:29
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-02-06 18:53:01
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-02-06 19:08:39
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-02-06 19:29:24
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-02-06 19:29:55
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-02-06 19:30:18
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-02-06 19:46:50
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-02-07 17:28:20
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-02-07 17:28:25
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-02-07 17:28:30
+请求异步接口出错 /paytest_model[keyEnc]
+message：101-80  2019-02-08 09:29:30
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19020809286715824459
+message：30-80  2019-02-08 09:53:12
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19020809525055412782
+message：30-80  2019-02-08 09:54:12
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19020809533868595427
+message：  2019-02-09 09:28:36
+请求异步接口出错 /paytest_model[keyEnc]
+message：30-80  2019-02-09 09:33:57
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19020909334611506045
+message：30-80  2019-02-09 09:35:10
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19020909348410306345
+message：30-80  2019-02-10 00:13:51
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19021000135423181324
+message：101-80  2019-02-10 08:10:29
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19021008109777404487
+message：  2019-02-10 10:23:03
+请求异步接口出错 /paytest_model[keyEnc]
+message：63-82  2019-02-10 11:12:19
+提现失败.原因账户余额不足订单号为:19021011128510556612数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:2:"63";s:4:"type";i:10;s:12:"affect_money";d:119537.93;s:13:"account_money";d:0;s:13:"collect_money";s:11:"14050930.00";s:12:"freeze_money";s:8:"20000.00";s:4:"info";s:33:"提现119537.93元，提现成功";s:8:"add_time";i:1549768339;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"19021011128510556612";}s:9:"payonline";a:9:{s:3:"uid";s:2:"63";s:3:"nid";s:20:"19021011128510556612";s:5:"money";d:119537.93;s:3:"way";s:0:"";s:4:"bank";s:14:"622700****9906";s:6:"status";i:1;s:8:"add_time";i:1549768339;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：63-82  2019-02-10 11:12:40
+提现失败.原因账户余额不足订单号为:19021011123938323824数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:9537.929999999993;}s:3:"log";a:14:{s:3:"uid";s:2:"63";s:4:"type";i:10;s:12:"affect_money";d:110000;s:13:"account_money";d:9537.929999999993;s:13:"collect_money";s:11:"14050930.00";s:12:"freeze_money";s:8:"20000.00";s:4:"info";s:30:"提现110000元，提现成功";s:8:"add_time";i:1549768360;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"19021011123938323824";}s:9:"payonline";a:9:{s:3:"uid";s:2:"63";s:3:"nid";s:20:"19021011123938323824";s:5:"money";d:110000;s:3:"way";s:0:"";s:4:"bank";s:14:"622700****9906";s:6:"status";i:1;s:8:"add_time";i:1549768360;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：221-82  2019-02-10 11:15:48
+提现失败.原因账户余额不足订单号为:19021011153536320589数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"221";s:4:"type";i:10;s:12:"affect_money";d:20164.44;s:13:"account_money";d:0;s:13:"collect_money";s:9:"760000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:32:"提现20164.44元，提现成功";s:8:"add_time";i:1549768548;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"19021011153536320589";}s:9:"payonline";a:9:{s:3:"uid";s:3:"221";s:3:"nid";s:20:"19021011153536320589";s:5:"money";d:20164.44;s:3:"way";s:0:"";s:4:"bank";s:14:"436742****2305";s:6:"status";i:1;s:8:"add_time";i:1549768548;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：221-82  2019-02-10 11:39:58
+提现失败.原因账户余额不足订单号为:19021011395479365496数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"221";s:4:"type";i:10;s:12:"affect_money";d:20164.44;s:13:"account_money";d:0;s:13:"collect_money";s:9:"760000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:32:"提现20164.44元，提现成功";s:8:"add_time";i:1549769998;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"19021011395479365496";}s:9:"payonline";a:9:{s:3:"uid";s:3:"221";s:3:"nid";s:20:"19021011395479365496";s:5:"money";d:20164.44;s:3:"way";s:0:"";s:4:"bank";s:14:"436742****2305";s:6:"status";i:1;s:8:"add_time";i:1549769998;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：  2019-02-11 09:12:35
+请求异步接口出错 /paytest_model[keyEnc]
+message：34-80  2019-02-11 13:48:32
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19021113470593947432
+message：  2019-02-12 17:48:00
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-02-12 17:48:04
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-02-12 17:48:14
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-02-12 17:48:17
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-02-12 17:48:39
+请求异步接口出错 /paytest_model[keyEnc]
+message：57-80  2019-02-14 10:12:34
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19021410129915851849
+message：556-80  2019-02-14 11:28:48
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19021411280992357495
+message：30-80  2019-02-15 09:53:03
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19021509521727997338
+message：63-82  2019-02-18 09:43:07
+提现失败.原因交易暂不支持订单号为:19021809423809330395数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0.5199999999967986;}s:3:"log";a:14:{s:3:"uid";s:2:"63";s:4:"type";i:10;s:12:"affect_money";d:41262;s:13:"account_money";d:0.5199999999967986;s:13:"collect_money";s:11:"13024400.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现41262元，提现成功";s:8:"add_time";i:1550454187;s:9:"actualAmt";d:41262.52;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:41262.52;s:6:"acctNo";s:13:"1013000822101";s:3:"nid";s:20:"19021809423809330395";}s:9:"payonline";a:9:{s:3:"uid";s:2:"63";s:3:"nid";s:20:"19021809423809330395";s:5:"money";d:41262;s:3:"way";s:0:"";s:4:"bank";s:14:"622700****9906";s:6:"status";i:1;s:8:"add_time";i:1550454187;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：63-82  2019-02-18 09:43:44
+提现失败.原因交易暂不支持订单号为:19021809432088966537数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0.5199999999967986;}s:3:"log";a:14:{s:3:"uid";s:2:"63";s:4:"type";i:10;s:12:"affect_money";d:41262;s:13:"account_money";d:0.5199999999967986;s:13:"collect_money";s:11:"13024400.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现41262元，提现成功";s:8:"add_time";i:1550454224;s:9:"actualAmt";d:41262.52;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:41262.52;s:6:"acctNo";s:13:"1013000822101";s:3:"nid";s:20:"19021809432088966537";}s:9:"payonline";a:9:{s:3:"uid";s:2:"63";s:3:"nid";s:20:"19021809432088966537";s:5:"money";d:41262;s:3:"way";s:0:"";s:4:"bank";s:14:"622700****9906";s:6:"status";i:1;s:8:"add_time";i:1550454224;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：  2019-02-18 17:09:18
+13803712322-485328jzh
+message：  2019-02-18 17:09:26
+18221776540-8889
+message：  2019-02-18 17:09:34
+15221341326-1859
+message：  2019-02-18 17:10:21
+17621539611-9771
+message：  2019-02-18 17:11:09
+17621539611-li1083
+message：  2019-02-18 17:11:40
+17621539611-5762
+message：556-82  2019-02-20 08:54:15
+提现失败.原因账户余额不足订单号为:19022008541999147483数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"556";s:4:"type";i:10;s:12:"affect_money";d:5127.5;s:13:"account_money";d:0;s:13:"collect_money";s:7:"5000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现5127.5元，提现成功";s:8:"add_time";i:1550624055;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"19022008541999147483";}s:9:"payonline";a:9:{s:3:"uid";s:3:"556";s:3:"nid";s:20:"19022008541999147483";s:5:"money";d:5127.5;s:3:"way";s:0:"";s:4:"bank";s:14:"622908****9410";s:6:"status";i:1;s:8:"add_time";i:1550624055;s:6:"remark";s:12:"兴业银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：149-82  2019-03-05 12:03:33
+提现失败.原因账户余额不足订单号为:19030512022668131240数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:4.440000000000509;}s:3:"log";a:14:{s:3:"uid";s:3:"149";s:4:"type";i:10;s:12:"affect_money";d:10360;s:13:"account_money";d:4.440000000000509;s:13:"collect_money";s:9:"110000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现10360元，提现成功";s:8:"add_time";i:1551758613;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"19030512022668131240";}s:9:"payonline";a:9:{s:3:"uid";s:3:"149";s:3:"nid";s:20:"19030512022668131240";s:5:"money";d:10360;s:3:"way";s:0:"";s:4:"bank";s:14:"621700****7813";s:6:"status";i:1;s:8:"add_time";i:1551758613;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：101-80  2019-03-07 10:30:44
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19030710306781572567
+message：30-80  2019-03-07 13:45:26
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19030713455735321118
+message：51-82  2019-03-07 14:15:53
+提现失败.原因账户余额不足订单号为:19030714157931821428数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:-38820;}s:3:"log";a:14:{s:3:"uid";s:2:"51";s:4:"type";i:10;s:12:"affect_money";d:39320;s:13:"account_money";d:-38820;s:13:"collect_money";s:10:"1469900.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现39320元，提现成功";s:8:"add_time";i:1551939353;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"19030714157931821428";}s:9:"payonline";a:9:{s:3:"uid";s:2:"51";s:3:"nid";s:20:"19030714157931821428";s:5:"money";d:39320;s:3:"way";s:0:"";s:4:"bank";s:14:"621700****2494";s:6:"status";i:1;s:8:"add_time";i:1551939353;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：34-80  2019-03-12 11:27:53
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19031211277586095648
+message：131-82  2019-03-15 10:40:21
+提现失败.原因账户余额不足订单号为:19031510407058234362数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:3:"131";s:4:"type";i:10;s:12:"affect_money";d:20364.44;s:13:"account_money";d:0;s:13:"collect_money";s:9:"607000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:32:"提现20364.44元，提现成功";s:8:"add_time";i:1552617621;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"19031510407058234362";}s:9:"payonline";a:9:{s:3:"uid";s:3:"131";s:3:"nid";s:20:"19031510407058234362";s:5:"money";d:20364.44;s:3:"way";s:0:"";s:4:"bank";s:14:"622700****0823";s:6:"status";i:1;s:8:"add_time";i:1552617621;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：36-82  2019-03-19 09:39:14
+提现失败.原因第三方调用RpcException异常订单号为:19031909382930817684数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0.6499999999941792;}s:3:"log";a:14:{s:3:"uid";s:2:"36";s:4:"type";i:10;s:12:"affect_money";d:141280;s:13:"account_money";d:0.6499999999941792;s:13:"collect_money";s:10:"3644640.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现141280元，提现成功";s:8:"add_time";i:1552959554;s:9:"actualAmt";d:141280.65;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:141280.65;s:6:"acctNo";s:13:"1013000819001";s:3:"nid";s:20:"19031909382930817684";}s:9:"payonline";a:9:{s:3:"uid";s:2:"36";s:3:"nid";s:20:"19031909382930817684";s:5:"money";d:141280;s:3:"way";s:0:"";s:4:"bank";s:14:"436742****4070";s:6:"status";i:1;s:8:"add_time";i:1552959554;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：26-82  2019-03-20 09:34:15
+提现失败.原因账户余额不足订单号为:19032009343603543686数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:2:"26";s:4:"type";i:10;s:12:"affect_money";d:181480;s:13:"account_money";d:0;s:13:"collect_money";s:10:"1730500.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现181480元，提现成功";s:8:"add_time";i:1553045655;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"19032009343603543686";}s:9:"payonline";a:9:{s:3:"uid";s:2:"26";s:3:"nid";s:20:"19032009343603543686";s:5:"money";d:181480;s:3:"way";s:0:"";s:4:"bank";s:14:"622700****6962";s:6:"status";i:1;s:8:"add_time";i:1553045655;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：221-82  2019-03-22 09:28:55
+提现失败.原因第三方调用RpcException异常订单号为:19032209283192344011数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:670.1099999999997;}s:3:"log";a:14:{s:3:"uid";s:3:"221";s:4:"type";i:10;s:12:"affect_money";d:4371;s:13:"account_money";d:670.1099999999997;s:13:"collect_money";s:9:"595500.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:28:"提现4371元，提现成功";s:8:"add_time";i:1553218135;s:9:"actualAmt";d:5041.11;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:5041.11;s:6:"acctNo";s:13:"1013000853101";s:3:"nid";s:20:"19032209283192344011";}s:9:"payonline";a:9:{s:3:"uid";s:3:"221";s:3:"nid";s:20:"19032209283192344011";s:5:"money";d:4371;s:3:"way";s:0:"";s:4:"bank";s:14:"436742****2305";s:6:"status";i:1;s:8:"add_time";i:1553218135;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：30-80  2019-03-23 16:46:57
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19032316461371486733
+message：1064-82  2019-03-24 09:39:14
+提现失败.原因支付密码错误订单号为:19032409387050074174数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:4:"1064";s:4:"type";i:10;s:12:"affect_money";d:20110;s:13:"account_money";d:0;s:13:"collect_money";s:8:"50000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现20110元，提现成功";s:8:"add_time";i:1553391554;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"19032409387050074174";}s:9:"payonline";a:9:{s:3:"uid";s:4:"1064";s:3:"nid";s:20:"19032409387050074174";s:5:"money";d:20110;s:3:"way";s:0:"";s:4:"bank";s:14:"622202****4120";s:6:"status";i:1;s:8:"add_time";i:1553391554;s:6:"remark";s:18:"中国工商银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：87-82  2019-03-27 09:42:56
+提现失败.原因账户余额不足订单号为:19032709425189291066数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:411.1100000000006;}s:3:"log";a:14:{s:3:"uid";s:2:"87";s:4:"type";i:10;s:12:"affect_money";d:50000;s:13:"account_money";d:411.1100000000006;s:13:"collect_money";s:10:"1257500.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"提现50000元，提现成功";s:8:"add_time";i:1553650976;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"19032709425189291066";}s:9:"payonline";a:9:{s:3:"uid";s:2:"87";s:3:"nid";s:20:"19032709425189291066";s:5:"money";d:50000;s:3:"way";s:0:"";s:4:"bank";s:14:"622280****3169";s:6:"status";i:1;s:8:"add_time";i:1553650976;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：1098-82  2019-03-27 17:25:11
+提现失败.原因支付密码错误订单号为:19032717243468321495数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:4:"1098";s:4:"type";i:10;s:12:"affect_money";d:1013.5;s:13:"account_money";d:0;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现1013.5元，提现成功";s:8:"add_time";i:1553678711;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"19032717243468321495";}s:9:"payonline";a:9:{s:3:"uid";s:4:"1098";s:3:"nid";s:20:"19032717243468321495";s:5:"money";d:1013.5;s:3:"way";s:0:"";s:4:"bank";s:14:"621558****9953";s:6:"status";i:1;s:8:"add_time";i:1553678711;s:6:"remark";s:18:"中国工商银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：34-80  2019-03-30 12:32:49
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19033012324054328459
+message：4-82  2019-04-04 19:36:38
+提现失败.原因支付密码错误订单号为:19040419357300650011数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0.6499999999941792;}s:3:"log";a:14:{s:3:"uid";s:1:"4";s:4:"type";i:10;s:12:"affect_money";d:219396;s:13:"account_money";d:0.6499999999941792;s:13:"collect_money";s:8:"70000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:30:"提现219396元，提现成功";s:8:"add_time";i:1554377798;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"19040419357300650011";}s:9:"payonline";a:9:{s:3:"uid";s:1:"4";s:3:"nid";s:20:"19040419357300650011";s:5:"money";d:219396;s:3:"way";s:0:"";s:4:"bank";s:14:"620522****2898";s:6:"status";i:1;s:8:"add_time";i:1554377798;s:6:"remark";s:12:"上海银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：30-80  2019-04-06 15:32:58
+请检查账户表(members_money),如有问题，请手动处理.订单号为:19040615325102773776
+message：86-82  2019-04-07 09:28:57
+提现失败.原因交易暂不支持订单号为:19040709282068903229数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0;}s:3:"log";a:14:{s:3:"uid";s:2:"86";s:4:"type";i:10;s:12:"affect_money";d:50414.44;s:13:"account_money";d:0;s:13:"collect_money";s:10:"1765500.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:32:"提现50414.44元，提现成功";s:8:"add_time";i:1554600537;s:9:"actualAmt";d:50414.44;s:10:"pledgedAmt";d:0;s:9:"preLicAmt";d:0;s:8:"totalAmt";d:50414.44;s:6:"acctNo";s:13:"1013000825001";s:3:"nid";s:20:"19040709282068903229";}s:9:"payonline";a:9:{s:3:"uid";s:2:"86";s:3:"nid";s:20:"19040709282068903229";s:5:"money";d:50414.44;s:3:"way";s:0:"";s:4:"bank";s:14:"622700****7582";s:6:"status";i:1;s:8:"add_time";i:1554600537;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：1483-4  2019-04-17 23:32:00
+a:3:{s:3:"log";a:9:{s:3:"uid";s:4:"1483";s:4:"type";i:1;s:12:"affect_money";i:0;s:13:"account_money";N;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"充值20000元，操作失败";s:8:"add_time";i:1555515120;s:3:"nid";s:20:"p-mer-20190417224416";}s:9:"payonline";a:9:{s:3:"uid";s:4:"1483";s:3:"nid";s:20:"p-mer-20190417224416";s:5:"money";d:20000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:0;s:8:"add_time";i:1555515120;s:6:"remark";s:12:"工商银行";s:4:"type";i:1;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：162-4  2019-04-18 11:17:01
+a:3:{s:3:"log";a:9:{s:3:"uid";s:3:"162";s:4:"type";i:1;s:12:"affect_money";i:0;s:13:"account_money";N;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:27:"充值100元，操作失败";s:8:"add_time";i:1555557421;s:3:"nid";s:20:"p-mer-20190418102751";}s:9:"payonline";a:9:{s:3:"uid";s:3:"162";s:3:"nid";s:20:"p-mer-20190418102751";s:5:"money";d:100;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:0;s:8:"add_time";i:1555557421;s:6:"remark";s:12:"工商银行";s:4:"type";i:1;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：36-4  2019-04-18 11:22:00
+a:3:{s:3:"log";a:9:{s:3:"uid";s:2:"36";s:4:"type";i:1;s:12:"affect_money";i:0;s:13:"account_money";N;s:13:"collect_money";s:9:"425640.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"充值13000元，操作失败";s:8:"add_time";i:1555557720;s:3:"nid";s:20:"p-mer-20190418103213";}s:9:"payonline";a:9:{s:3:"uid";s:2:"36";s:3:"nid";s:20:"p-mer-20190418103213";s:5:"money";d:13000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:0;s:8:"add_time";i:1555557720;s:6:"remark";s:12:"工商银行";s:4:"type";i:1;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：50-4  2019-04-18 11:22:00
+a:3:{s:3:"log";a:9:{s:3:"uid";s:2:"50";s:4:"type";i:1;s:12:"affect_money";i:0;s:13:"account_money";N;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:27:"充值100元，操作失败";s:8:"add_time";i:1555557720;s:3:"nid";s:20:"p-mer-20190418103003";}s:9:"payonline";a:9:{s:3:"uid";s:2:"50";s:3:"nid";s:20:"p-mer-20190418103003";s:5:"money";d:100;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:0;s:8:"add_time";i:1555557720;s:6:"remark";s:12:"光大银行";s:4:"type";i:1;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：70-4  2019-04-19 10:42:00
+a:3:{s:3:"log";a:9:{s:3:"uid";s:2:"70";s:4:"type";i:1;s:12:"affect_money";i:0;s:13:"account_money";N;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"充值10000元，操作失败";s:8:"add_time";i:1555641720;s:3:"nid";s:20:"p-mer-20190419095406";}s:9:"payonline";a:9:{s:3:"uid";s:2:"70";s:3:"nid";s:20:"p-mer-20190419095406";s:5:"money";d:10000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:0;s:8:"add_time";i:1555641720;s:6:"remark";s:12:"工商银行";s:4:"type";i:1;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：240-4  2019-04-20 18:07:01
+a:3:{s:3:"log";a:9:{s:3:"uid";s:3:"240";s:4:"type";i:1;s:12:"affect_money";i:0;s:13:"account_money";N;s:13:"collect_money";s:8:"35000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"充值50000元，操作失败";s:8:"add_time";i:1555754821;s:3:"nid";s:20:"p-mer-20190420171852";}s:9:"payonline";a:9:{s:3:"uid";s:3:"240";s:3:"nid";s:20:"p-mer-20190420171852";s:5:"money";d:50000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:0;s:8:"add_time";i:1555754821;s:6:"remark";s:12:"工商银行";s:4:"type";i:1;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：428-4  2019-04-21 13:22:00
+a:3:{s:3:"log";a:9:{s:3:"uid";s:3:"428";s:4:"type";i:1;s:12:"affect_money";i:0;s:13:"account_money";N;s:13:"collect_money";s:8:"20000.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:29:"充值20000元，操作失败";s:8:"add_time";i:1555824120;s:3:"nid";s:20:"p-mer-20190421123023";}s:9:"payonline";a:9:{s:3:"uid";s:3:"428";s:3:"nid";s:20:"p-mer-20190421123023";s:5:"money";d:20000;s:3:"way";s:0:"";s:4:"bank";s:0:"";s:6:"status";i:0;s:8:"add_time";i:1555824120;s:6:"remark";s:12:"工商银行";s:4:"type";i:1;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：1322-82  2019-04-24 08:59:41
+提现失败.原因支付密码错误订单号为:19042408587147729839数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:0.5499999999999972;}s:3:"log";a:14:{s:3:"uid";s:4:"1322";s:4:"type";i:10;s:12:"affect_money";d:100;s:13:"account_money";d:0.5499999999999972;s:13:"collect_money";s:4:"0.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:27:"提现100元，提现成功";s:8:"add_time";i:1556067581;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"19042408587147729839";}s:9:"payonline";a:9:{s:3:"uid";s:4:"1322";s:3:"nid";s:20:"19042408587147729839";s:5:"money";d:100;s:3:"way";s:0:"";s:4:"bank";s:14:"621785****1288";s:6:"status";i:1;s:8:"add_time";i:1556067581;s:6:"remark";s:12:"中国银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：115-82  2019-05-12 09:10:31
+提现失败.原因账户余额不足订单号为:19051209107493728330数据a:4:{s:5:"money";a:1:{s:13:"account_money";d:30000.000000000004;}s:3:"log";a:14:{s:3:"uid";s:3:"115";s:4:"type";i:10;s:12:"affect_money";d:30496.66;s:13:"account_money";d:30000.000000000004;s:13:"collect_money";s:9:"140500.00";s:12:"freeze_money";s:4:"0.00";s:4:"info";s:32:"提现30496.66元，提现成功";s:8:"add_time";i:1557623431;s:9:"actualAmt";N;s:10:"pledgedAmt";N;s:9:"preLicAmt";N;s:8:"totalAmt";N;s:6:"acctNo";N;s:3:"nid";s:20:"19051209107493728330";}s:9:"payonline";a:9:{s:3:"uid";s:3:"115";s:3:"nid";s:20:"19051209107493728330";s:5:"money";d:30496.66;s:3:"way";s:0:"";s:4:"bank";s:14:"622280****8073";s:6:"status";i:1;s:8:"add_time";i:1557623431;s:6:"remark";s:18:"中国建设银行";s:4:"type";i:2;}s:5:"water";a:1:{s:6:"status";i:1;}}
+message：  2019-05-29 23:24:46
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-05-29 23:24:54
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-05-29 23:26:07
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-05-29 23:27:21
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-05-29 23:27:24
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-05-29 23:28:05
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-05-29 23:28:08
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-05-29 23:28:11
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-05-29 23:28:13
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-05-29 23:28:37
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-05-29 23:29:08
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-05-29 23:31:01
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-05-29 23:31:04
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-05-29 23:34:40
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-05-29 23:35:24
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-05-29 23:38:50
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-05-29 23:38:53
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-05-29 23:39:16
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-05-29 23:39:19
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-05-29 23:40:18
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-05-29 23:46:06
+请求异步接口出错 /paytest_model[keyEnc]
+message：  2019-05-29 23:46:33
+请求异步接口出错 /paytest_model[keyEnc]

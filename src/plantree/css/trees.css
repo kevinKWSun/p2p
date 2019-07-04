@@ -1,0 +1,315 @@
+@charset "utf-8";
+/* CSS Document */
+html,body,div,span,h1,h2,h3,h4,h5,h6,p,pre,a,code,em,img,small,strong,sub,sup,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label{margin:0;padding:0;border:0;}
+a{color:#ff364a; text-decoration:none;outline: none;}
+a:hover{text-decoration:underline}
+a:focus {outline:none; -moz-outline:none;}
+ol,ul{list-style:none}
+table{border-collapse:collapse;border-spacing:0}
+body{height:100%; font:14px/18px "Microsoft Yahei", Tahoma, Helvetica, Arial, Verdana, "\5b8b\4f53", sans-serif; color:#51555C;}
+img{border:none}
+var{ font-style:normal}
+
+
+#tree-body{
+	background: #FFFFFF;
+}
+#tree-banner{
+	width: 1600px;
+	height: 1027px;
+	margin: 0 auto;
+}
+.tree-main{
+	width: 1600px;
+	margin: 0 auto;
+	background-image: url(../img/bg.jpg);
+}
+.tree-main-rule{
+	width: 990px;
+	height: 680px;
+	margin: 0 auto;
+
+}
+.tree-main-prize{
+	background-image: url(../img/prize.png);
+	background-repeat: no-repeat;
+	width: 990px;
+	height: 861px;
+	margin: 0 auto;
+	margin-top: 60px;
+	margin-bottom: 60px;
+	overflow:hidden;
+}
+.tree-main-prize ul{
+	display: block;
+	margin-left: 16px;
+	margin-top: 103px;
+}
+.tree-main-prize ul li{
+	display: block;
+	height: 243px;
+	width: 245px;
+	margin-right: 37px;
+	margin-left: 37px;
+	text-align: center;
+	float: left;
+}
+.tree-main-prize ul li img{
+	width: 100%;
+	margin-bottom: 10px;
+}
+.tree-main-prize ul li p{
+	font-size: 16px;
+	line-height: 25px;
+	color: #fb1434;
+	font-family: "Microsoft YaHei";
+}
+.tree-main-last{
+	clear: both;
+	height: 243px;
+	width: 245px;
+	margin: 0 auto;
+	text-align: center;
+}
+.tree-main-last p{
+	font-size: 16px;
+	line-height: 25px;
+	color: #fb1434;
+	font-family: "Microsoft YaHei";
+}
+.apple-yes-conversion{
+	background-color: #cc2a1a;
+	display: inline-block;
+	color: #FFFFFF!important;
+	padding: 0 5px;
+	cursor: pointer;
+}
+.apple-no-conversion{
+	background-color: #939393;
+	display: inline-block;
+	color: #FFFFFF!important;
+	padding: 0 5px;
+}
+	
+.trees-fruit{
+	height: 644px;
+	width: 100%;
+	background-image: url(../img/bottom.png);
+	background-repeat: no-repeat;
+	background-position: bottom;
+	position: relative;
+}
+.dog-banner{
+	position: absolute;
+	bottom: 0;
+	left: 1002px;
+	
+	width: 224px;
+	height: 220px;
+	background-image: url(../img/dog-banner.png);
+	background-repeat: no-repeat;
+}
+/*篮子*/
+#tree-basket{
+	position: absolute;
+	bottom: 0;
+	left: 413px;
+	width: 240px;
+	height: 180px;
+	
+}
+.basket-0-0{
+	background-image: url(../img/basket-0.png);
+	background-repeat: no-repeat;
+}
+.basket-0-5-red{
+	background-image: url(../img/basket-0-5.png);
+	background-repeat: no-repeat;
+}
+.basket-0-5-golden{
+	background-image: url(../img/basket-0-5-golden.png);
+	background-repeat: no-repeat;
+}
+.basket-5-10-red{
+	background-image: url(../img/basket-5-10-red.png);
+	background-repeat: no-repeat;
+}
+.basket-5-10-golden{
+	background-image: url(../img/basket-5-10-golden.png);
+	background-repeat: no-repeat;
+}
+.basket-10-red{
+	background-image: url(../img/basket-10-red.png);
+	background-repeat: no-repeat;
+}
+.basket-10-golden{
+	background-image: url(../img/basket-10-golden.png);
+	background-repeat: no-repeat;
+}
+/*篮子状态*/
+.trees-fruit-1{
+	background-image: url(../img/tree-one.png);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	height: 100%;
+}
+.trees-fruit-2{
+	background-image: url(../img/tree-two.png);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	height: 100%;
+}
+.trees-fruit-3{
+	background-image: url(../img/tree-three.png);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	height: 100%;
+}
+.trees-fruit-4{
+	background-image: url(../img/tree-four.png);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	height: 100%;
+	width: 580px;
+	margin: 0 auto;
+	position: relative;
+}
+.trees-fruit-4 ul li{
+	position: absolute;
+	display: block;
+	width:54px;
+	height: 61px;	
+	background-repeat: no-repeat;
+}
+.apple-golden{
+	background-image: url(../img/golden-apple.png);
+}
+.apple-red{
+	background-image: url(../img/red-apple.png);
+}
+.trees-fruit-li-1{
+	left: 259px;
+	top: 30px;
+}
+.trees-fruit-li-2{
+	left: 178px;
+	top: 90px;
+}
+.trees-fruit-li-3{
+	left: 227px;
+	top: 136px;
+}
+.trees-fruit-li-4{
+	left: 290px;
+	top: 112px;
+}
+.trees-fruit-li-5{
+	left: 362px;
+	top: 109px;
+}
+.trees-fruit-li-6{
+	left: 115px;
+	top: 153px;
+}
+.trees-fruit-li-7{
+	left: 200px;
+	top:200px;
+}
+.trees-fruit-li-8{
+	left:265px;
+	top: 235px;
+}
+.trees-fruit-li-9{
+	left: 330px;
+	top: 199px;
+}
+.trees-fruit-li-10{
+	left: 437px;
+	top: 191px;
+}
+.trees-fruit-li-11{
+	left: 51px;
+	top: 217px;
+}
+.trees-fruit-li-12{
+	left: 151px;
+	top: 278px;
+}
+.trees-fruit-li-13{
+	left: 286px;
+	top: 305px;
+}
+.trees-fruit-li-14{
+	left: 390px;
+	top: 288px;
+}
+.trees-fruit-li-15{
+	left: 482px;
+	top: 286px;
+}
+.trees-fruit-li-16{
+	left: 58px;
+	top: 322px;
+}
+.trees-fruit-li-17{
+	left: 124px;
+	top: 378px;
+}
+.trees-fruit-li-18{
+	left:217px;
+	top: 349px;
+}
+.trees-fruit-li-19{
+	left: 354px;
+	top: 363px;
+}
+.trees-fruit-li-20{
+	left: 462px;
+	top: 380px;
+}
+
+/*登录*/
+.tree-main-operate{
+	text-align: center;
+	margin-bottom: 60px;
+}
+.tree-main-operate p{
+	margin-bottom: 15px;
+	font-size: 15px;
+}
+.tree-operate-take{
+	height: 90px;
+	width: 260px;
+	display: block;
+	margin: 0 auto;
+	border: 1px solid #ff364a;
+	padding: 8px;
+	overflow: hidden;	
+	border-radius: 8px;
+}
+.tree-operate-take-p{
+	background: #ff364a;
+	height: 100%;
+	width: 100%;
+	display: block;
+	border-radius: 7px;
+}
+.tree-operate-take-p:hover{
+	background: #ff1d1d;
+}
+.tree-operate-take-p a{
+	height: 100%;
+	width: 100%;
+	display: block;
+	color: #FFFFFF;
+	font-size: 18px;
+	line-height: 90px;
+	text-indent: 80px;
+	background-image: url(../img/liwu.png);
+	background-repeat: no-repeat;
+	background-position-x: 50px;
+	background-position-y: center;
+}
+
+.u-flyers{display: block;width: 54px;height:64px;position: fixed;z-index: 999;}
+

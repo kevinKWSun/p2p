@@ -1,0 +1,428 @@
+@charset "utf-8";
+/* CSS Document */
+html,body,div,span,h1,h2,h3,h4,h5,h6,p,pre,a,code,em,img,small,strong,sub,sup,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}
+a{color:#ff364a; text-decoration:none;outline: none;}
+a:hover{text-decoration:underline}
+a:focus {outline:none; -moz-outline:none;}
+ol,ul{list-style:none}
+table{border-collapse:collapse;border-spacing:0}
+body{height:100%; font:14px/18px "Microsoft Yahei", Tahoma, Helvetica, Arial, Verdana, "\5b8b\4f53", sans-serif; color:#51555C;}
+img{border:none}
+var{ font-style:normal}
+
+
+
+.reversal-main{
+	background-image: url(../img/bg.png);
+	width: 1600px;
+	height: 3583px;
+	background-color: #dee7ce;
+	background-size: 1600px 3583px;
+	margin:  0 auto;
+	background-repeat: no-repeat;
+	overflow: hidden
+	
+}
+.reversal-rule{
+	width: 1350px;
+	height: 1081px;
+	margin: 0 auto;
+	margin-top: 610px;
+}
+.reversal-card{
+	background-image: url(../img/card.png);
+	width: 839px;
+	height: 634px;
+	background-repeat: no-repeat;
+	background-size: 839px 396px;
+	margin: 0 auto;
+	margin-top: 155px;	
+}
+	
+.reversal-card ul {
+	display: block;
+	width: 680px;
+	height: 300px;
+
+	margin: 0 auto;
+	padding-top: 100px;
+
+}
+.reversal-card ul li{
+	display: block;
+	width: 80px;
+	height: 94px;
+	overflow: hidden;
+/* 	background-image: url(../img/card-reversal.png);
+	background-repeat: no-repeat;
+	background-size: 80px 94px;
+	border-radius: 10px; */
+	float: left;
+	margin-left: 45px;
+	margin-right: 45px;
+	margin-bottom: 55px;
+}
+
+.login-reversal{
+	width: 356px;
+	height: 194px;
+	margin: 0 auto;
+	margin-top: 47px;
+}
+.login-reversal h2{
+	display: block;
+
+	height: 22px;
+	font-family: PingFang-SC-Regular;
+	font-size: 20px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 12px;
+	letter-spacing: 0px;
+	color: #2283cd;
+	text-align: center;
+
+}
+.login-reversal h3 {
+	display: block;
+	width: 288px;
+	height: 113px;
+	border: solid #2283CD 1px;
+	border-radius: 10px;
+	background-color: #FFFFFF;	
+	margin: 0 auto;
+	margin-top: 18px;
+	
+}
+.login-reversal h3 span{
+	display: block;
+	background-image: url(../img/liwu.png);
+	background-repeat: no-repeat;
+	background-position: 40px center;	
+	width: 274px;
+	height: 99px;
+	margin: 0 auto;
+	margin-top: 7px;
+	background-color: #2283CD;
+	border-radius: 10px;
+	font-family: PingFang-SC-Regular;
+	font-size: 24px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 99px;
+	text-indent: 120px;
+	letter-spacing: 3px;
+	color: #ffffff;
+}
+.login-reversal h4{
+	display: block;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 25px;
+	font-size: 20px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 12px;
+	letter-spacing: 0px;
+	color: #2283cd;
+}
+
+.reversal-table-container {
+	heigth: 402px;
+}
+.reversal-table{
+	width: 843px;
+	height: 425px;
+	margin: 0 auto;
+	margin-top: 470px;
+}
+
+.reversal-table-div{
+	height: 134px;
+}
+
+.reversal-table-ul-one{
+	width: 530px;
+	height: 134px;
+	display: block;
+	float: left;
+	text-align: center;
+}
+.reversal-table-ul-one li{
+	display: inline-block;	
+	width: 63px;
+	height: 49px;
+	margin: 28px 20px;
+	margin-bottom: 0;	
+	font-size: 17.2px;
+	line-height: 25.5px;
+	letter-spacing: 2.1px;
+	color: #0e3d61;
+}
+.reversal-table-ul-one li img{
+	width: 100%;
+}
+
+.reversal-table-ul-two{
+	width: 256px;
+	height: 134px;
+	display: block;
+	float: left;
+}
+.reversal-table-ul-three{
+	width: 530px;
+	height: 130px;
+	display: block;
+	float: left;
+	text-align: center;
+}
+.reversal-table-ul-three li{
+	display: inline-block;	
+	width: 43px;
+	height: 51px;
+	margin: 30px 15px;
+	margin-bottom: 0;	
+	font-size: 17.2px;
+	line-height: 25.5px;
+	letter-spacing: 2.1px;
+	color: #0e3d61;
+}
+.reversal-table-ul-three li img{
+	width: 100%;
+}
+
+.reversal-table-ul-four{
+	width: 256px;
+	height: 130px;
+	display: block;
+	float: left;
+}
+
+.reversal-table-ul-six{
+	width: 530px;
+	height: 130px;
+	display: block;
+	float: left;
+	text-align: center;
+}
+.reversal-table-ul-six li{
+	display: inline-block;	
+	width: 43px;
+	height: 51px;
+	margin: 30px 20px;
+	margin-bottom: 0;	
+	font-size: 17.2px;
+	line-height: 25.5px;
+	letter-spacing: 2.1px;
+	color: #0e3d61;
+}
+.reversal-table-ul-six li img{
+	width: 100%;
+}
+.reversal-table-ul-seven{
+	width: 256px;
+	height: 130px;
+	display: block;
+	float: left;
+}
+
+.reversal-table-a-1{
+	display: inline-block;
+	height: 134px;
+	width: 55px;
+	text-align: center;
+	line-height:134px ;
+	font-size: 18px;
+	letter-spacing: 3.6px;
+	color: #0e3d61;
+	font-weight: bold;	
+}
+
+
+.reversal-table-a{
+	display:inline-block;
+	height: 130px;
+	width: 55px;
+	text-align: center;
+	line-height:130px ;
+	font-size: 18px;
+	letter-spacing: 3.6px;
+	color: #0e3d61;
+	font-weight: bold;	
+
+}
+.reversal-table-ul-four,.reversal-table-ul-seven,.reversal-table-ul-two{
+	text-align: center;	
+}
+.reversal-table-ul-four li,.reversal-table-ul-seven li ,.reversal-table-ul-two li{
+	display: inline-block;	
+	width: 57px;
+	height: 51px;
+	margin: 30px 35px;
+	margin-bottom: 0;	
+	font-size: 17.2px;
+	line-height: 25.5px;
+	letter-spacing: 2.1px;
+	color: #0e3d61;	
+}
+.reversal-table-ul-two li{
+	margin-top: 28px;
+}
+.reversal-table-ul-four li img,.reversal-table-ul-seven li img,.reversal-table-ul-two li img{
+	width: 100%;
+}
+
+
+
+
+
+
+/* 分页 */
+
+.container input{
+	width: 27px;
+	height: 18px;
+	background-color: #ffffff;
+	border: solid 1px #b8b8b8;
+}
+.container span{
+	
+	margin-left: 10px;
+	width: 40px;
+	height: 19px;
+	font-family: MicrosoftYaHei;
+	font-size: 16px;
+	font-weight: normal;
+	font-stretch: normal;
+	letter-spacing: 3.6px;
+	color: #0e3d61;
+}
+.container { 
+  padding: 0.2rem;
+  margin: 1rem auto;
+  border-radius: 0.2rem;
+  counter-reset: pagination;
+  text-align: center;
+ 
+}
+.container:after {
+  clear: both;
+  content: "";
+  display: table;
+}
+.container ul {
+  width: 100%;
+}
+
+.large {
+  width: 45rem;
+}
+
+
+.pagination ul, li {
+  list-style: none;
+  display: inline;
+  padding-left: 0px;
+}
+
+.pagination li {
+  counter-increment: pagination;
+}
+.pagination li:hover a {
+  color: #fdfdfd;
+  background-color: #1d1f20;
+
+}
+.pagination li.active a {
+  color: #fdfdfd;
+  background-color: #1d1f20;
+
+}
+
+/* .pagination li:first-child a:after { */
+  /* content: "<"; */
+/* } */
+
+/* .pagination li:nth-child(2) { */
+  /* counter-reset: pagination; */
+/* } */
+
+/* .pagination li:last-child a:after { */
+  /* content: ">"; */
+/* } */
+.pagination li a {
+  border-radius: 0.2rem;
+  color: #7d7d7d;
+  text-decoration: none;
+  text-transform: uppercase;
+  display: inline-block;
+  text-align: center;
+  padding: 0.2rem 0.3rem;
+  cursor: pointer;
+}
+.pagination li i {
+  border-radius: 0.2rem;
+  color: #7d7d7d;
+  text-decoration: none;
+  text-transform: uppercase;
+  display: inline-block;
+  text-align: center;
+  padding: 0.2rem 0.3rem;
+}
+.large li a {
+  display: inline-block;
+}
+
+.large li:last-child a {
+  display: inline-block;
+  margin-right: 5px;
+}
+/* .pagination li a:after { */
+  /* content: " " counter(pagination) " "; */
+/* } */
+
+/* .large li a { */
+  /* display: none; */
+/* } */
+
+/* .large li:first-child a:after { */
+  /* content: "<"; */
+/* } */
+/* .large li:nth-child(2) a { */
+  /* display: inline-block; */
+/* } */
+/* .large li:nth-child(3) a { */
+  /* display: inline-block; */
+/* } */
+/* .large li:nth-child(4) a { */
+  /* display: inline-block; */
+/* } */
+/* .large li:nth-child(5) a { */
+  /* display: inline-block; */
+/* } */
+/* .large li:nth-child(6) a { */
+  /* display: inline-block; */
+/* } */
+/* .large li:nth-child(7) a { */
+  /* display: inline-block; */
+/* } */
+/* .large li:nth-child(8) a { */
+  /* display: inline-block; */
+/* } */
+/* .large li:last-child a { */
+  /* display: inline-block; */
+/* } */
+/* .large li:last-child a:after { */
+  /* content: ">"; */
+/* } */
+/* .large li:nth-last-child(2) a { */
+  /* display: inline-block; */
+/* } */
+/* .large li:nth-last-child(3) { */
+  /* display: inline-block; */
+/* } */
+/* .large li:nth-last-child(3):after { */
+  /* padding: 0 1rem; */
+  /* content: "..."; */
+/* } */
+

@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>伽满优-福袋</title>
+		<link rel="stylesheet" href="css/trees.css" type="text/css" />
+		<link rel="stylesheet" href="css/simpleAlert.css">
+
+		<link href="https://www.jiamanu.com/images/new/index.css" rel="stylesheet" type="text/css" />
+		<script src="https://www.jiamanu.com/images/jquery-1.7.2.min.js"></script>
+		<script src="js/simpleAlert.js"></script>
+	</head>
+	<style>
+		body{
+			background: #f5f5f5;
+		}
+		.header  a{
+			color: #000000;
+		}
+	</style>
+	<body>
+		<div class="header">
+			<div class="top">
+				<div class="sn-menu">
+					<a class="menu-hd" href="/account.html"><i class="icon"></i>我的账户<b class="icon"></b></a>
+					<div class="menu-bd">
+						<div class="menu-bd-panel">
+							<a href="/suny/out.html">退出</a>
+						</div>
+					</div>
+
+				</div>
+				<a href="/"><img src="https://www.jiamanu.com/images/logo.jpg" class="logo" /></a>
+				<ul>
+					<li><a href="/">首页</a></li>
+					<li><a href="/invest.html">我要出借</a></li>
+					<li><a href="/message/novice.html">帮助中心</a></li>
+					<li><a href="/message.html">信息披露</a></li>
+					<li><a href="/suny/borrowbefor.html">我要借款</a></li>
+					<li><a href="/message.html">关于伽满优</a></li>
+				</ul>
+			</div>
+		</div>
+
+		<div id="tree-body">
+			<div id="tree-banner">
+				<img src="img/banner.jpg">
+			</div>
+			<div class="tree-main">
+				<div class="tree-main-rule">
+					<img src="img/rule.png">
+				</div>
+
+
+
+				<div class="tree-main-prize">
+					<ul>
+						<li>
+							<img src="img/tree-007.png" />
+							<p>现金红包128元</p>
+							<p>数量<var>0</var>个</p>
+							<p class="apple-no-conversion">苹果1个兑换</p>
+						</li>
+						<li>
+							<img src="img/tree-006.png" />
+							<p>现金红包300元</p>
+							<p>数量<var>0</var>个</p>
+							<p class="apple-no-conversion">苹果2个兑换</p>
+						</li>
+						<li>
+							<img src="img/tree-005.png" />
+							<p>现金红包900元</p>
+							<p>数量<var>0</var>个</p>
+							<p class="apple-yes-conversion">苹果5个兑换</p>
+						</li>
+						<li>
+							<img src="img/tree-004.png" />
+							<p>现金红包2100元</p>
+							<p>数量<var>0</var>个</p>
+							<p class="apple-no-conversion">苹果10个兑换</p>
+						</li>
+						<li>
+							<img src="img/tree-003.png" />
+							<p>现金红包3700元</p>
+							<p>数量<var>0</var>个</p>
+							<p class="apple-no-conversion">苹果15个兑换</p>
+						</li>
+						<li>
+							<img src="img/tree-002.png" />
+							<p>现金红包5800元</p>
+							<p>数量<var>0</var>个</p>
+							<p class="apple-no-conversion">苹果20个兑换</p>
+						</li>
+					</ul>
+					<div class="tree-main-last">
+						<img src="img/tree-001.png" />
+						<p>现金红包8800元</p>
+						<p>数量<var>0</var>个</p>
+						<p class="apple-no-conversion">苹果0个兑换</p>
+					</div>
+				</div>
+				<div class="tree-main-operate">
+					<p class="">
+						您尚未登录，<a href="">去登录</a>
+					</p>
+					<p class="tree-operate-take">
+						<span class="tree-operate-take-p">
+							<a href="">开始浇水</a>
+						</span>
+					</p>
+					<p class="">
+						您当前拥有的红苹果（<var>0</var>）金苹果（<var>0</var>）| <strong><a href="">刷新试试</a></strong>
+					</p>
+				</div>
+				<div class="trees-fruit">
+					<div class="trees-fruit-1" style="display: none;">
+					</div>
+					<div class="trees-fruit-4">
+						<ul>
+							<li class="trees-fruit-li-1 apple-red"></li>
+							<li class="trees-fruit-li-2 apple-red"></li>
+							<li class="trees-fruit-li-3 apple-golden"></li>
+							<li class="trees-fruit-li-4 apple-red"></li>
+							<li class="trees-fruit-li-5 apple-red"></li>
+							<li class="trees-fruit-li-6 apple-red"></li>
+							<li class="trees-fruit-li-7 apple-red"></li>
+							<li class="trees-fruit-li-8 apple-red"></li>
+							<li class="trees-fruit-li-9 apple-red"></li>
+							<li class="trees-fruit-li-10 apple-red"></li>
+							<li class="trees-fruit-li-11 apple-red"></li>
+							<li class="trees-fruit-li-12 apple-red"></li>
+							<li class="trees-fruit-li-13 apple-red"></li>
+							<li class="trees-fruit-li-14 apple-red"></li>
+							<li class="trees-fruit-li-15 apple-red"></li>
+							<li class="trees-fruit-li-16 apple-red"></li>
+							<li class="trees-fruit-li-17 apple-red"></li>
+							<li class="trees-fruit-li-18 apple-red"></li>
+							<li class="trees-fruit-li-19 apple-red"></li>
+							<li class="trees-fruit-li-20 apple-red"></li>
+						</ul>
+					</div>
+					<div class="basket-10-golden" id="tree-basket"></div>
+					<div class="dog-banner"></div>
+				</div>
+			</div>
+		</div>
+
+
+
+
+		<div class="foot">
+			<div class="foot1">
+				<div class="foot1_c">
+					<div class="foot_nav">
+						<h3> <img src="/images/new/img/hone.png" class="icon1" style="margin-right:5px;"> 关于伽满优</h3>
+						<ul>
+							<li><a href="/message.html">关于我们</a></li>
+							<li><a href="/message/structure.html">组织信息</a></li>
+							<li><a href="/message/newest_notice.html">最新公告</a></li>
+						</ul>
+					</div>
+					<div class="foot_nav">
+						<h3><img src="/images/new/img/an.png" class="icon1">平台信息</h3>
+						<ul>
+							<li><a href="/message/payments.html">回款公告</a></li>
+							<li><a href="/message/process.html">公司历程</a></li>
+						</ul>
+					</div>
+					<div class="foot_nav">
+						<h3><img src="/images/new/img/wen.png" class="icon1">帮助中心</h3>
+						<ul>
+							<li><a href="/message/novice.html">常见问题</a></li>
+							<li><a href="/message/contact.html">联系我们</a></li>
+						</ul>
+					</div>
+					<div class="lines"></div>
+					<div class="foot_nav">
+						<img src="/images/new/img/wx2.jpg" width="88" height="88" class='img' />
+						<h5 style="margin-top:5px; margin-left:10px;">IOS App下载</h5>
+					</div>
+					<div class="foot_nav">
+						<img src="/images/new/img/wx1.jpg" width="88" height="88" class='img' />
+						<h5 style="margin-top:5px; margin-left:10px;">安卓App下载</h5>
+					</div>
+					<div class="lines"></div>
+					<div class="foot_nav">
+						<h3>联系方式</h3>
+						<P><img src="/images/new/img/email.jpg" class="icon">邮箱：service@jiamanu.com</P>
+						<P><img src="/images/new/img/tel.jpg" class="icon">电话：021-62127903（客服工作时间：09:00-18:00）</P>
+						<P><img src="/images/new/img/addr.jpg" class="icon">上海市南京西路1468号 中欣大厦2101</P>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="foot2">
+			<div class="foot_bq">
+				<div class="tz_tb">
+					<ul class="companyinfo">
+						<li><a target="_blank" href="http://www.miibeian.gov.cn">
+								&nbsp;沪ICP备17038560号-1 　</a> 版权所有：上海童汇信息科技有限公司</li>
+						<li>温馨提示：市场有风险，出借需谨慎。网络出借不等于存款，请合理选择出借项目，最终收益以实际为准</li>
+					</ul>
+					<ul class="companylogos">
+						<li><a href="http://shuidi.cn/company_extreme_72484988042801684312807540045555.html" target='_blank'>
+								<img src="/images/aaa.png" />
+							</a></li>
+						<li><a href="http://shuidi.cn/company_extreme_72484988042801684312807540045555.html" target='_blank'>
+								<img src="/images/lixin.png" />
+							</a></li>
+						<li><a id="_pingansec_bottomimagesmall_p2p" href="http://si.trustutn.org/info?sn=842170927000609685434&certType=4">
+								<img src="http://v.trustutn.org/images/cert/p2p_official_small.jpg" style="height: 47px;" />
+							</a></li>
+						<li><a key="59e59a8f0c90967a9453b596" logo_size="124x47" logo_type="business" href="https://v.pinpaibao.com.cn/cert/site/?site=www.jiamanu.com&at=business"><img
+								 src="/images/hy_124x47.png" /></a></li>
+						<li><a id='___szfw_logo___' href='https://credit.szfw.org/CX20171106036688891688.html' target='_blank'><img src='http://icon.szfw.org/cert.png'
+								 border='0' style="height: 47px;" /></a></li>
+						<script type='text/javascript'>
+							(function() {
+								document.getElementById('___szfw_logo___').oncontextmenu = function() {
+									return false;
+								}
+							})();
+						</script>
+						<li><a id="kx_verify"></a></li>
+						<script type="text/javascript">
+							(function() {
+								var _kxs = document.createElement('script');
+								_kxs.id = 'kx_script';
+								_kxs.async = true;
+								_kxs.setAttribute('cid', 'kx_verify');
+								_kxs.src = ('https:' == document.location.protocol ? 'https://ss.knet.cn' : 'http://rr.knet.cn') +
+									'/static/js/icon3.js?sn=e17110631010669455yk5z000000&tp=icon3';
+								_kxs.setAttribute('size', 0);
+								var _kx = document.getElementById('kx_verify');
+								_kx.parentNode.insertBefore(_kxs, _kx);
+							})();
+						</script>
+
+					</ul>
+				</div>
+			</div>
+		</div>
+
+
+
+
+
+
+
+
+	</body>
+	<script>
+		$(function() {
+			//单次单选弹框
+			$(".lucky-main-home li img").click(function() {
+				var onlyChoseAlert = simpleAlert({
+					"content": "58",
+					"buttons": {
+						"确定": function() {
+							onlyChoseAlert.close();
+						}
+					}
+				})
+			})
+
+		})
+	</script>
+</html>

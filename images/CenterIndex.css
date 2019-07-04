@@ -1,0 +1,272 @@
+.page{ width:100%; margin-top:36px; text-align:center; font-family:"微软雅黑"; font-size:14px; color:#909090; clear:both;}
+.page a{ color:#909090; text-decoration:none;padding: 6px 12px;display: block;}
+.SelectIndexStyle{padding:6px 12px; color:#fff;margin-left:5px;text-decoration:none;background-color: #fc8503;border:1px solid #fc8503;}
+.UnSelectIndexStyle{color:#909090;margin-left:5px;text-decoration:none;border:1px solid #eee;display: inline-block;}
+.UnSelectIndexStyle:hover { border:1px solid #fc8503; margin-left:5px;cursor:pointer;}
+.UnSelectIndexStyle:hover a{ color:#fc8503;}
+.PreviewNextStyle{padding:6px 12px; color:#333;margin-left:5px;text-decoration:none;border:1px solid #b2e05d;}
+.PageEndStyle{padding:6px 12px; color:#ffffe0;margin-left:5px;text-decoration:none;border:1px solid #E5E4E2;}
+.MouseOverStyle{padding:6px 12px; color:#ffffe0;margin-left:5px;text-decoration:none; border:1px solid #BDE389;background-color:#f6ffeb;}
+.MouseOutStyle{padding:6px 12px; color:#333;margin-left:5px;text-decoration:none;border:1px solid #b2e05d;}
+.InputTextBoxStyle{font-size:10px;width:20px;BACKGROUND-COLOR:#fff6e9;border:1px solid #ff9900; text-decoration:none;}
+.SubmitButtonStyle{font-size:10px;border: 1px solid #b2e05d;width:40px; text-decoration:none; background-color: #fff6e9;border: 1px solid #ff9900;}
+.PageInfoStyle{font-size:12px;line-height:22px;color:#666666;text-decoration:none;}
+
+
+
+/*银行卡*/
+.card-item {
+	padding: 20px;
+	display: block;
+	-webkit-transition: all 0.1s ease-in;
+	transition: all 0.1s ease-in;
+	
+	width: 307px;
+	border-radius: 15px;
+	border: 1px solid #F2F2F2;
+
+	background: #fff;
+	font-size: 14px;
+	color: #7984a2;
+	float: left;
+}
+
+.card-item:hover {
+	border-color: #CF0E29;
+	color: #999;
+}
+
+.card-item.selected {
+	border-color: #CF0E29;
+	color: #999;
+}
+
+.card-item .card-num {
+	text-indent: 1em;
+	margin: 18px 0 0 0;
+	font-size: 18px;
+	text-align: center;
+}
+
+.card-item .mt55 {
+	margin-top: 56px;
+}
+.bank-logo {
+	background-image: url("../images/bank-logo.png");
+	display: block;
+	height: 40px;
+	overflow: hidden;
+	width: 200px;
+	margin-left: 20px;
+}
+
+.al-right {text-align: right;font-size: 14px;}
+.xiugai{ border: none;color: #CF0E29;text-align: center;background: none;font-family: "微软雅黑";font-size: 14px;
+	cursor: pointer;}
+#bank-0318 {/*渤海银行*/
+    background-position: 0px -91px;
+    height: 30px;
+}
+#bank-0102{/*工商银行*/
+    background-position: 0px -223px;
+    height: 38px;
+}
+#bank-0303{/*光大银行*/
+    background-position: 0px -269px;
+    height: 36px;
+}
+#bank-0315{/*恒丰银行*/
+    background-position: 0px -450px;
+    height: 38px;
+}
+#bank-0304{/*华夏银行*/
+    background-position: 0px -496px;
+    height: 37px;
+}
+#bank-0105{/*建设银行*/
+    background-position: 0px -540px;
+    height: 39px;
+}
+#bank-0301{/*交通银行*/
+    background-position: 0px -631px;
+    height: 36px;
+}
+#bank-0305{/*民生银行*/
+    background-position: 0px -726px;
+    height: 31px;
+}
+#bank-0103{/*农业银行*/
+    background-position: 0px -858px;
+    height: 39px;
+}
+#bank-0307{/*平安银行*/
+    background-position: 0px -905px;
+    height: 37px;
+}
+#bank-0309{/*兴业银行*/
+    background-position: 0px -1225px;
+    height: 31px;
+}
+#bank-0308{/*招商银行*/
+    background-position: 0px -1267px;
+    height: 39px;
+}
+#bank-0104{/*中国银行*/
+    background-position: 0px -1357px;
+    height: 41px;
+}
+#bank-0002{/*邮政储蓄*/
+    background-position: 0px -1408px;
+    height: 31px;
+}
+#bank-0514{/*中信银行*/
+    background-position: 0px -1450px;
+    height: 37px;
+}
+#bank-0319{/*徽商银行*/
+    background-position: 0px -1677px;
+    height: 36px;
+}
+#bank-0316{/*浙商银行*/
+    background-position: 0px -1722px;
+    height: 39px;
+}
+#bank-0302{/*中信银行*/
+    background-position: 0px -1450px;
+    height: 37px;
+}
+#bank-0306{/*广发银行*/
+    background-position: 0px -316px;
+    height: 32px;
+}
+#bank-0310{/*浦发银行*/
+    background-position: 0px -952px;
+    height: 32px;
+}
+#bank-0403{/*邮政储蓄*/
+    background-position: 0px -1407px;
+    height: 31px;
+}
+
+
+/*........充值.........*/
+.chongzhi{width:959px; margin:0 auto;}
+.chongzhi h4{font-family:"微软雅黑"; font-weight:bold; font-size:16px; line-height:30px;}
+.chongzhi h5{font-family:"微软雅黑";  font-size:14px; line-height:24px; margin-bottom:10px;}
+.chongzhi ul li{ float:left; height:38px; width:150px; margin-right:20px; margin-bottom:20px;}
+.chongzhi ul li input{ float:left; margin-top:10px;}
+.chongzhi ul li img{ float:right;}
+.chongzhi h5 a{ color:#b2b2b2; font-size:12px; margin-left:25px;}
+.chongzhi table{ margin-left:50px; margin-top:20px;}
+.chongzhi td{ padding:10px 0; font-family:"微软雅黑"; font-size:14px;}
+.cz1{ border:none; width:106px; height:42px;cursor: pointer; background-color: #d50214;color: #fff;font-size: 16px; margin-right: 20px;border-radius: 4px;}
+
+.jfdh{ background:url(../images/jfdh.png); border:none; width:106px; height:42px;cursor: pointer; }
+
+.cz2{ border:1px solid #eee; width:112px; height:32px;border-radius:2px; float:left;}
+.chongzhi td em{ float:left; margin-left:10px; line-height:30px;}
+.wx_ts{ margin-left:50px; line-height:24px; color:#909090; font-family:"微软雅黑"; margin-top:10px;}
+.xyb{ background:url(../images/xyb.png); width:142px; height:42px; border:none;cursor: pointer; }
+a.colink {
+background:#CF0E29;
+width: 98px;
+font-weight: bold;
+display: inline-block;
+line-height: 29px;
+color:#fff;
+text-align: center;border-radius: 5px;
+}
+.fontred {
+color: #bf0707;
+font-weight: bold;
+}
+.tdHeard {
+text-align: center;
+vertical-align: middle;
+background-color: #f9f9f9;
+font-size: 12px;
+font-weight: bold;
+height: 35px;
+border: 1px #ccc solid;font-size:14px;
+}
+.tdContent {
+text-align: left;
+padding-left: 15px;
+vertical-align: middle;
+width: 520px;
+height: 28px;
+color: gray;
+line-height: 28px;
+border: 1px solid #ccc;font-size:14px;
+}
+.yqm_tu p.img {
+	text-align: center;
+	margin-top: 92px;
+	margin-left: 10px;
+}
+.yqm_tu p.text {
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 24px;
+	margin-top: 40px;
+}
+.lc_tb_di
+        {
+            margin-top: 20px;
+        }
+        .lc_tb_di span.zhi
+        {
+            color: #909090;
+        }
+        .lc_tb_di table.td1 td
+        {
+            padding: 8px 0;
+            font-family: "微软雅黑";
+            font-size: 14px;
+        }
+        .lc_tb_di .td1 td input
+        {
+            border: 1px solid #eee;
+            height: 33px;
+            line-height: 33px;
+            border-radius: 2px;
+        }
+        .lc_tb_di .td1 td select
+        {
+            width: 204px;
+            border: 1px solid #eee;
+            height: 33px;
+            border-radius: 2px;
+        }
+        .lc_tb_di .td1 td input.cx
+        {
+            background: url(../images/cx.png);
+            width: 64px;
+            height: 35px;
+            border: none;
+            border-radius: 0;
+            cursor: pointer;
+        }
+        .lc_tb_di .td2
+        {
+            margin-top: 20px;
+            border-top: 1px solid #eee;
+            border-left: 1px solid #eee;
+        }
+        .lc_tb_di .td2 td
+        {
+            height: 42px;
+            border-bottom: 1px solid #eee;
+            border-right: 1px solid #eee;
+            text-align: center;
+            line-height: 42px;
+            font-family: "微软雅黑";
+        }
+        .lc_tb_di .td2 .tr
+        {
+            background: #fbf6e9;
+        }
+        .lc_tb_di .td2 .tr1
+        {
+            color: #000;
+        }

@@ -1,0 +1,126 @@
+@charset "utf-8";
+/* CSS Document */
+html,body,div,span,h1,h2,h3,h4,h5,h6,p,pre,a,code,em,img,small,strong,sub,sup,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}
+a{color:#ff364a; text-decoration:none;outline: none;}
+a:hover{text-decoration:underline}
+a:focus {outline:none; -moz-outline:none;}
+ol,ul{list-style:none}
+table{border-collapse:collapse;border-spacing:0}
+body{height:100%; font:14px/18px "Microsoft Yahei", Tahoma, Helvetica, Arial, Verdana, "\5b8b\4f53", sans-serif; color:#51555C;}
+img{border:none}
+var{ font-style:normal}
+
+
+
+#lucky-body{
+	width: 1400px;
+	min-height: 2900px;
+	margin: 0 auto;
+	background-image: url(../img/bj.gif);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+#lucky-banner{
+	width: 100%;
+}
+#lucky-banner img{
+	width: 100%;
+}
+#lucky-main{
+	width: 1224px;
+	
+	margin: 0 auto;	
+}
+.lucky-main-packet{
+	margin-top: 60px;
+	height: 264px;
+	
+}
+.lucky-main-packet ul li{
+	display: block;
+	background-image: url(../img/packet-bg.png);
+	background-repeat: no-repeat;
+	width: 164px;
+	height: 264px;
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;		
+	text-align: center;
+}
+.lucky-main-packet ul li img{
+	margin-top:60px;	
+}
+.lucky-main-packet ul li span{
+	display: block;
+	color: #fff6b5;
+	font-size: 10px;
+	margin-top: 15px;
+}
+.lucky-main-packet ul li span var{
+	font-size: 18px;	
+	margin-left: 2px;
+	
+}
+
+.lucky-main-home{
+	background-image: url(../img/lucky-bag.png);
+	background-repeat: no-repeat;
+	height: 514px;
+	width: 1224px;
+	margin-top: 60px;
+}
+.lucky-main-home ul{
+	display: inline-block;
+	margin: 145px 0 0 225px;
+}
+.lucky-main-home ul li{
+	width: 255px;
+	height: 255px;
+	display: block;
+	float: left;
+	background-image: url(../img/fu-bag-bg.png);
+}
+.lucky-main-operate{
+	text-align: center;
+}
+.lucky-main-operate p{
+	margin-bottom: 15px;
+	font-size: 15px;
+}
+.lucky-operate-take{
+	height: 90px;
+	width: 260px;
+	display: block;
+	margin: 0 auto;
+	border: 1px solid #ff364a;
+	padding: 8px;
+	overflow: hidden;	
+	border-radius: 8px;
+}
+.lucky-operate-take-p{
+	background: #ff364a;
+	height: 100%;
+	width: 100%;
+	display: block;
+	border-radius: 7px;
+}
+.lucky-operate-take-p a{
+	height: 100%;
+	width: 100%;
+	display: block;
+	color: #FFFFFF;
+	font-size: 18px;
+	line-height: 90px;
+	text-indent: 80px;
+	background-image: url(../img/liwu.png);
+	background-repeat: no-repeat;
+	background-position-x: 50px;
+	background-position-y: center;
+}
+.lucky-main-rule{
+	margin-top: 100px;
+}
+.lucky-main-home li img:hover{
+	cursor:pointer
+}

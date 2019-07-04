@@ -1,0 +1,67 @@
+a{text-decoration:none;}
+img{vertical-align:top;}
+
+.clearfix:after{content:'';display:block;clear:both;}
+.clearfix{zoom:1;}
+.clear{ clear:both;}
+a:link, a:visited, a:active {text-decoration:none; color:#333;}
+a:hover {color: #333; }
+a {cursor: pointer; }
+input {outline: none;}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+.download {
+	width: 100%;
+	min-width: 1200px;
+	height: 100%;
+	background: url(./download/downloadbg.jpg) no-repeat;
+}
+.downloadcon {
+	width: 1200px;
+	margin: 0 auto;
+	padding: 140px 0 188px 0;
+}
+.dlright {
+	width: 670px;
+	margin-top: 70px;
+	text-align: center;
+}
+.downloadcon>img {
+	margin-left: -130px;
+}
+.dl_andriod {
+	width: 167px;
+	height: 42px;
+	display: inline-block;
+	background: url(./download/andriod_dl.png) no-repeat;
+	margin: 29px 23px 0 32px;
+}
+.ipdl {
+	width: 20px;    
+	height: 100px;
+	display: inline-block;
+    margin: 0 auto;    
+    line-height: 14px;    
+    font-size: 20px;  
+    font-size: 14px;
+    color: #fff;
+}
+.dlright>div {
+	border-top: 1px #fff solid;
+	margin-top: 30px;
+	padding-top: 30px;
+	height: 100px;	
+}
+.dlright>div p {
+	font-size: 56px;
+	font-weight: normal;
+	color: #fff;
+	line-height: 100px;
+}
+.ic_dl {
+	margin: 19px 26px 0 0;
+}

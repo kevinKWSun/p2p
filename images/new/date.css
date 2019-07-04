@@ -1,0 +1,64 @@
+
+#test-n2 {
+	position: relative;
+	width: 100% !important;
+	margin-bottom: 10px;
+}
+
+#test-n2  #layui-laydate1,#test-n2  #layui-laydate1 .layui-laydate-main,#test-n2 .layui-laydate-content table{
+	width: 100%;
+}
+
+
+#test-n2 #layui-laydate1 .laydate-day-mark{ 
+		line-height: 40px!important;
+
+	}
+#test-n2 #layui-laydate1 .laydate-day-mark::after {
+		background: #ca4117!important;
+}
+
+
+
+#test-n2 #layui-laydate1 .laydate-day-mark{height: 50px!important;line-height: 50px;}
+
+#test-n2 .layui-laydate-content table tbody{
+	height:320px!important;
+}
+#test-n2 .layui-laydate-content table tbody tr{
+	height:50px!important;
+}
+.layui-laydate-content table {
+    height: 300px!important;
+}
+
+.text_box{
+	padding: 15px !important;
+	font-size: 15px;
+}
+.text_box span{
+	padding: 15px !important;
+	display: block;
+	line-height: 35px;
+	text-align: center;
+}
+
+.text_box span var{color: #D72323; font-size: 15px; margin-left: 30px;font-weight: bold;}
+
+
+#test-n3 {
+	position: relative;
+	min-height: 400px !important;
+	width: 100% !important;
+}
+
+#layui-laydate1{
+	width: 100% !important;
+}
+#test-n3  #layui-laydate1 .layui-laydate-main{
+	width:50%;
+}
+
+#test-n3  #layui-laydate1 .layui-laydate-main table{
+	width: 100% !important;
+}
